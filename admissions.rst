@@ -51,8 +51,8 @@ The typical procedure for a guardian and child joining The Setting is as follows
 #. The child begins their first session not less than one working week after the return of the Enrolment Form.
 #. The Setting produces an Initial Assessment of the child after the child has attended for two days.
 
-.. makes first contact: `Making first contact`_
-.. make a first visit: `The first visit`_
+.. _makes first contact: `Making first contact`_
+.. _make a first visit: `The first visit`_
 
 
 Making first contact
