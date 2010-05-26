@@ -41,18 +41,16 @@ Enrolment and settling in
 
 The typical procedure for a guardian and child joining The Setting is as follows:
 
-#. The guardian `makes first contact`_ with The Setting.
-#. The client, and possibly others, `make a first visit`_ to The Setting together.
-#. The Setting provides the guardian with an Enrolment Form to be completed.
-#. The guardian returns the completed Enrolment Form.
-#. The Setting checks the Enrolment Form is completed satisfactorily.
-   If it is not, it is returned for completion.
-#. The Setting provides the guardian with a Welcome Pack.
-#. The child begins their first session not less than one working week after the return of the Enrolment Form.
+#. The guardian `makes first contact`_ with The Setting
+#. The client, and possibly others, `make a first visit`_ to The Setting together
+#. The client `returns a completed Enrolment Form`_
+#. The child `begins their first session`_
 #. The Setting produces an Initial Assessment of the child after the child has attended for two days.
 
 .. _makes first contact: `Making first contact`_
 .. _make a first visit: `The first visit`_
+.. _returns a completed Enrolment Form: `Returning the Enrolment Form`_
+.. _begins their first session`_: `The first session`_
 
 
 Making first contact
@@ -72,7 +70,7 @@ For potential clients making first contact, The Setting
 In this initial conversation, the callee:
 
 #. Establishes that the guardians and client understand what The Setting provides
-#. Records, if the conversation continues to make it appropriate:
+#. Records, if the conversation continues to make it appropriate
 
   * all fields in the `Prospective Clients Book`_
   * in the Setting Diary, a date and time for `a first visit`_
@@ -81,6 +79,9 @@ In this initial conversation, the callee:
    packages a Prospectus and other relevant information,
    addresses it according to the address recorded in the `Prospective Clients Book`_,
    and places it in the Setting Outbox.
+
+.. _a first visit: `The first visit`_
+
 
 
 The first visit
@@ -98,6 +99,45 @@ The visitors will be
 * shown the equipment in the nursery
 * briefed on The Setting's approach to education, if they are unfamiliar
 
+If interest is shown,
+The Setting provides the guardian with an Enrolment Form,
+to be `returned when completed`_.
+
+.. _returned when completed: `Returning the Enrolment Form`_
+
+
+Returning the Enrolment Form
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Enrolment Form may be returned by:
+
+* hand
+* post
+
+When the Enrolment Form is returned,
+it is checked for completeness.
+Completeness requires that all external documents referenced by the client,
+such as doctors' certificates, prescriptions, or Statements,
+are enclosed with the Enrolment Form.
+
+If the Enrolment Form is incomplete,
+the client is informed that
+they must pick up the Enrolment Form, complete it and resubmit it.
+
+If the Enrolment Form is complete:
+
+* it is filed
+* the date of completion is noted in the Setting Diary.
+* the date of the child's first session is noted in the Setting Diary,
+  being not before one working week of the date of completion noted above.
+
+Procedures are then executed ensuring that
+all record-keeping is ready for the child's first session,
+and The Setting provides the guardian with a Welcome Pack.
+
+
+The first session
+^^^^^^^^^^^^^^^^^
 
 We suggest that you do not spend time with your child in the setting.
 
