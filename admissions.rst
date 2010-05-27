@@ -7,6 +7,7 @@ Admissions
 :Version: 1
 
 
+
 Policy
 ------
 
@@ -16,12 +17,15 @@ for child and guardian, and from moment of first contact to moment of last,
 will be as free of stress as is possible.
 
 
+
 Procedures
 ----------
 
 
+
 Documents
 ^^^^^^^^^
+
 
 
 Prospective Clients Book
@@ -34,6 +38,36 @@ A list of prospective clients, with the following attributes, ordered by date of
 * Address of client
 * Name of child
 * Age of child
+
+
+
+Enrolment Form
+``````````````
+
+Details
+
+
+
+Waiting List
+````````````
+
+A list of children, with the following attributes, ordered by date of `Enrolment Form`_ completion:
+
+* Name
+* Date of birth
+* Client
+
+
+Accessible information
+^^^^^^^^^^^^^^^^^^^^^^
+
+We ensure that our advertisements are accessible by all sections of the community.
+Information about our setting is produced in multiple forms when necessary:
+
+  * in written and spoken form
+  * in more than one language (and failing that, via an interpreter)
+  * in Braille, or through British Sign Language
+
 
 
 Enrolment and settling in
@@ -50,7 +84,8 @@ The typical procedure for a guardian and child joining The Setting is as follows
 .. _makes first contact: `Making first contact`_
 .. _make a first visit: `The first visit`_
 .. _returns a completed Enrolment Form: `Returning the Enrolment Form`_
-.. _begins their first session: `The first session`_
+.. _begins their first session: `The first day`_
+
 
 
 Making first contact
@@ -120,6 +155,7 @@ to be `returned when completed`_.
 .. _returned when completed: `Returning the Enrolment Form`_
 
 
+
 Returning the Enrolment Form
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -156,17 +192,45 @@ If the Enrolment Form is complete:
    (e.g., credit checks on the client).
 
 * it is filed
-* the date of completion is noted in the Setting Diary.
-* the date of the child's first session is noted in the Setting Diary,
-  being not before one working week of the date of completion noted above.
+* the date of completion is noted in the `Setting Diary`_
+* the `first session is arranged`_
 
-Procedures are then executed ensuring that
-all record-keeping is ready for the child's first session,
-and The Setting provides the guardian with a Welcome Pack.
+.. _first session is arranged: `Allocating sessions and preparing for attendance`_
 
 
-The first session
-^^^^^^^^^^^^^^^^^
+
+Allocating sessions and preparing for attendance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The requested sessions are checked against the timetable.
+
+* **If the sessions are available**,
+  `prepare for attendance`_.
+* **If the sessions are not available**,
+  the client is asked whether they wish to switch to a different pattern of sessions.
+  
+  * **If they choose to do so**, repeat.
+  * **If they choose to stick with the pattern of sessions chosen**,
+    the child is placed at the end of the `Waiting List`_
+    if they are not yet on it.
+
+
+
+Prepare for attendance
+``````````````````````
+
+When this stage is reached:
+
+* provide the guardian with a `Welcome Pack`_.
+* prepare all record-keeping for the child's first session
+* the date of the child's first session is noted in the `Setting Diary`_,
+  being not before one working week of the date of completion of the `Enrolment Form`_,
+  as will have been noted in the `Setting Diary`_.
+
+
+
+The first day
+^^^^^^^^^^^^^
 
 .. container:: explanation
    
@@ -178,48 +242,38 @@ The first session
    only makes the settling process more prolonged,
    and thus more stressful for the child.
 
-We suggest that you do not spend time with your child in the setting.
+The child's first day should be as normal as possible.
+The usual `Arrivals and Departures <arrivals-and-departures.html>`_ procedures should be followed
+(including the prompt exit of the person dropping the child off).
 
-A child who is tense or unhappy will not be able to play or learn properly, so it is important for parents/carers and staff to work together to help the child feel confident and secure in the group.
-This takes longer for some children and parents/carers should not feel worried if their child takes a while to settle.
-You must be prepared to accept that it may take some time for your child to adjust to the nursery but very few children fail to settle eventually.
-We find that staying with your child and then leaving him for short periods eases the separation process.
-Please remember, the more your child comes and experiences the activities on offer and sees you interacting with the staff, the more settled he will feel.
-To see our recommended programme to introduce your child to life at the nursery, please refer to the Settling-in Procedure in the Procedures section of this document.
-In the unlikely event that your child does not seem to settle at the nursery we will review the situation with you and discuss the options, including termination of the contract.
+During the first day:
+
+* the child should be introduced to his peers by name
 
 
-Providing information
-^^^^^^^^^^^^^^^^^^^^^
 
-* We ensure that our advertisements are accessible by all sections of the community.
-* Information about our setting is produced in multiple forms when necessary:
+Changing sessional patterns
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  * in written and spoken form
-  * in more than one language (and failing that, via an interpreter)
-  * in Braille, or through British Sign Language
+When a client requests to change the number or pattern of sessions
+that the child attends at The Setting:
+
+* If the number of sessions has decreased,
+  invoice for an *administration fee*.
+* Go through the `Waiting List`_ in ascending order of date of enrolment.
+  Contact each client,
+  performing the procedures under `Allocating sessions and preparing for attendance`_.
 
 
-Waiting list
+
+The last day
 ^^^^^^^^^^^^
 
-We arrange our waiting list in order of enrolment date.
+When a child leaves:
 
-(We arrange our waiting list in birth order.
-  In addition our policy may take into account the following:
+* Their documents are archived
+* Go to `Changing sessional patterns`_
 
- * The vicinity of the home to the setting
- * Siblings already attending the setting)
-
-(* We keep a place vacant, if this is financially viable, to accommodate an emergency admission.)
-
-
-Satisfying needs
-^^^^^^^^^^^^^^^^
-
-* We consult with families about the opening times of the setting to ensure we accommodate a broad range of family need.
-* We are flexible about attendance patterns to accommodate the needs of individual children and families.
-  This is providing these do not disrupt the pattern of continuity in the setting that provides stability for all the children.
 
 
 Termination of contract
