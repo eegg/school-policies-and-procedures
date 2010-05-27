@@ -58,12 +58,16 @@ Style
 
 A few points to bear in mind for the consistency of style in this document:
 
+* Speak to the staff member, not to the parent or any other entity.
+  The document will be learned and obeyed by members of staff, not anyone else.
 * Do not end list elements with punctuation (commas, semi-colons, *etc.*)
 * Do not end list elements with logical operators ('or', or 'and') unless necessary
 * Do not use phrases like "staff should ...", or "we will endeavour that, where possible, ...".
   Instead state the ideal: "staff will ...".
-* Use the active voice to avoid assigning duties: never "the emergency services are contacted ...";
-  always "the *Illnesses and medication Officer* will contact the emergency services ..."
+* Use the active voice to assign duties:
+
+  * **never** "the emergency services are contacted ..."
+  * **always** "the *Illnesses and medication Officer* contacts the emergency services ..."
 
 
 Phrases to avoid
