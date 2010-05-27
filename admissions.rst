@@ -126,6 +126,17 @@ they must pick up the Enrolment Form, complete it and resubmit it.
 
 If the Enrolment Form is complete:
 
+.. container:: explanation
+
+   **Why the delay before the first session?**
+
+   The Enrolment Form is a complex document.
+   It will take time to transfer data from it to other appropriate records.
+   There may be special considerations to take into account
+   for that child (e.g. medical conditions) before they begin.
+   There may be questions of legitimacy to consider before the child begins
+   (e.g., credit checks on the client).
+
 * it is filed
 * the date of completion is noted in the Setting Diary.
 * the date of the child's first session is noted in the Setting Diary,
@@ -141,6 +152,8 @@ The first session
 
 .. container:: explanation
    
+   **Why do we not recommend staying with your child?**
+    
    The child will settle quicker at nursery when
    it is made clear to her that her parents will not be present.
    Being present in the first few sessions
