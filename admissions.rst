@@ -50,7 +50,7 @@ The typical procedure for a guardian and child joining The Setting is as follows
 .. _makes first contact: `Making first contact`_
 .. _make a first visit: `The first visit`_
 .. _returns a completed Enrolment Form: `Returning the Enrolment Form`_
-.. _begins their first session`_: `The first session`_
+.. _begins their first session: `The first session`_
 
 
 Making first contact
@@ -139,9 +139,16 @@ and The Setting provides the guardian with a Welcome Pack.
 The first session
 ^^^^^^^^^^^^^^^^^
 
+.. container:: explanation
+   
+   The child will settle quicker at nursery when
+   it is made clear to her that her parents will not be present.
+   Being present in the first few sessions
+   only makes the settling process more prolonged,
+   and thus more stressful for the child.
+
 We suggest that you do not spend time with your child in the setting.
 
-Once a place has been offered, we aim to achieve this by inviting you and your child to visit the nursery prior to your child's official start date.
 This helps to familiarise your child with the nursery, the nursery staff and the other children, and provides the opportunity to give your journey a trial run.
 A child who is tense or unhappy will not be able to play or learn properly, so it is important for parents/carers and staff to work together to help the child feel confident and secure in the group.
 This takes longer for some children and parents/carers should not feel worried if their child takes a while to settle.

@@ -16,6 +16,7 @@ We will ensure that the child receives a high standard of care in order to cause
 
 We inform parents/carers of our procedures so that, if they are unavoidably delayed, they will be reassured that their children will be properly cared for.
 
+The setting closes promptly.
 
 Procedures
 ----------
@@ -49,3 +50,4 @@ Procedures
 * A full written report of the incident is recorded in the child’s file.
 * Depending on circumstances, we reserve the right to charge parents for the additional hours worked by our staff.
 * Ofsted may be informed.
+* Any guardian who is late collecting their child will have to pay for all extra time at the *Unbooked Childcare Rate*.
