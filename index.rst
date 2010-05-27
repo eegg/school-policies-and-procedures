@@ -20,7 +20,7 @@ Contents
    #. `Employment and staffing <employment-and-staffing.html>`_
    #. `Staff inductions <staff-inductions.html>`_
    #. `Student placements <student-placements.html>`_
-   #. `Making a complaint <making-a-complaint.html>`_
+   #. `Complaints <complaints.html>`_
 
 #. Operational
 
