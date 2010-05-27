@@ -45,8 +45,10 @@ Procedures
 Places are offered on the following basis:
 
 * Priority is given to:
-** those intending to use the nursery on a full-time basis.
-** parents/carers who already have one child registered at the nursery.
+
+  * those intending to use the nursery on a full-time basis.
+  * parents/carers who already have one child registered at the nursery.
+
 * Parents/carers who take up part-time places are required to provide precise information of the days when they wish to bring their child to the nursery.
 * Once a child has been allocated a place on an agreed basis, it is expected that parents/carers will adhere to these arrangements.
 * Failure to do so may result in termination of the contract.

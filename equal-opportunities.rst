@@ -482,8 +482,8 @@ Monitoring and reviewing
 See also
 --------
 
-* The `Special Educational Needs`_ policy
-* The `Illnesses and medication`_ policy
+* The *Special Educational Needs* policy
+* The *Illnesses and medication* policy
 
 
 External documents

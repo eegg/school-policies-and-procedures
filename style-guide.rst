@@ -41,8 +41,8 @@ Each of our policies is divided into the following sections, in the following or
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Policy**              | A prose section setting out the goals to achieve by setting out this policy.        |
 +-------------------------+-------------------------------------------------------------------------------------+
-| **Procedures**          | Specific, concrete instructions as to how all parties to *The Setting*              |
-|                         |(*Team Members*, *Guardians* and *Children*) should act.                             |
+| **Procedures**          | Specific, concrete instructions as to how all parties to The Setting                |
+|                         | (*Team Members*, *Guardians* and *Children*) should act.                            |
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Enforcement**         | How all parties are to be informed of the above Policies and Procedures.            |
 +-------------------------+-------------------------------------------------------------------------------------+
