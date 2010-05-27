@@ -1,19 +1,12 @@
-============
-Introduction
-============
+===========
+Terminology
+===========
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
+:Date: 2010-05-27
 :Version: 1
 
-
-This document sets out the policies and procedures of our setting.
-
-
-Terminology in this document
-----------------------------
-
-Throughout this document, if you unsure of a piece of terminology, check for it in the following table.
+Throughout this document, if you unsure of a piece of terminology, check for it in the following list.
 If there is anything else you are unsure of, please contact the nursery.
 
 Guardian
@@ -45,20 +38,8 @@ Guest
   A *Visitor* that is not a *Visiting Child Collector*.
 
 
-
-National institutions
----------------------
-
-========================================================================================  ================
-Body                                                                                      Telephone number
-========================================================================================  ================
-`National Society for the Prevention of Cruelty to Children <http://www.nspcc.org.uk/>`_  0808 800 5000
-========================================================================================  ================
-
-
-
 Policies, procedures: what's the difference?
---------------------------------------------
+````````````````````````````````````````````
 
 This document operates on a distinction between the *policy* and the *procedure*.
 A rough distinction is that a policy sets out a *goal*, and an associated set of procedures sets out *how the policy is to be accomplished*.
@@ -68,7 +49,7 @@ Or, to quote:
   A policy is a guiding principle used to set direction in an organization.
   A procedure is a series of steps to be followed as a consistent and repetitive approach to accomplish an end result.
   -- bizmanualz [1]_
-  
+
   Expressed in simple terms, policies are statements of what is required in broad terms and relate to major operational issues;
   procedures are more detailed, step by step descriptions of required actions, relating to how particular processes should be carried out.
   -- Rushcliffe Borough Council [2]_

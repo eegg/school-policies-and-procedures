@@ -1,5 +1,10 @@
+=======================
 Policies and Procedures
 =======================
+
+.. include:: common-metadata.rst
+:Date: 2010-05-27
+:Version: 1
 
 
 Contents
@@ -7,7 +12,6 @@ Contents
 
 #. Preamble
 
-   #. `Introduction <introduction.html>`_
    #. `Setting-specific information <setting-specific.html>`_
    #. `Policy management <policy-management.html>`_
    #. `Style guide <style-guide.html>`_
@@ -69,3 +73,10 @@ Contents
    #. `Equal opportunities <equal-opportunities.html>`_
    #. `Parental involvement <parental-involvement.html>`_
    #. `Partnerships with other agencies <partnerships-with-other-agencies.html>`_
+
+
+
+Introduction
+------------
+
+This document sets out policies and procedures for pre-school settings in the United Kingdom.
