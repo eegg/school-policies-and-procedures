@@ -196,3 +196,11 @@ Termination of contract
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 Such termination is at the sole discretion of the Nursery Manager.
+ 
+This may occur when: 
+ 
+* The child has reached the age limit. 
+* Failure to register for 5 days without contact or prior notification. 
+* If, despite best efforts, a child fails to settle, the contract may be terminated with immediate effect at the sole discretion of the Nursery Manager. 
+* Guardians wishing to terminate their registration must give four weeks notice in writing to the Nursery Manager 
+
