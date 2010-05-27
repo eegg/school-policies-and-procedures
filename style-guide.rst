@@ -26,6 +26,8 @@ From this reason for existence we can formulate some guidelines:
   than being recoiling to fuzzy language.
 * use plain English.
 * model your procedures on a *flowchart*.
+  Procedures should, where possible, be *event-driven*:
+  when event of type *X* happens, staff member *Y* takes action *Z*.
 
 
 Policy structure
