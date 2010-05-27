@@ -87,11 +87,25 @@ In this initial conversation, the callee:
 The first visit
 ^^^^^^^^^^^^^^^
 
-The first visit should be attended by all of:
+.. _a first visit has taken place:
 
-* the child if at all possible
-* at least one guardian of the child
-* the potential client
+.. container:: explanation
+   
+   **Why do we require a visit before enrolment?**
+
+   Despite the many other ways of finding out about us --
+   the web, email, a posted prospectus, telephone --
+   there is, especially for a young child, no substitute for a physical visit.
+   For both guardian and child, the visit should establish
+   what the atmosphere is of a typical session at The Setting.
+
+The first visit,
+which shall take place during the time of a typical session at The Setting,
+should be attended by
+
+* the child if at all possible,
+* at least one guardian of the child, and
+* the potential client.
 
 The visitors will be
 
@@ -116,9 +130,13 @@ The Enrolment Form may be returned by:
 
 When the Enrolment Form is returned,
 it is checked for completeness.
-Completeness requires that all external documents referenced by the client,
-such as doctors' certificates, prescriptions, or Statements,
-are enclosed with the Enrolment Form.
+Completeness requires that:
+
+* `a first visit has taken place`_
+* all required fields of the Enrolment Form are completed
+* all external documents referenced by the client,
+  such as doctors' certificates, prescriptions, or Statements,
+  are enclosed with the Enrolment Form
 
 If the Enrolment Form is incomplete,
 the client is informed that
@@ -152,7 +170,7 @@ The first session
 
 .. container:: explanation
    
-   **Why do we not recommend staying with your child?**
+   **Why do we not recommend that the guardian stays with the child?**
     
    The child will settle quicker at nursery when
    it is made clear to her that her parents will not be present.
@@ -162,7 +180,6 @@ The first session
 
 We suggest that you do not spend time with your child in the setting.
 
-This helps to familiarise your child with the nursery, the nursery staff and the other children, and provides the opportunity to give your journey a trial run.
 A child who is tense or unhappy will not be able to play or learn properly, so it is important for parents/carers and staff to work together to help the child feel confident and secure in the group.
 This takes longer for some children and parents/carers should not feel worried if their child takes a while to settle.
 You must be prepared to accept that it may take some time for your child to adjust to the nursery but very few children fail to settle eventually.
