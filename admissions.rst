@@ -48,6 +48,13 @@ Details
 
 
 
+Welcome Pack
+````````````
+
+Details
+
+
+
 Waiting List
 ````````````
 
@@ -180,19 +187,8 @@ they must pick up the Enrolment Form, complete it and resubmit it.
 
 If the Enrolment Form is complete:
 
-.. container:: explanation
-
-   **Why the delay before the first session?**
-
-   The Enrolment Form is a complex document.
-   It will take time to transfer data from it to other appropriate records.
-   There may be special considerations to take into account
-   for that child (e.g. medical conditions) before they begin.
-   There may be questions of legitimacy to consider before the child begins
-   (e.g., credit checks on the client).
-
 * it is filed
-* the date of completion is noted in the `Setting Diary`_
+* the date of completion is noted in the Setting Diary
 * the `first session is arranged`_
 
 .. _first session is arranged: `Allocating sessions and preparing for attendance`_
@@ -221,11 +217,22 @@ Prepare for attendance
 
 When this stage is reached:
 
+.. container:: explanation
+
+   **Why the delay before the first session?**
+
+   The Enrolment Form is a complex document.
+   It will take time to transfer data from it to other appropriate records.
+   There may be special considerations to take into account
+   for that child (e.g. medical conditions) before they begin.
+   There may be questions of legitimacy to consider before the child begins
+   (e.g., credit checks on the client).
+
 * provide the guardian with a `Welcome Pack`_.
 * prepare all record-keeping for the child's first session
-* the date of the child's first session is noted in the `Setting Diary`_,
+* the date of the child's first session is noted in the Setting Diary,
   being not before one working week of the date of completion of the `Enrolment Form`_,
-  as will have been noted in the `Setting Diary`_.
+  as will have been noted in the Setting Diary.
 
 
 
@@ -248,6 +255,8 @@ The usual `Arrivals and Departures <arrivals-and-departures.html>`_ procedures s
 
 During the first day:
 
+* The guardian should say goodbye to the child,
+  and tell them when they will be coming back
 * the child should be introduced to his peers by name
 
 
@@ -287,4 +296,3 @@ This may occur when:
 * Failure to register for 5 days without contact or prior notification. 
 * If, despite best efforts, a child fails to settle, the contract may be terminated with immediate effect at the sole discretion of the Nursery Manager. 
 * Guardians wishing to terminate their registration must give four weeks notice in writing to the Nursery Manager 
-
