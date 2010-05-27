@@ -31,7 +31,6 @@ Contents
 #. Record-keeping
 
    #. `Confidentiality <confidentiality.html>`_
-   #. `Information sharing <information-sharing.html>`_
    #. `Recording and reporting of accidents and incidents <recording-and-reporting-of-accidents-and-incidents.html>`_
    #. `Children's records <childrens-records.html>`_
    #. `Provider records <provider-records.html>`_
