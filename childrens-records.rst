@@ -25,14 +25,19 @@ where:
 * that process or action must be recorded for legal reasons.
 
 
-
-Procedures
-----------
-
 We keep two kinds of records on children attending our setting:
 
 * Developmental records
 * Personal records
+
+
+
+Procedures
+----------
+
+
+Documents
+---------
 
 
 Developmental records
@@ -85,12 +90,6 @@ The personal record is:
 * retained for three years after the child has left the setting.
 
 
-See also
---------
-
-"Documents" sections in other policies:
-
-* Special Educational Needs
 
 
 Basis
@@ -101,3 +100,14 @@ Basis
 +==========================+===========================================================================+=======+
 | **Legislation**          | Data Protection Act                                                       | 1998  |
 +--------------------------+---------------------------------------------------------------------------+-------+
+
+
+
+See also
+--------
+
+"Documents" sections in other policies:
+
+* Special Educational Needs
+
+
