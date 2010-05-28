@@ -41,8 +41,6 @@ Contents
 
 #. Education
 
-   #. `Special Educational Needs <special-educational-needs.html>`_
-   #. `Gifted children <gifted-children.html>`_
    #. `Individualised education <individualised-education.html>`_
    #. `Positive behaviour management <positive-behaviour-management.html>`_
    #. `Outings <outings.html>`_
