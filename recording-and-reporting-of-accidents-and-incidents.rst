@@ -10,27 +10,25 @@ Recording and reporting accidents and incidents
 Policy
 ------
 
+.. container:: definition
+
+   Incident
+     Any of:
+
+     * break in, burglary, theft of personal or the setting's property
+     * an intruder gaining unauthorised access to the premises
+     * fire, flood, gas leak or electrical failure
+     * attack on member of staff or parent on the premises or nearby
+     * any racist incident involving staff or family on the centre's premises
+     * death of a child
+     * a terrorist attack, or threat of one
+
 We follow the guidelines of the Reporting Injuries, Diseases and Dangerous Occurrences (RIDDOR) for the reporting of accidents and incidents.
 Child protection matters or behavioural incidents between children are NOT regarded as incidents and there are separate procedures for this.
 
 
 Procedures
 ----------
-
-
-Accident book
-^^^^^^^^^^^^^
-
-Our accident book:
-
-* is kept safely and accessibly;
-* is accessible to all staff and volunteers, who know how to complete it; and
-* is reviewed at least half termly to identify any potential or actual hazards.
-
-Ofsted is notified of any injury requiring treatment by a general practitioner or hospital doctor, or the death of a child or adult.
-When there is any injury requiring general practitioner or hospital treatment to a child, parent, volunteer or visitor
-or where there is a death of a child or adult on the premises,
-we make a report to the Health and Safety Executive using the format for the Reporting of Injuries, Diseases and Dangerous Occurrences.
 
 
 Dealing with incidents
@@ -46,8 +44,27 @@ We report to the Health and Safety Executive:
 Any dangerous occurrence is recorded in our incident book.
 
 
-Our incident book
-^^^^^^^^^^^^^^^^^
+
+Documents
+---------
+
+
+Accident book
+^^^^^^^^^^^^^
+
+
+* is kept safely and accessibly;
+* is accessible to all staff and volunteers, who know how to complete it; and
+* is reviewed at least half termly to identify any potential or actual hazards.
+
+Ofsted is notified of any injury requiring treatment by a general practitioner or hospital doctor, or the death of a child or adult.
+When there is any injury requiring general practitioner or hospital treatment to a child, parent, volunteer or visitor
+or where there is a death of a child or adult on the premises,
+we make a report to the Health and Safety Executive using the format for the Reporting of Injuries, Diseases and Dangerous Occurrences.
+
+
+Incident book
+^^^^^^^^^^^^^
 
 * We have ready access to telephone numbers for emergency services, including local police.
   Where we are responsible for the premises we have contact numbers for gas and electricity emergency services, carpenter and plumber.
@@ -69,6 +86,7 @@ Our incident book
   This is recorded in the child's own file.
 
 
+
 External documents
 ------------------
 
@@ -88,13 +106,3 @@ Further guidance
 Definitions
 -----------
 
-Incident
-  Any of:
-
-  * break in, burglary, theft of personal or the setting's property
-  * an intruder gaining unauthorised access to the premises
-  * fire, flood, gas leak or electrical failure
-  * attack on member of staff or parent on the premises or nearby
-  * any racist incident involving staff or family on the centre's premises
-  * death of a child
-  * a terrorist attack, or threat of one

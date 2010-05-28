@@ -7,17 +7,18 @@ Confidentiality
 :Version: 1
 
 
-Definitions
------------
-
-Confidential information
-  Information of some sensitivity,
-  which is not already lawfully in the public domain or readily available from another public source,
-  and which has been shared in a relationship where the person giving the information understood it would not be shared with others. [#confidential-information-definition]_
-
 
 Policy
 ------
+
+.. container:: definition
+   
+   Confidential information
+     Information of some sensitivity,
+     which is not already lawfully in the public domain or readily available from another public source,
+     and which has been shared in a relationship where the person giving the information understood it would not be shared with others. [#confidential-information-definition]_
+
+
 
 Our *Staff* can be said to have a 'confidential relationship' with families.
 We respect the privacy of children and their guardians.
