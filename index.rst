@@ -51,7 +51,7 @@ Contents
 
    #. `Illnesses and medication <illnesses-and-medication.html>`_
    #. `Smoking <smoking.html>`_
-   #. `Food and drink <food-and-drink.html>`_
+   #. `Nutrition <nutrition.html>`_
    #. `Children's rights and entitlements <childrens-rights-and-entitlements.html>`_
    #. `Looked-after children <looked-after-children.html>`_
    #. `Toiletting <toiletting.html>`_
