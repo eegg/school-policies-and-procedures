@@ -35,28 +35,55 @@ Policy structure
 
 Each of our policies is divided into the following sections, in the following order:
 
+.. container:: explanation
+
+   **Why this order of sections?**
+
+   The goal of this document is that
+   team members can gain information as quickly as possible.
+   In this spirit, the policies proceed from high-level aims (the *Policy* section)
+   to low-level details (*e.g.*, the *Definitions* section).
+
 +-------------------------+-------------------------------------------------------------------------------------+
 | Section                 | Contents                                                                            |
 +=========================+=====================================================================================+
 | **Policy**              | A prose section setting out the goals to achieve by setting out this policy.        |
 +-------------------------+-------------------------------------------------------------------------------------+
-| **Definitions**         | Any terms, used principally in this policy,                                         |
-|                         | that require further definition, for reasons of legality or clarity.                |
+| **Procedures**          | Specific, concrete instructions as to how                                           |
+|                         | *Team Members* should act.                                                          |
+|                         | This also covers guardians' and children's behaviour inasmuch as it covers          |
+|                         | how *Team Members* should guide and instruct them.                                  |
+|                         | Ideally *event-driven*: each subsection *X* covers what should happen in event *X*. |
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Documents**           | Physical documents that should exist in *The Setting*.                              |
 |                         | Details of their content and organization.                                          |
 +-------------------------+-------------------------------------------------------------------------------------+
-| **Procedures**          | Specific, concrete instructions as to how all parties to The Setting                |
-|                         | (*Team Members*, *Guardians* and *Children*) should act.                            |
-|                         | Ideally *event-driven*: each subsection *X* covers what should happen in event *X*. |
+| **Basis**               | Any documents that were the theoretical or legal foundation of the document,        |
+|                         | or were referred to in the policy or which may be useful for further reading.       |
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Enforcement**         | How all parties are to be informed of the above Policies and Procedures.            |
 +-------------------------+-------------------------------------------------------------------------------------+
 | **See also**            | Other sections of the Policies and Procedures that may be useful.                   |
 +-------------------------+-------------------------------------------------------------------------------------+
-| **Basis**               | Any documents that were the theoretical or legal foundation of the document,        |
-|                         | or were referred to in the policy or which may be useful for further reading.       |
-+-------------------------+-------------------------------------------------------------------------------------+
+
+
+Interspersed throughout the policy may be blocks of the following kinds:
+
+* **Warnings** of things not to do in **red** boxes.
+  By default, this document lists things that *should* be done.
+  A list of things that *should not* be done would be endless.
+  However, in cases that are 'tricky', warnings may be placed aside
+  the explanation of what *should* be done in that situation.
+* **Explanations** in **green** boxes.
+  It is not the purpose of this document to rationalise every procedure herein --
+  much of this rationalization underpins the legal documents that underpin this one --
+  yet explanation will sometimes be required,
+  such as where one procedure is read in isolation.
+* **Definitions** in **blue** boxes:
+  any terms, used principally in this policy,
+  that require further definition, for reasons of legality or clarity.
+  The definition should be placed aside the first instance of
+  the term's use in the most relevant policy document.
 
 
 Style

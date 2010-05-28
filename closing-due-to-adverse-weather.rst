@@ -18,6 +18,7 @@ We aim to manage our *Snow Days* so as to minimize the disruption that adverse w
 The guiding principle to our procedures is the question: is the disruption caused by calling a *Snow Day* less than the disruption caused by *not* calling it?
 
 
+
 Procedures
 ----------
 
@@ -68,3 +69,5 @@ Definitions
 Snow Day
   A day on which the nursery was scheduled to open, but which for reasons of weather is designated at short notice to be a non-opening day. 
   (Note that this term can also be applied to days on which closure was due to weather conditions other than snow; we use the term for reasons of convention.)
+
+

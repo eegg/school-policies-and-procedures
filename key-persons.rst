@@ -21,25 +21,6 @@ Procedures
 
 
 
-Documents
-^^^^^^^^^
-
-
-
-Key Person List
-```````````````
-
-A list of all children enrolled at The Setting,
-with the following attributes,
-ordered by surname:
-
-* Name
-* Date of birth
-* Key Person
-* Whether the Key Person is temporary
-
-
-
 Assigning a Key Person
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -100,3 +81,33 @@ Reshuffling Key Persons
 At the end of every term,
 the `Key Person List`_ is reshuffled.
 
+
+
+Documents
+---------
+
+
+
+Key Person List
+^^^^^^^^^^^^^^^
+
+A list of all children enrolled at The Setting,
+with the following attributes,
+ordered by surname:
+
+* Name
+* Date of birth
+* Key Person
+* Whether the Key Person is temporary
+
+
+
+Definitions
+-----------
+
+Key Person
+  Defined in basis?
+
+
+Basis
+-----
