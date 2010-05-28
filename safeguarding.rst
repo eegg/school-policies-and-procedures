@@ -365,106 +365,6 @@ Informing parents
   In these cases the investigating officers will inform parents.
 
 
-Enforcement
------------
-
-* Prospective *Team Members*
-  are informed of our procedures
-  under `Dealing with allegations against staff`_
-  when they make contact.
-* Prospective *Visitors*
-  are informed of our procedures
-  under `Visitors`_
-  when they arrive at *The Setting*.
-* *Guardians* are informed of our procedures
-  under `Dealing with allegations against staff`_
-  when their child is enrolled.
-* Our curriculum makes children aware 
-  of why it is important to stay safe
-  and 
-  of sensible ways to stay safe.
-* The maximum period of time between
-  *Staff Members* receiving refresher training courses
-  is three years.
-
-
-Basis
------
-
-+---------------------------+---------------------------------------------------------------------------+-------+
-| Type/Author               | Document                                                                  | Year  | 
-+===========================+===========================================================================+=======+
-| **Legislation**           | `Children Act 2004`_                                                      | 2004  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Children Act 1989`_                                                      | 1989  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Protection of Children Act`_                                             | 1999  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Data Protection Act`_                                                    | 1998  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Safeguarding Vulnerable Groups Act`_                                     | 2006  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Sexual Offences Act`_                                                    | 2003  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Criminal Justice and Court Services Act`_                                | 2000  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Human Rights Act`_                                                       | 1998  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Race Relations (Amendment) Act`_                                         | 2000  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Equality Act`_                                                           | 2006  |
-+---------------------------+---------------------------------------------------------------------------+-------+
-| **DCSF**                  | `Use of Force Guidance`_                                                  | 2007  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `The Common Assessment Framework`_                                        | 2006  |
-+---------------------------+---------------------------------------------------------------------------+-------+
-| **Her Majesty's           | `Working Together to Safeguard Children`_                                 | 2006  |
-| Government**              +---------------------------------------------------------------------------+-------+
-|                           | `What to do if you’re Worried a Child is Being Abused`_                   | 2006  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Guidance on the duty to safeguard and promote the welfare of children`_  | 2007  |
-|                           +---------------------------------------------------------------------------+-------+
-|                           | `Information sharing guidance`_                                           | 2006  |
-+---------------------------+---------------------------------------------------------------------------+-------+
-| **Department of Health**  | `Framework for the Assessment of Children in Need and their Families`_    | 2000  |
-+---------------------------+---------------------------------------------------------------------------+-------+
-
-
-See also
---------
-
-* Use of force
-
-.. _Children Act 2004: http://www.opsi.gov.uk/acts/acts2004/ukpga_20040031_en_1
-.. _Children Act 1989: http://www.opsi.gov.uk/acts/acts1989/ukpga_19890041_en_1
-.. _Protection of Children Act: http://www.opsi.gov.uk/acts/acts1999/ukpga_19990014_en_1
-.. _Data Protection Act: http://www.opsi.gov.uk/acts/acts1998/ukpga_19980029_en_1
-.. _Safeguarding Vulnerable Groups Act: http://www.opsi.gov.uk/acts/acts2006/ukpga_20060047_en_1
-.. _Sexual Offences Act: http://www.opsi.gov.uk/acts/acts2003/ukpga_20030042_en_1
-.. _Criminal Justice and Court Services Act: http://www.opsi.gov.uk/acts/acts2000/ukpga_20000043_en_1
-.. _Human Rights Act: http://www.opsi.gov.uk/acts/acts1998/ukpga_19980042_en_1
-.. _Race Relations (Amendment) Act: http://www.opsi.gov.uk/acts/acts2000/pdf/ukpga_20000034_en.pdf
-.. _Equality Act: http://www.opsi.gov.uk/acts/acts2006/ukpga_20060003_en_1
-.. _Use of Force Guidance: www.teachernet.gov.uk/_doc/12187/ACFD89B.pdf
-.. _The Common Assessment Framework: http://www.dcsf.gov.uk/everychildmatters/strategy/deliveringservices1/caf/cafframework/
-.. _Working Together to Safeguard Children: http://www.dcsf.gov.uk/everychildmatters/resources-and-practice/IG00060/
-.. _What to do if you’re Worried a Child is Being Abused: http://www.dcsf.gov.uk/everychildmatters/resources-and-practice/IG00182/
-.. _Guidance on the duty to safeguard and promote the welfare of children: http://www.dcsf.gov.uk/everychildmatters/resources-and-practice/IG00042/
-.. _Information sharing guidance: http://www.dcsf.gov.uk/everychildmatters/resources-and-practice/IG00340/
-.. _Framework for the Assessment of Children in Need and their Families: http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_4003256
-================
-Child protection
-================
-
-.. include:: common-metadata.rst
-:Date: 2009-01-11
-:Version: 1
-
-
-Policies
---------
-
-
 Child protection
 ^^^^^^^^^^^^^^^^
 
@@ -559,3 +459,94 @@ The nursery will not tolerate violence, threatening behaviour or abuse directed 
 If such incidents do occur, the nursery will take the matter very seriously, and take action in line with the LEA’s policy.
 The nursery, in consultation with professional advisors, carries out regular risk assessments, with the object of keeping the nursery environment safe.
 The managers implement the school’s health, safety and welfare policy on a day-to-day basis, and ensure that all staff are aware of the details of the policy as it applies to them.
+
+
+Enforcement
+-----------
+
+* Prospective *Team Members*
+  are informed of our procedures
+  under `Dealing with allegations against staff`_
+  when they make contact.
+* Prospective *Visitors*
+  are informed of our procedures
+  under `Visitors`_
+  when they arrive at *The Setting*.
+* *Guardians* are informed of our procedures
+  under `Dealing with allegations against staff`_
+  when their child is enrolled.
+* Our curriculum makes children aware 
+  of why it is important to stay safe
+  and 
+  of sensible ways to stay safe.
+* The maximum period of time between
+  *Staff Members* receiving refresher training courses
+  is three years.
+
+
+Basis
+-----
+
++---------------------------+---------------------------------------------------------------------------+-------+
+| Type/Author               | Document                                                                  | Year  | 
++===========================+===========================================================================+=======+
+| **Legislation**           | `Children Act 2004`_                                                      | 2004  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Children Act 1989`_                                                      | 1989  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Protection of Children Act`_                                             | 1999  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Data Protection Act`_                                                    | 1998  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Safeguarding Vulnerable Groups Act`_                                     | 2006  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Sexual Offences Act`_                                                    | 2003  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Criminal Justice and Court Services Act`_                                | 2000  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Human Rights Act`_                                                       | 1998  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Race Relations (Amendment) Act`_                                         | 2000  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Equality Act`_                                                           | 2006  |
++---------------------------+---------------------------------------------------------------------------+-------+
+| **DCSF**                  | `Use of Force Guidance`_                                                  | 2007  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `The Common Assessment Framework`_                                        | 2006  |
++---------------------------+---------------------------------------------------------------------------+-------+
+| **Her Majesty's           | `Working Together to Safeguard Children`_                                 | 2006  |
+| Government**              +---------------------------------------------------------------------------+-------+
+|                           | `What to do if you’re Worried a Child is Being Abused`_                   | 2006  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Guidance on the duty to safeguard and promote the welfare of children`_  | 2007  |
+|                           +---------------------------------------------------------------------------+-------+
+|                           | `Information sharing guidance`_                                           | 2006  |
++---------------------------+---------------------------------------------------------------------------+-------+
+| **Department of Health**  | `Framework for the Assessment of Children in Need and their Families`_    | 2000  |
++---------------------------+---------------------------------------------------------------------------+-------+
+
+
+See also
+--------
+
+* Use of force
+
+.. _Children Act 2004: http://www.opsi.gov.uk/acts/acts2004/ukpga_20040031_en_1
+.. _Children Act 1989: http://www.opsi.gov.uk/acts/acts1989/ukpga_19890041_en_1
+.. _Protection of Children Act: http://www.opsi.gov.uk/acts/acts1999/ukpga_19990014_en_1
+.. _Data Protection Act: http://www.opsi.gov.uk/acts/acts1998/ukpga_19980029_en_1
+.. _Safeguarding Vulnerable Groups Act: http://www.opsi.gov.uk/acts/acts2006/ukpga_20060047_en_1
+.. _Sexual Offences Act: http://www.opsi.gov.uk/acts/acts2003/ukpga_20030042_en_1
+.. _Criminal Justice and Court Services Act: http://www.opsi.gov.uk/acts/acts2000/ukpga_20000043_en_1
+.. _Human Rights Act: http://www.opsi.gov.uk/acts/acts1998/ukpga_19980042_en_1
+.. _Race Relations (Amendment) Act: http://www.opsi.gov.uk/acts/acts2000/pdf/ukpga_20000034_en.pdf
+.. _Equality Act: http://www.opsi.gov.uk/acts/acts2006/ukpga_20060003_en_1
+.. _Use of Force Guidance: www.teachernet.gov.uk/_doc/12187/ACFD89B.pdf
+.. _The Common Assessment Framework: http://www.dcsf.gov.uk/everychildmatters/strategy/deliveringservices1/caf/cafframework/
+.. _Working Together to Safeguard Children: http://www.dcsf.gov.uk/everychildmatters/resources-and-practice/IG00060/
+.. _What to do if you’re Worried a Child is Being Abused: http://www.dcsf.gov.uk/everychildmatters/resources-and-practice/IG00182/
+.. _Guidance on the duty to safeguard and promote the welfare of children: http://www.dcsf.gov.uk/everychildmatters/resources-and-practice/IG00042/
+.. _Information sharing guidance: http://www.dcsf.gov.uk/everychildmatters/resources-and-practice/IG00340/
+.. _Framework for the Assessment of Children in Need and their Families: http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_4003256
+
+
