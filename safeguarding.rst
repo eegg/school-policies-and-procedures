@@ -428,17 +428,6 @@ We discuss these issues with the children in circle times, We also show them how
 Within the Nursery we try to promote everyone’s safety, so we teach children to spot hazards in both the indoor and outdoor environment, and inform a member of staff.
 
 
-Breakfast, Lunch and Tea Club
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-*The Setting* provides the opportunity for children to have breakfast, lunch and tea.
-We do all we can to ensure that the meals provided have a suitable nutritional value.
-Children will have the opportunity throughout the sessions to visit the snack bar where fruit, other nutritional snacks and fresh water are available.
-An additional snack time will be held throughout both the morning and afternoon sessions, where milk and fruit is provided.
-Our Nursery promotes a healthy lifestyle this is reinforced through our menus and supervision over home packed lunches brought into the setting to ensure they are of nutritional value.
-As sweets can damage children’s teeth, we do not allow sweets to be eaten in the setting.
-
-
 Internet safety
 ^^^^^^^^^^^^^^^
 

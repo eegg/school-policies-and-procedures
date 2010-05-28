@@ -148,6 +148,18 @@ Reporting of food poisoning
 * If the food poisoning is identified as a notifiable disease under the *Public Health (Infectious Diseases) Regulations 1988* the setting will report the matter to Ofsted.
 
 
+Breakfast, Lunch and Tea Club 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+ 
+*The Setting* provides the opportunity for children to have breakfast, lunch and tea. 
+We do all we can to ensure that the meals provided have a suitable nutritional value. 
+Children will have the opportunity throughout the sessions to visit the snack bar where fruit, other nutritional snacks and fresh water are available. 
+An additional snack time will be held throughout both the morning and afternoon sessions, where milk and fruit is provided. 
+Our Nursery promotes a healthy lifestyle this is reinforced through our menus and supervision over home packed lunches brought into the setting to ensure they are of nutritional value. 
+As sweets can damage children’s teeth, we do not allow sweets to be eaten in the setting. 
+
+
+
 External documents
 ------------------
 
