@@ -23,48 +23,6 @@ Procedures
 
 
 
-Documents
-^^^^^^^^^
-
-
-
-Prospective Clients Book
-````````````````````````
-
-A list of prospective clients, with the following attributes, ordered by date of contact:
-
-* Date of first contact
-* Name of client
-* Address of client
-* Name of child
-* Age of child
-
-
-
-Enrolment Form
-``````````````
-
-Details
-
-
-
-Welcome Pack
-````````````
-
-Details
-
-
-
-Waiting List
-````````````
-
-A list of children, with the following attributes, ordered by date of `Enrolment Form`_ completion:
-
-* Name
-* Date of birth
-* Client
-
-
 Accessible information
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -296,3 +254,48 @@ This may occur when:
 * Failure to register for 5 days without contact or prior notification. 
 * If, despite best efforts, a child fails to settle, the contract may be terminated with immediate effect at the sole discretion of the Nursery Manager. 
 * Guardians wishing to terminate their registration must give four weeks notice in writing to the Nursery Manager 
+
+
+
+Documents
+---------
+
+
+
+Prospective Clients Book
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+A list of prospective clients, with the following attributes, ordered by date of contact:
+
+* Date of first contact
+* Name of client
+* Address of client
+* Name of child
+* Age of child
+
+
+
+Enrolment Form
+^^^^^^^^^^^^^^
+
+Details
+
+
+
+Welcome Pack
+^^^^^^^^^^^^
+
+Details
+
+
+
+Waiting List
+^^^^^^^^^^^^
+
+A list of children, with the following attributes, ordered by date of `Enrolment Form`_ completion:
+
+* Name
+* Date of birth
+* Client
+
+
