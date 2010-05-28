@@ -1,14 +1,16 @@
-================
-Missing children
-================
+=================================
+Children's safety on the premises
+=================================
 
 .. include:: common-metadata.rst
 :Date: 2009-01-11
 :Version: 1
 
 
-Policy
-------
+Policy statement
+----------------
+
+We maintain the highest possible security of our premises to ensure that each child is safely cared for during their time with us.
 
 Children’s safety is maintained as the highest priority at all times both on and off premises.
 Every attempt is made through carrying out the outings procedure and the exit/entrance procedure to ensure the security of children is maintained at all times.
@@ -28,8 +30,30 @@ The other children are also sensitive to what is going on around them.
 They too may be worried.
 
 
+
 Procedures
 ----------
+
+
+Children's personal safety
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* We ensure all employed staff have been checked for criminal records by an enhanced disclosure from the Criminal Records Bureau.
+* Adults do not normally supervise children on their own.
+* All children are supervised by adults at all times.
+* Whenever children are on the premises at least two adults are present.
+* We carry out risk assessment to ensure children are not made vulnerable within any part of our premises, nor by any activity.
+
+
+Security
+^^^^^^^^
+
+* Systems are in place for the safe arrival and departure of children.
+* The times of the children's arrivals and departures are recorded.
+* The arrival and departure times of adults - staff, volunteers and visitors - are recorded.
+* Our systems prevent unauthorised access to our premises.
+* Our systems prevent children from leaving our premises unnoticed.
+* The personal possessions of staff and volunteers are securely stored during sessions.
 
 
 Child going missing on the premises
@@ -204,4 +228,6 @@ Further reading
 ^^^^^^^^^^^^^^^
 
 * Child Protection Record, Pre-school Learning Alliance (2007)
+* Risk Management in Early Years Settings (2007), Pre-School Learning Alliance
+
 

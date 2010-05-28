@@ -59,10 +59,9 @@ Contents
 #. Safety
 
    #. `Risk assessment <risk-assessment.html>`_
-   #. `Children's safety on the premises <childrens-safety-on-the-premises.html>`_
-   #. `Missing children <missing-children.html>`_
-   #. `Health and safety <health-and-safety.html>`_
    #. `Safeguarding <safeguarding.html>`_
+   #. `Security <security.html>`_
+   #. `Health and safety <health-and-safety.html>`_
    #. `Child protection <child-protection.html>`_
    #. `Animals in the setting <animals-in-the-setting.html>`_
    #. `Fire safety <fire-safety.html>`_
