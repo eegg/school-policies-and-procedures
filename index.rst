@@ -62,7 +62,6 @@ Contents
    #. `Safeguarding <safeguarding.html>`_
    #. `Security <security.html>`_
    #. `Health and safety <health-and-safety.html>`_
-   #. `Child protection <child-protection.html>`_
    #. `Animals in the setting <animals-in-the-setting.html>`_
    #. `Fire safety <fire-safety.html>`_
    #. `First aid <first-aid.html>`_
