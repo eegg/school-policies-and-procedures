@@ -7,19 +7,17 @@ Arrivals and departures
 :Version: 1
 
 
-Definitions
------------
-
-Arrival
-  The time between (1) the child and his guardian entering the setting to start a booked session and (2) the guardian leaving the setting
-
-Departure
-  The time between (1) a guardian entering the setting to pick up their child and (2) the guardian and child leaving the setting
-  
-
 Policy
 ------
 
+.. container:: definition
+
+   Arrival
+     The time between (1) the child and his guardian entering the setting to start a booked session and (2) the guardian leaving the setting
+
+   Departure
+     The time between (1) a guardian entering the setting to pick up their child and (2) the guardian and child leaving the setting
+ 
 We aim to make arrivals and departures:
 
 * quick
