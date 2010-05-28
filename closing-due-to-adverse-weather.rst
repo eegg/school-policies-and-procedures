@@ -10,6 +10,13 @@ Closing due to adverse weather
 Policy
 ------
 
+.. container:: definition
+  
+  Snow Day
+    A day on which the nursery was scheduled to open, but which for reasons of weather is designated at short notice to be a non-opening day. 
+    (Note that this term can also be applied to days on which closure was due to weather conditions other than snow; we use the term for reasons of convention.)
+
+
 We are committed to opening our nursery on as many days as is possible.
 However, we recognise that opening may not always be possible.
 We also recognise that, when closure is caused by the weather, determination of this impossibility may have to happen at very short notice.
@@ -61,13 +68,3 @@ Finding whether a day has been declared a Snow Day
   They may do this by calling the School Telephone and requesting the Nursery Manager or, failing that,
   listening to the dated message in which the Nursery Manager may decide to inform guardians that the nursery is closed.
 * This procedure must be followed each day of ongoing adverse weather conditions.
-
-
-Definitions
------------
-
-Snow Day
-  A day on which the nursery was scheduled to open, but which for reasons of weather is designated at short notice to be a non-opening day. 
-  (Note that this term can also be applied to days on which closure was due to weather conditions other than snow; we use the term for reasons of convention.)
-
-
