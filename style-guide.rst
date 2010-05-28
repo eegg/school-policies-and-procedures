@@ -38,13 +38,17 @@ Each of our policies is divided into the following sections, in the following or
 +-------------------------+-------------------------------------------------------------------------------------+
 | Section                 | Contents                                                                            |
 +=========================+=====================================================================================+
+| **Policy**              | A prose section setting out the goals to achieve by setting out this policy.        |
++-------------------------+-------------------------------------------------------------------------------------+
 | **Definitions**         | Any terms, used principally in this policy,                                         |
 |                         | that require further definition, for reasons of legality or clarity.                |
 +-------------------------+-------------------------------------------------------------------------------------+
-| **Policy**              | A prose section setting out the goals to achieve by setting out this policy.        |
+| **Documents**           | Physical documents that should exist in *The Setting*.                              |
+|                         | Details of their content and organization.                                          |
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Procedures**          | Specific, concrete instructions as to how all parties to The Setting                |
 |                         | (*Team Members*, *Guardians* and *Children*) should act.                            |
+|                         | Ideally *event-driven*: each subsection *X* covers what should happen in event *X*. |
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Enforcement**         | How all parties are to be informed of the above Policies and Procedures.            |
 +-------------------------+-------------------------------------------------------------------------------------+
