@@ -1,17 +1,17 @@
-=======================
-Employment and staffing
-=======================
+==================
+Staffing logistics
+==================
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
+:Date: 2010-06-11
 :Version: 1
 
 
 Policy
 ------
 
-We provide a staffing ratio in line with the Welfare requirements of the Early Years Foundation Stage to ensure that children have sufficient individual attention and to guarantee care and education of a high quality.
-Our staff are appropriately qualified and we carry out checks for criminal and other records through the Criminal Records Bureau in accordance with statutory requirements.
+We provide a ratio of staff to children
+that is in line with the Welfare requirements of the Early Years Foundation Stage.
 
 
 Procedures
@@ -35,34 +35,6 @@ We use the following ratios of adult to children:
 
 * A minimum of two staff/adults are on duty at any one time.
 * We hold regular staff meetings to undertake curriculum planning and to discuss children's progress, their achievements and any difficulties that may arise from time to time.
-
-
-Vetting and staff selection
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* We work towards offering equality of opportunity by using non-discriminatory procedures for staff recruitment and selection.
-* All staff have job descriptions which set out their staff roles and responsibilities.
-* We welcome applications from all sections of the community.
-* Applicants will be considered on the basis of their suitability for the post.
-* Suitability does not consider:
-
- * marital status
- * age
- * gender
- * culture
- * religious belief
- * ethnic origin
- * sexual orientation
-
-* Applicants will not be placed at a disadvantage by our imposing conditions or requirements that are not justifiable.
-* We use Ofsted guidance on obtaining references and enhanced criminal record checks through the Criminal Records Bureau for staff and volunteers who will have unsupervised access to children.
-* We keep all records relating to employment of staff and volunteers, in particular those demonstrating that checks have been done, including the date and number of the enhanced CRB check.
-
-
-Changes to staff
-^^^^^^^^^^^^^^^^
-
-* We inform Ofsted of any changes in the person responsible for our setting.
 
 
 Training and staff development
