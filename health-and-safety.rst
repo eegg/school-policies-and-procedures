@@ -236,7 +236,7 @@ External documents
 
 
 Legal Framework
-^^^^^^^^^^^^^^^
+```````````````
 
 * `The Management of Health and Safety at Work Regulations 1999 <www.opsi.gov.uk/SI/si1999/19993242.htm>`_
 * Health and Safety at Work Act (1974)
@@ -248,7 +248,7 @@ Legal Framework
 
 
 Further guidance
-^^^^^^^^^^^^^^^^
+````````````````
 
 * `Health and Safety Law: What you Should Know (HSE 1999) <www.hse.gov.uk/pubns/law.pdf>`_
 * `Health and Safety Regulation ... a Short Guide (HSE 2003) <www.hse.gov.uk/pubns/hsc13.pdf>`_
