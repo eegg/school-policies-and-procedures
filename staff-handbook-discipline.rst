@@ -11,342 +11,365 @@ Policy
 ------
 
 
-1. The employers are committed to promoting fairness and consistency in the treatment of employees. In order to achieve this, the following disciplinary policy and procedure, which is in line with the Acas Code of Practice has been adopted.
+Employees are treated with fairness and consistency.
+Employees behave in a professional manner while at work.
 
+Employees familiarise themselves with:
 
-2. The employers are concerned that all its employees should be aware of their obligations with regard to conduct, including standards of work performance and of the likely consequences of the failure to meet these obligations.
+* the rules and procedures set out or referred to in their contracts of employment
+* the specific working rules and procedures related to their particular areas of work
+* such amendments as may be made, and drawn to their attention, from time to time
 
+Discipline will abide by the `equal opportunities <equal-opportunities.html>`_ policy.
+In accordance with the Disability Discrimination Act 1995, reasonable adjustments are made to cater for employees who have a disability.
+An employee who believes this provision applies to them should notify the employers as soon as possible,
+including suggested reasonable adjustments to be made to the procedure being followed.
 
-3. All employees are expected to behave in a professional manner whilst at work. Employees have a responsibility to familiarise themselves with the general rules and procedures set out or referred to in their contracts of employment and the specific working rules and procedures related to their particular areas of work and such amendments as may be made, and drawn to their attention, from time to time.
+All disciplinary correspondence, so far as possible, is typed.
 
+This policy applies to:
 
-4. General rules of conduct for staff are set out in Section One of the Employee Handbook.
+* all employees of The Company
+* all dismissals,
+  and all disciplinary and unsatisfactory work performance complaints against an employee,
+  including but not limited to:
+   
+  * dismissal for misconduct or gross misconduct
+  * dismissal for lack of capability of absence from work
+  * dismissal for redundancy (except in the case of multiple redundancies where the statutory collective consultation obligations apply)
+  * dismissal for some other substantial reason
+  * demotion for a conduct or capability issue
+  * reallocation of duties following ill-health
+  * dismissal on grounds of retirement, unless the retirement is by mutual consent
+  * non-renewal of a limited term contract (also known as a fixed-term contract)
 
 
-5. When dealing with disciplinary or work performance issues the employers will seek not to discriminate against any employee in the application of this policy and procedure. It is acknowledged that the employers are required under the Disability Discrimination Act 1995 to make reasonable adjustments to cater for employees who have a disability. An employee who believes this provision applies to them, should notify the employers as soon as possible giving full details, including suggested reasonable adjustments to be made to the procedure being followed.
+This policy does not apply to:
 
+* minor infringements or issues can be resolved by informal discussion as part of the normal day-to-day management process
 
-6. All disciplinary correspondence, so far as possible, must be typed.
 
+No disciplinary action will be taken against an employee
+until the case has been fully investigated
+and the facts of the case have been established by the appointed investigatory officer.
 
-7. This policy and procedure is not intended to be a contractual term and condition of employment.
+At every stage in the procedure
+the employee will be told in writing of the complaint against them
+and the basis of the complaint
+and will be given an opportunity to state their case before decisions are reached.
 
+Employees have the right at disciplinary hearings
+to be accompanied by an appropriate trade union representative
+or a work colleague.
 
+An employee will not be dismissed for a first breach of discipline
+except in the case of gross misconduct
+where the penalty may be dismissal without notice or payment in lieu of notice.
 
-Purpose and scope
------------------
+Employees will be given a written explanation
+for any disciplinary action taken
+and told what improvement is expected and over what period of time.
 
+An employee will have the right to appeal against any disciplinary penalty imposed.
 
-1. This procedure is designed to help and encourage all employees to achieve and maintain acceptable standards of conduct, attendance and work performance.
+The disciplinary procedure may be initiated at any stage,
+and any disciplinary sanction may be bypassed
+if an employee’s misconduct or work performance warrants such action.
 
+Issues will be dealt with as thoroughly and promptly as possible.
 
-2. The procedure applies to all employees employed by the employers or who work in any home owned or operated by the employers except employees within a probationary period of service.
+Impartiality will be maintained by
+all those involved in the disciplinary investigation and hearings.
+A disciplinary hearing will not be concluded by
+anyone who has been actively involved in the disciplinary investigation,
+save in exceptional circumstances.
 
 
-3. It is not intended that this procedure should be used where minor infringements or issues can be resolved by informal discussion as part of the normal day-to-day management process.
 
-
-4. This policy and procedure incorporates the procedural requirements of the statutory dismissal and disciplinary procedures as set out in Schedule 2 Employment Act 2002 and the Employment Act 2002 (Dispute Resolution) Regulations 2004. The provisions of this policy and procedure apply to all dismissals, and all disciplinary and unsatisfactory work performance complaints against an employee, including but not limited to:
-
-
-5. 
-
-1. dismissal for misconduct or gross misconduct;
-
-
-2. dismissal for lack of capability of absence from work;
-
-
-3. dismissal for redundancy (except in the case of multiple redundancies where the statutory collective consultation obligations apply);
-
-
-4. dismissal for some other substantial reason;
-
-
-5. demotion for a conduct or capability issue;
-
-
-6. reallocation of duties following ill-health;
-
-
-7. dismissal on grounds of retirement, unless the retirement is by mutual consent;
-
-
-8. non-renewal of a limited term contract (also known as a fixed-term contract).
-
-
-
-
-
-General principles
-------------------
-
-
-1. No disciplinary action will be taken against an employee until the case has been fully investigated and the facts of the case have been established by the appointed investigatory officer.
-
-
-2. At every stage in the procedure the employee will be told in writing of the complaint against them and the basis of the complaint and will be given an opportunity to state their case before decisions are reached.
-
-
-3. Employees shall have the right at disciplinary hearings to be accompanied by an appropriate trade union representative or a work colleague (see paragraph 3.12.5.4.8 below).
-
-
-4. An employee will not be dismissed for a first breach of discipline except in the case of gross misconduct where the penalty may be dismissal without notice or payment in lieu of notice.
-
-
-5. Employees will be given a written explanation for any disciplinary action taken and told what improvement is expected and over what period of time.
-
-
-6. An employee will have the right to appeal against any disciplinary penalty imposed.
-
-
-7. The disciplinary procedure may be initiated at any stage, and any disciplinary sanction may be bypassed if an employee’s misconduct or work performance warrants such action.
-
-
-8. Issues will be dealt with as thoroughly and promptly as possible.
-
-
-9. Impartiality will be maintained by all those involved in the disciplinary investigation and hearings. A disciplinary hearing will not be concluded by anyone who has been actively involved in the disciplinary investigation, save in exceptional circumstances.
-
-
-
-Informal action
----------------
+Procedures
+----------
 
 
 Minor misconduct or unsatisfactory performance
-++++++++++++++++++++++++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-1. The employers consider that it is not always necessary to use formal disciplinary procedures in cases of minor misconduct or less serious cases of unsatisfactory performance. These are usually best dealt with informally between the employee’s line manager and employee. For most cases of poor performance, informal discussions, coaching, re-training and counselling are considered a better option than formal disciplinary proceedings.
+It is not always necessary to use formal disciplinary procedures
+in cases of minor misconduct
+or less serious cases of unsatisfactory performance.
+These are usually best dealt with informally
+between the employee’s line manager and employee.
+For most cases of poor performance,
+informal discussions, coaching, re-training and counselling
+are considered a better option than formal disciplinary proceedings.
 
+The purpose of taking informal action
+is to provide an opportunity for improvement
+or for the matter to be corrected
+without the necessity for formal disciplinary procedures to be instituted.
+In some cases this approach may identify a training need.
 
-2. The purpose of taking informal action is to provide an opportunity for improvement or for the matter to be corrected without the necessity for formal disciplinary procedures to be instituted. In some cases this approach may identify a training need.
-
-
-3. A note of the informal action taken, including any informal warnings or cautions, will be kept on the employee’s personal file; however, they are there for background and will not normally be taken into account in the event of subsequent disciplinary procedures.
+A note of the informal action taken,
+including any informal warnings or cautions,
+will be kept on the employee’s personal file.
+However, they are there for background
+and will not normally be taken into account
+in the event of subsequent disciplinary procedures.
 
 
 
 Formal disciplinary action
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+If informal action does not bring about an improvement,
+or the misconduct or unsatisfactory performance
+is considered to be too serious to be classed as minor,
+formal disciplinary proceedings will be taken.
 
-1. If informal action, however, does not bring about an improvement, or the misconduct or unsatisfactory performance is considered to be too serious to be classed as minor, formal disciplinary proceedings will be taken.
-
-
-2. It is the responsibility of the employee’s line manager to inform the H.R Manager of the relevant circumstances and follow the formal procedure set out below.
+It is the responsibility of the employee’s line manager to
+inform the HR Manager of the relevant circumstances
+and follow the formal procedure set out below.
 
 
 
 Preliminary or disciplinary investigation
-+++++++++++++++++++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+When a potential disciplinary matter arises,
+or when an employee’s standard of work performance is called into question,
+a preliminary investigation will be carried out to establish the facts promptly.
 
-1. When a potential disciplinary matter arises, or when an employee’s standard of work performance is called into question, a preliminary investigation will be carried out to establish the facts promptly.
+The employee’s line manager will normally carry out this investigation.
+On occasions another manager may be instructed to carry out the investigation,
+for example if the matter is serious or if the employee’s line manager is unavailable.
 
+The scope and extent of the preliminary investigation
+will vary according to the seriousness of the individual complaint or matter.
 
-2. The employee’s line manager will normally carry out this investigation. On occasions another manager may be instructed to carry out the investigation. For example if the matter is serious or if the employee’s line manager is unavailable.
+The person who carries out the preliminary or disciplinary investigation
+is called the Investigating Officer.
 
+A preliminary investigation should take into account
+the statements of any witnesses
+and consideration will normally be given to the following matters
+in so far as they are relevant to the case under investigation:
 
-3. The scope and extent of the preliminary investigation will vary according to the seriousness of the individual complaint or matter.
+* what the alleged breach of discipline is, or the unsatisfactory work performance
+* all surrounding circumstances
+* the consequences of the breach or poor work performance
+* the employee’s duties and job
+* the employee’s experience and length of service
+* the employee’s employment history and disciplinary record
+* the evidence of witnesses
+* any other evidence that can shed light on the situation
+* any recent changes to the employee’s job or working environment
+* any previous incidences that relate to the current one
+* whether the employee has received appropriate counselling or training
+* any mitigating circumstances, e.g. health or domestic problems, or provocation
+* the effect (if any) on the welfare, including psychological welfare of the Service User
 
-
-4. The person who carries out the preliminary or disciplinary investigation is called the Investigating Officer.
-
-
-5. A preliminary investigation should take into account the statements of any witnesses and consideration will normally be given to the following matters in so far as they are relevant to the case under investigation.
-
-
-6. 
-
-1. what the alleged breach of discipline is, or the unsatisfactory work performance;
-
-
-2. all surrounding circumstances;
-
-
-3. the consequences of the breach or poor work performance;
-
-
-4. the employee’s duties and job;
-
-
-5. the employee’s experience and length of service;
-
-
-6. the employee’s employment history and disciplinary record;
-
-
-7. the evidence of witnesses;
-
-
-8. any other evidence that can shed light on the situation;
-
-
-9. any recent changes to the employee’s job or working environment;
-
-
-10. any previous incidences that relate to the current one;
-
-
-11. whether the employee has received appropriate counselling or training;
-
-
-12. any mitigating circumstances, e.g. health or domestic problems, or provocation;
-
-
-13. the effect (if any) on the welfare, including psychological welfare of the Service User.
-
-
-
-
-7. The preliminary investigation will normally include talking to the employee, under investigation giving the employee a fair opportunity to answer questions and to state his or her case.
+The preliminary investigation will normally include talking to the employee under investigation,
+giving the employee a fair opportunity to answer questions and to state his or her case.
 
 
 
 Suspension on full basic pay
-++++++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+In certain cases, for example:
 
-1. In certain cases, for example, in cases involving alleged gross misconduct, or where relationships have broken down, or where there is a risk to the employers property, or responsibilities to other parties exist, consideration will be given to a period of suspension with full pay, whilst unhindered investigations are conducted or pending the outcome of a disciplinary hearing. Any suspension will only be imposed after careful consideration and will be periodically reviewed to ensure it is not unnecessarily protracted.
+* in cases involving alleged gross misconduct
+* where relationships have broken down
+* where there is a risk to the employers property
+* responsibilities to other parties exist
 
+consideration will be given to a period of suspension with full pay,
+whilst unhindered investigations are conducted or pending the outcome of a disciplinary hearing.
+Any suspension will only be imposed after careful consideration
+and will be periodically reviewed to ensure it is not unnecessarily protracted.
 
-2. If the suspension relates to allegations of abuse towards a Service User then the procedure will be followed for notifying the relevant authorities for inclusion onto the Protection of Vulnerable Adults register (POVA register).
+If the suspension relates to allegations of abuse towards a child,
+then the procedure will be followed for notifying the relevant authorities.
 
+Suspension is a precautionary measure.
+Suspension should not be regarded as a disciplinary sanction.
 
-3. Suspension is a precautionary measure. Suspension should not be regarded as a disciplinary sanction.
+Whilst suspended,
+an employee’s contract of employment will continue
+together with all their rights under the contract
+including the payment of basic salary;
+but during the period of suspension,
+the employee will not be entitled to access any of the employers premises
+or communicate with any other employee
+except with the prior consent of the employers
+and subject to such conditions as may be imposed.
 
-
-4. Whilst suspended an employee’s contract of employment will continue together with all their rights under the contract including the payment of basic salary; but during the period of suspension, the employee will not be entitled to access any of the employers premises or communicate with any other employee except with the prior consent of the employers and subject to such conditions as may be imposed.
-
-
-5. All reasonable steps will be taken to ensure that suspension does not preclude the employee’s ability to gather and provide evidence in support of his or her case, as appropriate.
+All reasonable steps will be taken to ensure that
+suspension does not preclude the employee’s ability to
+gather and provide evidence in support of his or her case,
+as appropriate.
 
 
 
 Outcome and action
-++++++++++++++++++
+``````````````````
 
-Once the preliminary or disciplinary investigation is completed, having established the facts, the Investigating Officer will decide whether to drop the matter, deal with it informally, or arrange for it to be handled formally. Where the facts of a case appear to call for disciplinary action, the Investigating Officer will, in liaison with the Human Resources Department, arrange for a disciplinary hearing in accordance with the following procedure set out below (see paragraphs 3.12.5.4.1 to 3.12.5.4.5).
+Once the preliminary or disciplinary investigation is completed,
+having established the facts,
+the Investigating Officer will decide whether to drop the matter,
+deal with it informally,
+or arrange for it to be handled formally.
+Where the facts of a case appear to call for disciplinary action,
+the Investigating Officer will,
+in liaison with the Human Resources Department,
+arrange for a disciplinary hearing in accordance with the following procedure set out below.
 
 
 
 Formal disciplinary procedure
-+++++++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
 Step one: Statement of grounds and basis of action and invitation to disciplinary hearing
-#########################################################################################
+`````````````````````````````````````````````````````````````````````````````````````````
+
+Before any disciplinary hearing is held,
+the Company shall give written notice to the employee,
+which will:
+
+
+* clearly set out the allegations or complaints against the employee,
+  and the basis for those allegations or complaints
+* invite the employee to a disciplinary hearing to discuss the matter
+* provide the date, time and place of the disciplinary hearing
+* state the names of any witnesses who may be called
+* disclose copies of any documents to be considered at the hearing,
+  including any prepared witness statements
+  (but see paragraphs about cases involving witness confidentiality)
+* offer the opportunity to be accompanied by
+  a work colleague or appropriate trade union representative
+  (see below)
+* confirm the right to
+  call witnesses
+  and submit documentation in support of his or her case.
+
+The above matters referred to can be provided to the employee
+by a series of written communications,
+provided that the disciplinary hearing does not take place
+until all of the above information has been provided
+in advance of the hearing;
+and that the employee has had
+a reasonable opportunity to consider his or her responses
+to that information before the hearing commences.
+
+The disciplinary hearing must be arranged
+for a reasonable time
+and in a convenient location.
+If the employee or person accompanying them is disabled
+this will be taken into account
+and reasonable provision will be made so that they can participate fully.
+
+The employee must take all reasonable steps to attend the disciplinary hearing.
+
+If it was not reasonably practicable for
+the Management representative or the employee
+to attend the disciplinary hearing,
+and the reason for the non-attendance was
+not foreseeable when the hearing was arranged
+(for example, if one of the parties was ill
+or his/her car broke down on the way to the hearing)
+a second disciplinary hearing will be rearranged to take place.
+However, if the same occurs the second time around
+(i.e. one party cannot attend for a reason which was not foreseeable
+when the meeting was rearranged)
+management will normally permit the rearranged hearing
+to proceed in the employee’s absence,
+but with the employee’s representative being provided with
+an opportunity to present the employee’s case on his or her behalf.
+
+Any written submission from the employee or their representative
+will be considered at the disciplinary hearing.
+
+
+
+Step two: Disciplinary hearing
+``````````````````````````````
+
+The disciplinary hearing must
+take place before any penalty is imposed against the employee
+(except in the case where the disciplinary action consists of suspension).
+
+The person who chairs the disciplinary hearing will be,
+so far as possible,
+a manager who has not been involved in the preliminary or disciplinary investigation.
+This person, at the hearing, will be called
+the ‘Disciplinary Hearing Chairperson’ (or ‘Chairperson’).
+
+A disciplinary hearing can be heard by one manager sitting alone,
+or up to three managers sitting as a panel.
+
+Whilst the exact format of each disciplinary hearing
+will be dependent upon the allegations being made against the employee
+and are subject to the absolute discretion of Management,
+normally, however, the following will be addressed:
+
+* The Chairperson will start the meeting by
+  introducing all the people present
+  and ensuring that everyone knows
+  the background to and the purpose of the hearing.
+* If possible,
+  a fellow manager will attend the meeting
+  who will take notes and discuss the hearing with the chairperson afterwards.
+* The Investigating Officer will present the management’s case,
+  including any witness evidence or documentary evidence.
+* The employee must be given a full opportunity
+  to comment on the allegations or complaints being made against them,
+  to put forward any defence or arguments they want, and
+  to comment on what disciplinary sanction, if any, is appropriate.
+* The employee’s companion, if any,
+  must also be permitted to participate at the hearing.
+* At the end of the hearing
+  the Chairperson will summarise what has happened
+  and tell everyone what will happen next.
+* The hearing will be adjourned so that the outcome can be considered.
 
 
-1. Before any disciplinary hearing is held, the Company shall give written notice to the employee, which will:
 
+Step three: Disciplinary hearing decision
+`````````````````````````````````````````
 
-1. clearly set out the allegations or complaints against the employee, and the basis for those allegations or complaints;
+After the disciplinary hearing,
+the Chairperson (or the Panel)
+will consider what action to take.
+In cases where a reasonable belief in
+the employee’s misconduct or unsatisfactory performance
+is established on the balance of probabilities,
+appropriate disciplinary action will be taken against the employee.
 
-
-2. invite the employee to a disciplinary hearing to discuss the matter;
-
-
-3. provide the date, time and place of the disciplinary hearing;
-
-
-4. state the names of any witnesses who may be called;
-
-
-5. disclose copies of any documents to be considered at the hearing, including any prepared witness statements (but see paragraph 3.12.5.4.9 about cases involving witness confidentiality);
-
-
-6. offer the opportunity to be accompanied by a work colleague or appropriate trade union representative (see right to be accompanied below at clause 3.12.5.4.8); and
-
-
-7. confirm the right to call witnesses and submit documentation in support of his or her case.
-
-
-
-
-2. The above matters referred to in clause 3.12.5.4.1 can be provided to the employee by a series of written communications, provided that the disciplinary hearing does not take place until all of the above information has been provided in advance of the hearing; and that the employee has had a reasonable opportunity to consider his or her responses to that information before the hearing commences.
-
-
-3. The disciplinary hearing must be arranged for a reasonable time and in a convenient location. If the employee or person accompanying them is disabled this will be taken into account and reasonable provision will be made so that they can participate fully.
-
-
-4. The employee must take all reasonable steps to attend the disciplinary hearing.
-
-
-5. If it was not reasonably practicable for the Management representative or the employee to attend the disciplinary hearing, and the reason for the non-attendance was not foreseeable when the hearing was arranged (for example, if one of the parties was ill or his/her car broke down on the way to the hearing) a second disciplinary hearing will be rearranged to take place. However, if the same occurs the second time around (i.e. one party cannot attend for a reason which was not foreseeable when the meeting was rearranged) management will normally permit the rearranged hearing to proceed in the employee’s absence, but with the employee’s representative being provided with an opportunity to present the employee’s case on his or her behalf.
-
-
-6. Any written submission from the employee, or their representative will be considered at the disciplinary hearing.
-
-
-
-Step Two: Disciplinary hearing
-##############################
-
-
-1. The disciplinary hearing must take place before any penalty is imposed against the employee (except in the case where the disciplinary action consists of suspension see paragraph 3.12.5.2 above).
-
-
-2. The person who chairs the disciplinary hearing will be, so far as possible, a manager who has not been involved in the preliminary or disciplinary investigation. This person, at the hearing, will be called the ‘Disciplinary Hearing Chairperson’ (or ‘Chairperson’).
-
-
-3. A disciplinary hearing can be heard by one manager sitting alone, or up to three managers sitting as a panel.
-
-
-4. At the disciplinary hearing the employee must be given a full opportunity to comment on the allegations or complaints, to put forward any defence or arguments they want, and to comment on what disciplinary sanction, if any, is appropriate.
-
-
-5. Whilst the exact format of each disciplinary hearing will be dependant upon the allegations being made against the employee and are subject to the absolute discretion of Management, normally, however, the following will be addressed:
-
-
-6. 
-
-1. The Chairperson will start the meeting by introducing all the people present and ensuring that everyone knows the background to and the purpose of the hearing.
-
-
-2. If possible, a fellow manager will attend the meeting who will take notes and discuss the hearing with the chairperson afterwards.
-
-
-3. The Investigating Officer will present the management’s case, including any witness evidence or documentary evidence.
-
-
-4. The employee must be given a full opportunity to comment on the allegations or complaints being made against them. To put forward any defence or arguments they want, and to comment on what disciplinary sanction, if any, is appropriate.
-
-
-5. The employee’s companion, if any, must also be permitted to participate at the hearing (see paragraph 3.12.5.4.8 for details).
-
-
-6. At the end of the hearing the Chairperson will summarise what has happened and tell everyone what will happen next.
-
-
-7. The hearing will be adjourned so that the outcome can be considered.
-
-
-
-
-
-Step Three: Disciplinary hearing decision
-#########################################
-
-
-1. After the disciplinary hearing, the Chairperson, (or the Panel) will consider what action to take (see paragraph 10 below). In cases where a reasonable belief in the employee’s misconduct or unsatisfactory performance is established on the balance of probabilities, appropriate disciplinary action will be taken against the employee.
-
-
-2. The employee will be notified of the disciplinary hearing’s decision, and this written notification shall include the right to appeal against the decision, if the employee is not satisfied with it.
+The employee will be notified of the disciplinary hearing’s decision,
+and this written notification shall include the right to appeal against the decision,
+if the employee is not satisfied with it.
 
 
 
 Possible disciplinary outcomes and action
-#########################################
+`````````````````````````````````````````
 
+Following the disciplinary hearing
+the Chairperson must decide whether
+disciplinary action is justified or not.
+Where it is decided that no action is justified
+the employee will be informed in writing.
 
-1. Following the disciplinary hearing the Chairperson must decide whether disciplinary action is justified or not. Where it is decided that no action is justified the employee will be informed in writing.
+Where it is decided that disciplinary action is justified,
+consideration will be given, before making any decision, to the employee’s
 
-
-2. Where it is decided that disciplinary action is justified, consideration will be given, before making any decision, to the employee’s disciplinary and general work record, length of service, actions taken in any previous similar cases against other employees, the explanations given by the employee and, importantly, whether the intended disciplinary action is reasonable under the circumstances. Possible disciplinary actions that might be taken are set out in paragraphs 3.12.5.4.4.1 to 3.12.5.4.4.4 below.
+* disciplinary and general work record
+* length of service
+* actions taken in any previous similar cases against other employees
+* the explanations given by the employee
+* whether the intended disciplinary action is reasonable under the circumstances.
 
 
 
@@ -690,3 +713,9 @@ Keeping disciplinary records
 
 
 4. Copies of meeting or disciplinary hearing records, will normally be given to the employee including copies of any formal minutes that may have been taken. The employers, in certain circumstances, however, (for example to protect a witness) might withhold some information.
+
+
+Legal basis
+-----------
+
+Schedule 2 Employment Act 2002 and the Employment Act 2002 (Dispute Resolution) Regulations 2004.
