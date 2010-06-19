@@ -377,46 +377,42 @@ Stage one: First formal action – unsatisfactory performance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-1. Following the disciplinary hearing, an employee who is found to be performing unsatisfactorily will be given a written letter setting out:-
+Following the disciplinary hearing, an employee who is found to be performing unsatisfactorily will be given a written letter setting out:
 
+* The performance problems
+* The improvement that is required
+* The time scale for achieving this improvement
+* A review date
+* Any support to be provided to assist the employee
 
-2. 
+The employee will be informed that
+the letter represents the first stage of a formal procedure
+and the failure to improve could lead to
+a final written warning and, ultimately, dismissal.
+A copy of the letter will be kept
+and used as the basis for monitoring and reviewing future performance of the employee.
 
-1. The performance problems;
-
-
-2. The improvement that is required;
-
-
-3. The time scale for achieving this improvement;
-
-
-4. A review date; and
-
-
-5. Any support to be provided to assist the employee.
-
-
-
-
-3. The employee will be informed that the letter represents the first stage of a formal procedure and the failure to improve could lead to a final written warning and, ultimately, dismissal. A copy of the letter will be kept and used as the basis for monitoring and reviewing future performance of the employee.
-
-
-4. The employee will be reminded of this right to appeal.
+The employee will be reminded of this right to appeal.
 
 
 
 Stage one: First formal action – misconduct
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Where, following a disciplinary hearing,
+an employee is found guilty of misconduct,
+he will be given a written warning
+setting out the nature of the misconduct
+and the change in behaviour required.
 
-1. Where, following a disciplinary hearing, an employee is found guilty of misconduct, will be given a written warning setting out the nature of the misconduct and the change in behaviour required.
+The employee will be informed that
+the warning is part of the formal disciplinary process
+and the consequences will be of a failure to change behaviour.
+The consequences will include
+a final written warning
+and ultimately dismissal.
 
-
-2. The employee will be informed that the warning is part of the formal disciplinary process and the consequences will be of a failure to change behaviour. The consequences will include a final written warning and ultimately dismissal.
-
-
-3. The employee will be reminded of their right to appeal.
+The employee will be reminded of their right to appeal.
 
 
 
@@ -424,206 +420,252 @@ Stage two: Final written warning
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-1. Where there is a failure to improve or change behaviour in the time scale set out at the first formal stage, or where the offence is sufficiently serious, a final written warning will be issued to the employee, but only after they have been given a chance to present their case at a disciplinary hearing. The final written warning will give details of, and grounds for, the complaint. It will warn that action under stage three – dismissal – will be considered if there is no satisfactory improvement in performance or behaviour.
+Where there is a failure to improve or change behaviour
+in the time scale set out at the first formal stage,
+or where the offence is sufficiently serious,
+a final written warning will be issued to the employee,
+but only after
+they have been given a chance to present their case at a disciplinary hearing.
+The final written warning will give
+details of, and grounds for, the complaint.
+It will warn that action under stage three (dismissal) will be considered
+if there is no satisfactory improvement in performance or behaviour.
 
-
-2. The employee will be reminded of their right to appeal.
+The employee will be reminded of their right to appeal.
 
 
 
 Stage three: Dismissal or other penalty
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. If conduct or performance is still unsatisfactory and the employee still fails to reach the prescribed standards, dismissal will normally result.
+If conduct or performance is still unsatisfactory
+and the employee still fails to reach the prescribed standards,
+dismissal will normally result.
 
+The employee will be informed,
+as soon as possible, of
 
-2. A decision to dismiss can only be taken by a manager who has the authority to do so.
-
-
-3. The employee will be informed, as soon as possible, of the reasons for the dismissal, the date on which the employment will terminate, the appropriate period of notice and their right to appeal.
+* the reasons for the dismissal
+* the date on which the employment will terminate
+* the appropriate period of notice
+* their right to appeal
 
 
 
 Length of a disciplinary warning
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. A warning will usually apply in the case of a first formal action for 12 months, after which time it will lapse; and 24 months in respect of a final written warning. However, there are occasions when the misconduct is so serious that (although not warranting dismissal) it cannot realistically be disregarded for future disciplinary purposes. In such circumstances, a final written warning can never be ignored and any recurrence or any further misconduct is likely to lead to dismissal.
+A warning will usually apply
+in the case of a first formal action for 12 months,
+after which time it will lapse;
+and 24 months in respect of a final written warning.
+However, there are occasions when the misconduct is so serious that
+(although not warranting dismissal)
+it cannot realistically be disregarded for future disciplinary purposes.
+In such circumstances,
+a final written warning can never be ignored
+and any recurrence or any further misconduct is likely to lead to dismissal.
 
 
 
 Step 4: Appeal
-##############
+``````````````
 
-Written confirmation of any disciplinary action will confirm the employee’s right to appeal. The employee should set out the grounds of his or her appeal in writing within seven days of receiving notification of the disciplinary action to be taken.
+Written confirmation of any disciplinary action
+will confirm the employee’s right to appeal.
+The employee should set out the grounds of his or her appeal in writing
+within seven days of receiving notification of the disciplinary action to be taken.
 
-At the appeal any disciplinary penalty imposed will be reviewed but it cannot be increased.
+At the appeal any disciplinary penalty imposed
+will be reviewed but it cannot be increased.
 
-The employee who chooses to appeal should specify the grounds on which they are making the appeal. For example, because they think a finding or penalty is unfair; or new evidence has come to light; or they think the disciplinary procedure was not used correctly.
+The employee who chooses to appeal
+should specify the grounds on which they are making the appeal.
+For example, because
 
-
-
-* The employee will be invited to attend an appeal hearing. This would be arranged for a reasonable time and in a convenient location. If the employee or person accompanying them is disabled, this will be taken into account and reasonable provision will be made so that they can participate fully.
-
-
-* The employee must take all reasonable steps to attend the appeal meeting.
-
-
-* The appeal meeting need not take place before the dismissal or disciplinary action takes effect.
-
-
-* The person who hears the appeal should not have been involved in the earlier stages of the disciplinary procedure.
+* they think a finding or penalty is unfair
+* new evidence has come to light
+* they think the disciplinary procedure was not used correctly
 
 
+The employee will be invited to attend an appeal hearing.
+This would be arranged for a reasonable time and in a convenient location.
+If the employee or person accompanying them is disabled,
+this will be taken into account
+and reasonable provision will be made so that
+they can participate fully.
 
-After the appeal meeting, the employee will be informed of the decision which will be final. No further right of appeal exists.
+
+The employee must take all reasonable steps to
+attend the appeal meeting.
+
+The appeal meeting need not take place
+before the dismissal or disciplinary action takes effect.
+
+The person who hears the appeal
+should not have been involved in
+the earlier stages of the disciplinary procedure.
+
+After the appeal meeting,
+the employee will be informed of the decision which will be final.
+No further right of appeal exists.
 
 
 
 Dismissals for gross misconduct
-###############################
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Gross misconduct is misconduct of such a nature that the attendance of the employee at the place of work can no longer be justified. The following list provides examples of gross misconduct:-
+Gross misconduct is
+misconduct of such a nature that
+the attendance of the employee at the place of work
+can no longer be justified.
+These are examples of gross misconduct:
 
-
-
-1. Professional misconduct – contravention of professional codes of conduct
-
-
-2. Dishonesty e.g. theft
-
-
-3. Fraud, including the falsification of business records (including time sheets or expense claims)
-
-
-4. Violent, abusive or intimidating conduct
-
-
-5. Sexual, racial or other harassment
-
-
-6. Serious insubordination
-
-
-7. Leaving work without authority
-
-
-8. Attending work under the influence of alcohol or non-medically prescribed drugs
-
-
-9. A criminal offence committed at work other than a minor road traffic offence committed in the course of employment, or an offence committed outside work which is incompatible with the employee remaining in employment
-
-
-10. Duplication or misuse of company owned or licensed software
-
-
-11. Serious breach of the employers health and safety policy and rules which endanger the health and safety of others
-
-
-12. Refusing to allow a security search to be carried out in accordance with the employers rules
-
-
-13. Falsification of information or references on appointment
-
-
-14. Unauthorised absence
-
-
-15. Acceptance of any bribe, secret profit or unauthorised commission
+* Professional misconduct – contravention of professional codes of conduct
+* Dishonesty, e.g. theft
+* Fraud, including the falsification of business records (including time sheets or expense claims)
+* Violent, abusive or intimidating conduct
+* Sexual, racial or other harassment
+* Serious insubordination
+* Leaving work without authority
+* Attending work under the influence of alcohol or non-medically prescribed drugs
+* A criminal offence committed at work
+  other than a minor road traffic offence committed in the course of employment,
+  or an offence committed outside work which is
+  incompatible with the employee remaining in employment
+* Duplication or misuse of company owned or licensed software
+* Serious breach of the employers health and safety policy
+  and rules which endanger the health and safety of others
+* Refusing to allow a security search
+  to be carried out in accordance with the employers rules
+* Falsification of information or references on appointment
+* Unauthorised absence
+* Acceptance of any bribe, secret profit or unauthorised commission
+* Any conduct liable to bring the employers
+  and/or the employee in his or her capacity as a representative of the employers
+  into disrepute
+* Serious negligence
+  causing loss, damage or injury to
+  the employers,
+  its clients
+  and/or any fellow employees
+* Unauthorised disclosure of confidential business information or matters,
+  made in breach of the Whistle Blowing Policy
+* Deterring an employee from using
+  the employers’ Whistle Blowing Policy
+  or victimising the employee for so doing
+* Concealment or destruction of
+  evidence of any malpractice
+  relating to the Company’s activities
+  or that of an employee.
 
 
-16. Any conduct liable to bring the employers and/or the employee in his or her capacity as a representative of the employers into disrepute
+This list is neither exclusive nor exhaustive,
+and in addition there may be other offences of a similar gravity
+that would constitute gross misconduct.
 
-
-17. Serious negligence causing loss, damage or injury to the employers, its Service Users and/or any fellow employees
-
-
-18. Unauthorised disclosure of Service User and confidential business information or matters, made in breach of the employers’ Whistle Blowing Policy
-
-
-19. Deterring an employee from using the employers’ Whistle Blowing Policy or victimising the employee for so doing
-
-
-20. Concealment or destruction of evidence of any malpractice relating to the Company’s activities or that of an employee.
-
-
-
-The list is neither exclusive nor exhaustive, and in addition there may be other offences of a similar gravity that would constitute gross misconduct.
-
-For offences of suspected or alleged gross misconduct, immediate suspension on full basic pay will normally apply following full consideration of the gravity of the offence, pending a preliminary investigation and a disciplinary hearing. If the offence is established and there are no acceptable mitigating circumstances, dismissal will follow without notice or payment in lieu of notice.
+For offences of suspected or alleged gross misconduct,
+immediate suspension on full basic pay will normally apply
+following full consideration of the gravity of the offence,
+pending a preliminary investigation and a disciplinary hearing.
+If the offence is established
+and there are no acceptable mitigating circumstances,
+dismissal will follow without notice or payment in lieu of notice.
 
 
 
 Criminal offences outside employment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-These will not be treated as automatic reasons for dismissal regardless of whether the offence has any relevance to the duties of the individual as an employee. The main considerations will be whether the offence is one that makes the individual unsuitable for his or her type of work.
+These will not be treated as automatic reasons for dismissal
+regardless of whether the offence
+has any relevance to the duties of the individual as an employee.
+The main considerations will be
+whether the offence is one that
+makes the individual unsuitable for his or her type of work.
 
 Police enquiries:
 
+Where the conduct of an employee at work
+is the subject of police enquiries or criminal charges,
+the employee will normally be immediately suspended from duty.
+A preliminary or disciplinary investigation would then be carried out
+before a decision is taken on the outcome and action to be taken.
 
-
-1. Where the conduct of an employee at work is the subject of police enquiries or criminal charges, the employee will normally be immediately suspended from duty (see paragraphs 3.12.5.2 to 3.12.5.2). A preliminary or disciplinary investigation would then be carried out, in accordance with the guidelines set out at paragraph 3.12.5.1, before a decision is taken on the outcome and action to be taken.
-
-
-2. No action should be taken which may prejudice the police enquires or criminal proceedings. Instructions from the police must be observed. If there is any doubt about what action should be taken, before or after the investigation stage, the Investigating Officer should seek guidance from the police and from the human resources department.
+No action should be taken
+which may prejudice the police enquiries or criminal proceedings.
+Instructions from the police must be observed.
+If there is any doubt about what action should be taken,
+before or after the investigation stage,
+the Investigating Officer should
+seek guidance from the police
+and the human resources department.
 
 
 
 Trade union representatives
 ###########################
 
-Normally, no disciplinary action should be taken against a trade union representative until the circumstances of the case have been discussed with a full-time official of the union concerned.
+Normally, no disciplinary action should be taken against
+a trade union representative
+until the circumstances of the case have been
+discussed with a full-time official of the union concerned.
 
 
 
 Right to be accompanied
 #######################
 
-1. Employees have the right to be accompanied at any disciplinary hearing by a single companion who is either a;
+Employees have the right to be
+accompanied at any disciplinary hearing
+by a single companion who is any of:
+
+* a work colleague
+* a full-time official employed by a trade union
+* a lay official, so long as they have been certified in writing by their union
+  as having experience of,
+  or as having received training in,
+  acting as an employee’s companion at disciplinary or grievance hearings.
 
 
-2. 
+The right to be accompanied
+does not include the right to be represented by a solicitor or by a friend,
+save in special circumstances.
+For example,
+if the employers were represented by a solicitor
+it would be reasonable to permit the employee
+to also be represented by a legally qualified person.
 
-1. work colleague; or
+Employees must make a reasonable request to be accompanied.
+The right to be accompanied arises
+only if required or invited to attend certain disciplinary (or grievance) hearings.
+Where an investigatory meeting is held solely to establish the facts of the case,
+the right to be accompanied does not arise.
 
+For the purposes of the right to be accompanied,
+‘disciplinary hearings’ are defined as meetings that could result in any of:
 
-2. full-time official employed by a trade union; or
+* A formal warning being issued to an employee (i.e. a warning that will be placed on the employee’s record)
+* The taking of some other disciplinary action (such as suspension without pay, demotion or dismissal) or other action
+* The confirmation of a warning or some other disciplinary action (such as an appeal hearing)
 
-
-3. lay official, so long as they have been certified in writing by their union as having experience of, or as having received training in, acting as an employee’s companion at disciplinary or grievance hearings.
-
-
-
-
-3. The right to be accompanied does not include the right to be represented by a solicitor or by a friend, save in special circumstances. For example, if the employers were represented by a solicitor it would be reasonable to permit the employee to also be represented by a legally qualified person.
-
-
-4. Employees must make a reasonable request to be accompanied. The right to be accompanied arises only if required or invited to attend certain disciplinary (or grievance) hearings. Where an investigatory meeting is held solely to establish the facts of the case, the right to be accompanied does not arise.
-
-
-5. For the purposes of the right to be accompanied, ‘disciplinary hearings’ are defined as meetings that could result in:-
-
-
-6. 
-
-1. A formal warning being issued to an employee (i.e. a warning that will be placed on the employee’s record);
-
-
-2. The taking of some other disciplinary action (such as suspension without pay, demotion or dismissal) or other action; or
-
-
-3. The confirmation of a warning or some other disciplinary action (such as an appeal hearing).
-
-
+Informal discussions or counselling sessions
+do not attract the right to be accompanied
+unless they could result in formal warnings or other actions.
+Meetings to investigate an issue are not disciplinary hearings.
+If it becomes clear during the course of such a meeting
+that disciplinary action is called for,
+the meeting should be ended
+and at subsequent investigatory meetings
+or at the disciplinary hearing
+the employee has the right to be accompanied.
 
 
-7. Informal discussions or counselling sessions do not attract the right to be accompanied unless they could result in formal warnings or other actions. Meetings to investigate an issue are not disciplinary hearings. If it becomes clear during the course of such a meeting that disciplinary action is called for, the meeting should be ended and at subsequent investigatory meetings or at the disciplinary hearing the employee has the right to be accompanied.
+It is the employee’s responsibility
+to organise the attendance of their companion and any relevant witnesses.
 
-
-8. It is the employee’s responsibility to organise the attendance of their companion and any relevant witnesses.
-
-
-9. Employees must make a reasonable request to management to be accompanied. This request should be confirmed in writing.
+Employees must make a reasonable request to management to be accompanied.
+This request should be confirmed in writing.
 
 
 
@@ -631,35 +673,56 @@ What is a reasonable request?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-1. Whether a request for a companion is reasonable will depend on the circumstances of each individual case. In considering a request to be accompanied, consideration will be given to whether it would be reasonable to prevent an employee to be accompanied by a colleague whose presence would prejudice the hearing or who might have a conflict of interest. Nor would it be reasonable for an employee to ask to be accompanied by a colleague from a geographically remote location when someone suitably qualified was available locally.
+Whether a request for a companion is reasonable
+will depend on the circumstances of each individual case.
+In considering a request to be accompanied,
+consideration will be given to
+whether it would be reasonable to prevent an employee
+to be accompanied by a colleague
+whose presence would prejudice the hearing
+or who might have a conflict of interest.
+Nor would it be reasonable for
+an employee to ask to be accompanied by
+a colleague from a geographically remote location
+when someone suitably qualified was available locally.
 
+Fellow employees or trade union officials
+do not have to accept a request to accompany an employee,
+and they should not be pressurised to do so.
 
-2. Fellow employees or trade union officials do not have to accept a request to accompany an employee, and they should not be pressurised to do so.
+Any employee who has agreed to accompany a colleague
+is entitled to take a reasonable amount of paid time off
+to fulfil that responsibility.
+This will cover the hearing
+and to allow time for the companion to familiarise themselves with the case
+and confer with the employee before and after the hearing.
 
+Where possible a companion
+will be allowed to have a say in
+the date and time of a hearing.
+If the companion cannot attend on a proposed date,
+the employee can suggest an alternative time and date
+so long as it is reasonable
+and it is not more than five working days after the original date.
+A longer postponement may be allowed at management’s discretion.
 
-3. Any employee who has agreed to accompany a colleague is entitled to take a reasonable amount of paid time off to fulfil that responsibility. This will cover the hearing and to allow time for the companion to familiarise themselves with the case and confer with the employee before and after the hearing.
+The companion is allowed to address the hearing in order to:
+ 
+* put and explain the employee’s case
+* sum up the employee’s case
+* respond on the employee’s behalf to any view expressed at the hearing
 
+The companion can also confer with the employee during the hearing.
+The companion is allowed to participate
+as fully as reasonably possible in the hearing,
+including asking witnesses questions.
+There is not, however,
+an automatic right to cross-examine witnesses.
+The companion has no right to
 
-4. Where possible a companion will be allowed to have a say in the date and time of a hearing. If the companion cannot attend on a proposed date, the employee can suggest an alternative time and date so long as it is reasonable and it is not more than five working days after the original date. A longer postponement may be allowed at management’s discretion.
-
-
-5. The companion is allowed to address the hearing in order to:-
-
-
-6. 
-
-1. put and explain the employee’s case;
-
-
-2. sum up the employee’s case;
-
-
-3. respond on the employee’s behalf to any view expressed at the hearing.
-
-
-
-
-7. The companion can also confer with the employee during the hearing. The companion is allowed to participate as fully as reasonably possible in the hearing, including asking witnesses questions. There is not, however, an automatic right to cross-examine witnesses. The companion has no right to answer questions on the employee’s behalf, or to address the hearing if the employee does not wish it or to permit the employer from explaining their case.
+* answer questions on the employee’s behalf
+* address the hearing if the employee does not wish it
+* permit the employer from explaining their case
 
 
 
@@ -667,10 +730,22 @@ Witness confidentiality
 #######################
 
 
-1. The employers reserve the right to withhold witness names and/or witness statements in cases where it is reasonable to maintain witness confidentiality. This need may arise in serious cases (e.g. gross misconduct) where a witness reasonably requests that he or she remains anonymous, or where confidentiality has reasonably been promised to a witness. In such cases statements may be disclosed in an anonymous or redacted (concealed) form to protect the witness identity.
+The employers reserve the right
+to withhold witness names and/or witness statements
+in cases where it is reasonable to maintain witness confidentiality.
+This need may arise in serious cases (e.g. gross misconduct)
+where a witness reasonably requests that he or she remains anonymous,
+or where confidentiality has reasonably been promised to a witness.
+In such cases statements may be
+disclosed in an anonymous or redacted (concealed) form
+to protect the witness identity.
 
-
-2. In all cases, disclosed witness statements and supporting documentation must be kept confidential and shall only be used for purposes relating to the disciplinary procedure.
+In all cases,
+disclosed witness statements
+and supporting documentation
+must be kept confidential
+and shall only be used for
+purposes relating to the disciplinary procedure.
 
 
 
@@ -678,41 +753,27 @@ Keeping disciplinary records
 ############################
 
 
-1. Written records of each disciplinary process will be kept by the employer. These records may include:-
+Written records of each disciplinary process will be kept by the employer.
+These records may include:
 
+* the complaint against the employee
+* the employee’s defence
+* findings made and actions taken
+* the reasons for actions taken
+* whether an appeal was lodged
+* the outcome of the appeal
+* any grievances raised during the disciplinary procedures
+* subsequent developments
 
-2. 
+The employers shall regard records as confidential
+and will be kept no longer than necessary
+in accordance with the Data Protection Act 1998.
 
-1. the complaint against the employee;
-
-
-2. the employee’s defence;
-
-
-3. findings made and actions taken;
-
-
-4. the reasons for actions taken;
-
-
-5. whether an appeal was lodged;
-
-
-6. the outcome of the appeal;
-
-
-7. any grievances raised during the disciplinary procedures; and
-
-
-8. subsequent developments.
-
-
-
-
-3. The employers shall regard records as confidential and will be kept no longer than necessary in accordance with the Data Protection Act 1998.
-
-
-4. Copies of meeting or disciplinary hearing records, will normally be given to the employee including copies of any formal minutes that may have been taken. The employers, in certain circumstances, however, (for example to protect a witness) might withhold some information.
+Copies of meeting or disciplinary hearing records
+will normally be given to the employee
+including copies of any formal minutes that may have been taken.
+The employers, in certain circumstances, however, (for example to protect a witness)
+might withhold some information.
 
 
 Legal basis
