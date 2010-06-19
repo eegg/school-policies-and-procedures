@@ -70,6 +70,18 @@ Contents
    #. `Parental involvement <parental-involvement.html>`_
    #. `Partnerships with other agencies <partnerships-with-other-agencies.html>`_
 
+#. Staff handbook
+
+   #. `Introduction <staff-handbook-introduction.html>`_
+   #. `Terms and conditions of employment <staff-handbook-terms-and-conditions-of-employment.html>`_
+   #. `Parental leave <staff-handbook-parental-leave.html>`_
+   #. `Time off for dependants <staff-handbook-time-off-for-dependants.html>`_
+   #. `Whistle-blowing <staff-handbook-whistle-blowing.html>`_
+   #. `Grievance <staff-handbook-grievance.html>`_
+   #. `Harassment <staff-handbook-harassment.html>`_
+   #. `Drugs misuse <staff-handbook-drugs-misuse.html>`_
+   #. `Internet access <staff-handbook-internet-access.html>`_
+   #. `Discipline <staff-handbook-discipline.html>`_
 
 
 Introduction

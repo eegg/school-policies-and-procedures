@@ -63,6 +63,26 @@ We aim to:
 *The Setting* recognises that some children and adults are treated unequally for a lot of different reasons.
 We believe that this is wrong and aim to ensure that every child and adult who visits and uses our setting will feel equally welcomed, valued and respected.
 
+The employers’ are equal opportunity employers who are committed to ensuring within the framework of the law that its workplaces are free from unlawful or unfair discrimination on the grounds of colour, race, nationality, ethnic or national origin, sex, gender (including gender reassignment), sexual orientation, religion or belief reassignment, [age], marital status or physical or mental disability.
+
+The employers value diversity and is committed to promoting diversity within the workplace by seeking to ensure that all individuals are treated fairly with dignity and respect and by recognising and encouraging individual contribution within the organisation.
+
+The employers aim to ensure that all employees achieve their full potential and that all employment decisions are taken without reference to irrelevant or discriminatory criteria. The following equality and diversity policy has been adopted as a means of helping to achieve these aims.
+
+The employers are committed to ensuring that all employees and all applicants for employment are protected from unlawful discrimination in the workplace. The employers endeavours not to discriminate in the areas of recruitment, selection, promotion, transfer, training, access to benefits and services, discipline or dismissal. It is also the employers’ policy that all employees should be allowed to work in an environment free from harassment, bullying or unsolicited or unwelcome comments or overtures on discriminatory grounds.
+
+Recruitment and employment decisions will be made on the basis of fair and objective criteria. Our selection procedures are reviewed from time to time to ensure that they are appropriate for achieving our objectives and for avoiding unlawful discrimination.
+
+The requirements of job applicants and existing members of staff who have or have had a disability will be reviewed to ensure that whatever possible reasonable adjustments are made to enable them to enter into or remain in employment with us. Promotion opportunities, benefits and facilities of employment will not be unreasonably limited and every reasonable effort will be made to ensure that disabled staff participate fully in the workplace.
+
+Person and job specifications will be limited to those requirements which are necessary for the effective performance of the job. Interviews will be conducted on an objective basis and personal or home commitments will not form the basis of employment decisions except where necessary.
+
+Appropriate training will be provided to enable staff to implement and uphold our commitment to equality of opportunity and diversity.
+
+All staff have a right to equality of opportunity and dignity at work and a duty to implement this policy. Breach of the equal opportunity and diversity policy is potentially a serious disciplinary matter. Anyone who believes that he or she may have been disadvantaged on discriminatory grounds is entitled to raise the matter through the Grievance Procedure.
+
+The Operation’s Director will have ultimate responsibility for implementation of this policy. The Human Resource Manager will co-ordinate the policy’s implementation and can deal with any queries relating to it.
+
 
 
 Procedures
@@ -195,6 +215,60 @@ A form with the following questions:
   #. Are door closer mechanisms appropriately adjusted (so as not to close too quickly)?
   #. Are door controls (handles/knobs) at a suitable height/clearly located and easy to use?
   #. Is there a light available to supplement stairs?
+
+
+
+What is discrimination?
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Direct discrimination occurs where someone is put at a disadvantage or treated less favourably on discriminatory grounds in relation to his or her employment. Direct discrimination may occur even when unintentional.
+
+Examples:
+
+
+
+1. A woman with young children fails to obtain a job because it is feared that she might be an unreliable member of staff.
+
+
+2. A Sikh applicant for a senior post is not appointed because he might not ‘fit in’ with the existing (all white) team.
+
+
+3. A person is subjected to sexual innuendo or other offensive conduct of a sexual nature at work.
+
+
+
+Indirect discrimination occurs where the individual’s employment is subject to an unjustified provision, criteria or practice which is applied equally to persons of all groups but which puts or would put at a particular disadvantage persons of a particular group and it cannot be shown to be a proportionate means of achieving a legitimate aim.
+
+Examples:
+
+
+
+1. A requirement for GCSE English as a selection criterion. This would have disparately adverse impact on people educated overseas and may not be justified if all that is needed is to demonstrate a reasonable level of literacy.
+
+
+2. Full-time work—this would have a disparately adverse impact on more women with small children as they are generally accepted as taking the primary childcare role. It may not be justified if our business needs can still be met by more flexible working arrangements.
+
+
+
+Disability discrimination occurs where an individual is unjustifiably disadvantaged in employment/recruitment for a reason connected with his/her disability unless the discrimination cannot be avoided by making reasonable adjustments.
+
+Examples:
+
+
+
+1. A requirement for staff to hold a valid driving licence for a job which involves little travelling.
+
+
+2. Failure to recruit a wheelchair user without first considering whether the working arrangements or premises can reasonably be adapted to his/her needs.
+
+
+
+Victimisation occurs where an individual is treated less favourably than colleagues because he/she has taken action, in good faith, to assert their statutory rights or assisted a colleague with information in that regard.
+
+Harassment is unwanted conduct based on discriminatory grounds which affects the dignity of an individual at work or creates an intimidating, hostile, degrading, humiliating or offensive environment. Harassment may be visual, verbal or physical. (More details are set out in the employers’ policy on Harassment at Work).
+
+We are committed to ensuring that all our staff and applicants for employment are protected from unlawful discrimination in employment.
+
 
 
 Meetings and groups

@@ -22,33 +22,109 @@ Our staff are appropriately qualified and vetted.
 
 
 
+Documents
+---------
+
+
+Job Description
+^^^^^^^^^^^^^^^
+
+
+Interview Questionnaire
+^^^^^^^^^^^^^^^^^^^^^^^
+
+
 Procedures
 ----------
 
 
 
-Getting a new member of staff
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Recruiting a new member of staff
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* We work towards offering equality of opportunity by using non-discriminatory procedures for staff recruitment and selection.
-* All staff have job descriptions which set out their staff roles and responsibilities.
-* We welcome applications from all sections of the community.
-* Applicants will be considered on the basis of their suitability for the post.
-* Suitability does not consider:
 
- * marital status
- * age
- * gender
- * culture
- * religious belief
- * ethnic origin
- * sexual orientation
+Advertising the job
+```````````````````
 
-* Applicants will not be placed at a disadvantage by our imposing conditions or requirements that are not justifiable.
-* We use Ofsted guidance on obtaining references and enhanced criminal record checks through the Criminal Records Bureau for staff and volunteers who will have unsupervised access to children.
-and we carry out checks for criminal and other records through the Criminal Records Bureau in accordance with statutory requirements.
+For each one position at The Setting that is offered,
+the *Employing Staff Officer*:
+
+1. produces a `Job Description`_ for that position
+2. places advertisements in appropriate places,
+   each advertisement including
+   
+   * a summary of the produced Job Description
+   * start date
+   * end date, if applicable
+   * a lower and upper bound for salary or wages
+   * contact details
+
+3. notes a date by which the `interview phase`_ should begin.
+
+
+Interview phase
+```````````````
+
+When the date set for entering the interview phase arrives,
+the *Employing Staff Officer*:
+
+1. if zero applicants contacted The Setting,
+   stops.
+2. for each applicant,
+   arranges a meeting at The Setting,
+   to be attended by:
+
+   * the applicant
+   * the *Employing Staff Officer*
+   * the potential line manager of the applicant
+
+   in order for
+
+   * the applicant to complete an `Interview Questionnaire`_
+   * the applicant to be subjected to
+
+     1. an interview by the *Employing Staff Officer*
+     2. an interview by their potential line manager
+     
+     in which their answers on the Interview Questionnaire are discussed.
+
+3. arranges a meeting,
+   at a date not before
+   five working days after the final applicant interview date,
+   to be attended by
+
+   * the *Employing Staff Officer*
+   * the potential line manager of the applicants
+
+   in order to decide which one applicant has been successful,
+   on the basis of
+
+   * their suitability for the responsibilities in the Job Description
+   * The Setting's `equality of opportunity <equality-of-opportunity.html>`_ policy
+
+4. `Offers the position to the successful applicant`_.
+
+.. _Offers the position to the successful applicant: `Formally offering the position`_
+
+
+
+Formally offering the position
+``````````````````````````````
+
+When the decision is made to offer a candidate a position,
+the *Employing Staff Officer*
+puts a formal offer in writing to the successful applicant,
+including
+
+* the start date
+* an exact salary or wage
+* the entire Job Description
+* two copies of a contract, requesting one be signed and returned
+* a deadline on which the job offer will become void if not accepted
+
+* We use Ofsted guidance on obtaining references and enhanced criminal record checks through the Criminal Records Bureau for staff and volunteers who will have unsupervised access to children,
+  and we carry out checks for criminal and other records through the Criminal Records Bureau in accordance with statutory requirements.
 * We keep all records relating to employment of staff and volunteers, in particular those demonstrating that checks have been done, including the date and number of the enhanced CRB check.
-
 
 
 A staff member joins

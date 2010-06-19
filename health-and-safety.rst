@@ -19,6 +19,83 @@ Where possible, we facilitate this by contact with such,
 whether through trips, visits or as pets.
 This is done in accordance with hygiene and safety controls.
 
+The Employers are committed to providing for the health, safety and welfare of all employees and to maintaining standards at least equal to the best practice in the residential and nursing home profession.
+
+We will observe the Health and Safety at Work Act 1974 and all relevant regulations and codes of practice made under it from time to time. We will take into account any recommendations made by the Health and Safety Executive about health and safety issues and where appropriate will liaise with the Health and Safety Executive on particular health and safety issues which are of particular relevance to our work.
+
+This commitment to health and safety is a management responsibility equivalent to that of any other management function. It is the duty of the employers directors to ensure that policy is upheld at all times and to provide the necessary funds and manpower required.
+
+The employers are responsible for:
+
+
+
+1. Assessing the risk to the health and safety of employees and others who may be affected and identifying what measures are needed to comply with its health and safety obligations.
+
+
+2. Providing and maintaining locations, equipment, protective clothing and systems of work that are safe and without risks to health.
+
+
+3. Ensuring that all necessary safety devices are installed and maintained on equipment.
+
+
+4. Providing information, instruction, training and supervision in safe working methods and procedures.
+
+
+5. Providing and maintaining a healthy and safe place of work.
+
+
+6. Promoting the co-operation of employees to ensure safe and healthy conditions and systems of work by discussion and effective joint consultation
+
+
+7. Establishing emergency procedures as required.
+
+
+8. Monitoring and reviewing the management of health and safety at work.
+
+
+9. Keeping this safety policy under review and making any revision it deems necessary from time to time. All such revisions will be brought to the attention of employees.
+
+
+
+The above policy needs the full co-operation of all employees who are expected to give all possible assistance aimed at its successful implementation, to take reasonable care for their own safety and that of others. In order to achieve this end, every employee must:
+
+
+
+1. Comply with any safety instructions and directions issued by the employers.
+
+
+2. Take reasonable care for their health and safety and the health and safety of other persons (e.g. other employees, contractors, residents, visitors, etc.) who may be affected by your acts or omissions at work, by observing safety rules which are applicable to you.
+
+
+3. Co-operate with the employers to ensure that the aims of the Health and Safety Policy Statement are achieved and any duty or requirement imposed on the employers by or under any of the relevant statutory provisions is complied with.
+
+
+4. Report and co-operate in the investigation of all accidents or incidents that have led to or may have lead to injury.
+
+
+5. Use equipment or protective clothing provided in accordance with the training you have received.
+
+
+6. Report any potential risk or hazard or malfunction of equipment to the appropriate person.
+
+
+
+Any failure by an employee to comply with any aspect of the employers’ health and safety procedures, rules or duties specifically assigned to the employee with regard to health and safety may be regarded as misconduct which may be dealt with as a disciplinary matter.
+
+Although the final level of responsibility for ensuring health and safety at work lies with the managing director, each and every individual employee, certain members of management and staff have specific responsibilities to ensure that the health and safety policy is maintained at all times.
+
+The allocation of responsibility by the employers for health and safety matters is as follows:
+
+The Managing Director has overall and final responsibility for giving effect to this health and safety policy.
+
+The Facilities Manager is responsible for ensuring there is consultation on health and safety matters with staff, either though representatives of recognised trade unions or through representatives of other groups of employees, as appropriate, in order to maintain health and safety at work.
+
+The Facilities Manager is responsible for the implementation and monitoring of health and safety policies.
+
+Managers are responsible for the implementation of the health and safety policies in the areas under their control.
+
+All employees have the responsibility to observe all safety rules and to co-operate with the manager charged with responsibility for the implementation of the health and safety policy to achieve a healthy and safe workplace and to take reasonable care of themselves and others.
+
 
 
 Documents
@@ -197,6 +274,15 @@ The risk assessment must cover:
     and how this will be taught to children and staff
 
 .. _risks: `Risks posed by organisms`_
+
+
+
+Accidents at work
+-----------------
+
+We have designated trained First-Aiders. Lists of First Aiders are displayed on the Employee Notice Boards, and are identified as such in the internal telephone directory.
+
+If you suffer an accident at work, you (or someone on your behalf) must report that fact to your manager as soon as is practicable after the event. All accidents should be reported however trivial. The accident must be recorded in the appropriate Accident Book. The location of the Accident Book will depend on your place of work. Details will be displayed on the Employee Notice Board.
 
 
 
