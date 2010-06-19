@@ -10,9 +10,10 @@ Policies and Procedures
 Contents
 --------
 
-#. Preamble
+#. Introductory material
 
    #. `Setting-specific information <setting-specific.html>`_
+   #. `Enforcement and discipline <enforcement-and-discipline.html>`_
    #. `Policy management <policy-management.html>`_
    #. `Style guide <style-guide.html>`_
 
@@ -81,7 +82,6 @@ Contents
    #. `Harassment <staff-handbook-harassment.html>`_
    #. `Drugs misuse <staff-handbook-drugs-misuse.html>`_
    #. `Internet access <staff-handbook-internet-access.html>`_
-   #. `Discipline <staff-handbook-discipline.html>`_
 
 
 Introduction

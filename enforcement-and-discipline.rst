@@ -1,6 +1,6 @@
-========== 
-Discipline
-========== 
+==========================
+Enforcement and discipline
+==========================
  
 .. include:: common-metadata.rst 
 :Date: 2010-06-19
