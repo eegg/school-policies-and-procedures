@@ -21,71 +21,51 @@ The following information describes the setting in which these Policies and Proc
 +----------------------------+-------------------------------------------+
 | Attribute                  | Value                                     |
 +============================+===========================================+
-| *The Setting*              | Lexden Montessori                         |
+| *The Setting*              | |The Setting|                             |
 +----------------------------+-------------------------------------------+
-| *Ofsted Number*            | EY338060                                  |
+| *Ofsted Number*            | |Setting Ofsted Number|                   |
 +----------------------------+-------------------------------------------+
-| *Setting Address*          | 5 Oxford Road, Colchester, Essex, CO3 3HN |
+| *Setting Address*          | |Setting Address|                         |
 +----------------------------+-------------------------------------------+
-| *Setting Telephone Number* | 01206 710928                              |
+| *Setting Telephone Number* | |Setting Telephone Number|                |
 +----------------------------+-------------------------------------------+
-| *Setting Website*          | http://www.lexdenmontessori.com/          |
+| *Setting Website*          | |Setting Website|                         |
 +----------------------------+-------------------------------------------+
 
 
 Institutions
 ------------
 
-==============================================================  ==============================================  ================
-Institution type                                                Name                                            Telephone number
-==============================================================  ==============================================  ================
-*Local Council*                                                 Essex County Council                            0845 743 0430
-*Local Safeguarding Children Board*                             Essex Social Care Direct, Children Social Care  0845 603 7627
-*Director of Children's Services*                               Mr. Malcolm Newsam                              01245 431 893
-*Social Services*                                               Essex County Council: Social Services           01245 434 375‎
-==============================================================  ==============================================  ================
+====================================== ==============================================  ========================================================
+Institution type                       Name                                            Telephone number
+====================================== ==============================================  ========================================================
+*The Local Council*                    |The Local Council|                             |The Local Council Telephone Number|
+*Local Safeguarding Children Board*    |The Local Safeguarding Children Board|         |The Local Safeguarding Children Board Telephone Number|
+*Director of Children's Services*      |The Director of Children's Services|           |The Director of Children's Services Telephone Number|
+*Social Services*                      |Social Services|                               |Social Services Telephone Number|
+====================================== ==============================================  ========================================================
 
 
 Staff member titles
 -------------------
 
-+--------------------------------------+-------------------------+
-| Title                                | Members                 |
-+======================================+=========================+
-| *Setting Manager*                    | Gaynor Sloan            |
-+--------------------------------------+-------------------------+
-| *Montessori Directress*              | Siobhan Brine           |
-+--------------------------------------+-------------------------+
-| *Nursery Assistant*                  | Debbie Ross             |
-+--------------------------------------+-------------------------+
-| *Health and Safety Team*             | *Setting Manager*,      |
-|                                      | *Montessori Directress* |
-+--------------------------------------+-------------------------+
-| *Fire Alarm Tester*                  | *Setting Manager*       |
-+--------------------------------------+-------------------------+
-| *Emergency Lighting Tester*          | *Setting Manager*       |
-+--------------------------------------+-------------------------+
-| *Fire Procedure Coordinator*         | *Setting Manager*       |
-+--------------------------------------+-------------------------+
-| *Fire Procedure Subordinate Team*    | *Montessori Directress*,|
-|                                      | *Nursery Assistant*,    |
-|                                      | *Volunteer*             |
-+--------------------------------------+-------------------------+
-| *Fire Safety Team*                   | *Setting Manager*,      |
-|                                      | *Montessori Directress* |
-+--------------------------------------+-------------------------+
-| *Setting Special Educational Needs   | *Setting Manager*       | 
-| Coordinating Officer*                |                         |
-| (*Setting SENCO*)                    |                         |
-+--------------------------------------+-------------------------+
-| *Child Protection Coordinator*       | *Montessori Directress* |
-+--------------------------------------+-------------------------+
-| *Child Protection Officer*           | *Montessori Directress* |
-+--------------------------------------+-------------------------+
-| *Health and Safety Officer*          | *Setting Manager*       |
-+--------------------------------------+-------------------------+
-| *Behaviour Officer*                  | *Montessori Directress* |
-+--------------------------------------+-------------------------+
+===================================  =================================
+Title                                Members
+===================================  =================================
+*Setting Manager*                    |Setting Manager|
+*Montessori Directress*              |Montessori Directress|
+*Health and Safety Team*             |Health and Safety Team|
+*Fire Alarm Tester*                  |Fire Alarm Tester|
+*Emergency Lighting Tester*          |Emergency Lighting Tester|
+*Fire Procedure Coordinator*         |Fire Procedure Coordinator|
+*Fire Procedure Subordinate Team*    |Fire Procedure Subordinate Team|
+*Fire Safety Team*                   |Fire Safety Team|
+*SENCO*                              |SENCO|
+*Child Protection Coordinator*       |Child Protection Coordinator|
+*Child Protection Officer*           |Child Protection Officer|
+*Health and Safety Officer*          |Health and Safety Officer|
+*Behaviour Officer*                  |Behaviour Officer|
+===================================  =================================
 
 
 Other people
