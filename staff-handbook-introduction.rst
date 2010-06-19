@@ -115,7 +115,7 @@ During your first three months
 ------------------------------
 
 * Ensure you have agreed your performance objectives with your manager.
-* Decide if you want to join the Royal Liver stakeholder pension scheme operated by Caring Homes.
+* Decide if you want to join the Royal Liver stakeholder pension scheme operated by The Company.
 
 
 

@@ -3,7 +3,7 @@
 ===================================
 2.1Introduction
 ***************
-All nursing or residential care homes or other centres operating under the Caring Homes corporate name form part of the Caring Homes portfolio of independently owned properties. The name of your employers’ are the employing companies as set out in your contract of employment. References therefore to ‘the employers’ in this section (and elsewhere in this handbook) refer to the employing companies, unless stated otherwise.
+All nursing or residential care homes or other centres operating under the The Company corporate name form part of the The Company portfolio of independently owned properties. The name of your employers’ are the employing companies as set out in your contract of employment. References therefore to ‘the employers’ in this section (and elsewhere in this handbook) refer to the employing companies, unless stated otherwise.
 
 This section of the handbook deals with the terms and conditions of your employment.
 
@@ -39,7 +39,7 @@ Your normal place of work is Lexden Montessori, Five Oxford Road, Colchester, Es
 
 2.6Your hours of work
 *********************
-Caring Homes operates as a team and it is essential that you are present to play your part in that team. For this reason, you should be punctual at all times.
+The Company operates as a team and it is essential that you are present to play your part in that team. For this reason, you should be punctual at all times.
 
 If you are to be absent for any reason, you should inform your manager as soon as possible, in any event before 9.00 am. Lateness or non-attendance may result in disciplinary action being taken against you, (and in your possible dismissal) in accordance with the employers’ disciplinary rules and procedures. The employers reserve the right not to pay you for any unauthorised absence.
 
