@@ -575,7 +575,7 @@ dismissal will follow without notice or payment in lieu of notice.
 
 
 Criminal offences outside employment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 These will not be treated as automatic reasons for dismissal
 regardless of whether the offence
@@ -604,7 +604,7 @@ and the human resources department.
 
 
 Trade union representatives
-###########################
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Normally, no disciplinary action should be taken against
 a trade union representative
@@ -614,7 +614,7 @@ discussed with a full-time official of the union concerned.
 
 
 Right to be accompanied
-#######################
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Employees have the right to be
 accompanied at any disciplinary hearing
@@ -670,7 +670,7 @@ This request should be confirmed in writing.
 
 
 What is a reasonable request?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 Whether a request for a companion is reasonable
@@ -727,8 +727,7 @@ The companion has no right to
 
 
 Witness confidentiality
-#######################
-
+^^^^^^^^^^^^^^^^^^^^^^^
 
 The employers reserve the right
 to withhold witness names and/or witness statements
@@ -750,8 +749,7 @@ purposes relating to the disciplinary procedure.
 
 
 Keeping disciplinary records
-############################
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Written records of each disciplinary process will be kept by the employer.
 These records may include:
