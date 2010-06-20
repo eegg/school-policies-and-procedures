@@ -14,15 +14,15 @@ The name of the Officer for the policy follows in parentheses.
 
 #. `Setting-specific information <setting-specific.html>`_
 
-#. Meta-policies
+#. **Meta-policies**
 
    #. `Enforcement and discipline <enforcement-and-discipline.html>`_ (|Enforcement and Discipline Officer|)
    #. `Policy management <policy-management.html>`_ (|Policy Management Officer|)
    #. `Whistle-blowing <staff-handbook-whistle-blowing.html>`_ (|Whistle-Blowing Officer|)
 
-#. Policies proper
+#. **Policies proper**
 
-   #. Management
+   #. **Management**
 
       #. `Key persons <key-persons.html>`_ (|Key Persons Officer|)
       #. `Closing due to adverse weather <closing-due-to-adverse-weather.html>`_
@@ -34,25 +34,25 @@ The name of the Officer for the policy follows in parentheses.
       #. `Student placements <student-placements.html>`_ (|Student Placements Officer|)
       #. `Complaints <complaints.html>`_ (|Complaints Officer|)
 
-   #. Operational
+   #. **Operational**
 
       #. `Admissions <admissions.html>`_ (|Admissions Officer|)
       #. `Arrivals and departures <arrivals-and-departures.html>`_ (|Arrivals and Departures Officer|)
 
-   #. Record-keeping
+   #. **Record-keeping**
 
       #. `Confidentiality <confidentiality.html>`_ (|Confidentiality Officer|)
       #. `Accidents and incidents <accidents-and-incidents.html>`_ (|Accidents and Incidents Officer|)
       #. `Children's records <childrens-records.html>`_ (|Children's Records Officer|)
       #. `Provider records <provider-records.html>`_ (|Provider Records Officer|)
 
-   #. Education
+   #. **Education**
 
       #. `Individualised education <individualised-education.html>`_ (|Individualised Education Officer|)
       #. `Positive behaviour management <positive-behaviour-management.html>`_ (|Positive Behaviour Management Officer|)
       #. `Outings <outings.html>`_ (|Outings Officer|)
 
-   #. Health and care
+   #. **Health and care**
 
       #. `Illnesses and medication <illnesses-and-medication.html>`_ (|Illnesses and Medication Officer|)
       #. `Smoking <smoking.html>`_
@@ -61,7 +61,7 @@ The name of the Officer for the policy follows in parentheses.
       #. `Looked-after children <looked-after-children.html>`_ (|Looked-After Children Officer|)
       #. `Toiletting <toiletting.html>`_ (|Toiletting Officer|)
 
-   #. Safety
+   #. **Safety**
 
       #. `Risk assessment <risk-assessment.html>`_ (|Risk Assessment Officer|)
       #. `Safeguarding <safeguarding.html>`_ (|Safeguarding Officer|)
@@ -69,12 +69,12 @@ The name of the Officer for the policy follows in parentheses.
       #. `Health and safety <health-and-safety.html>`_ (|Health and Safety Officer|)
       #. `First aid <first-aid.html>`_ (|First Aid Officer|)
 
-   #. Community and partnership
+   #. **Community and partnership**
 
       #. `Equal opportunities <equal-opportunities.html>`_ (|Equal Opportunities Officer|)
       #. `Parental involvement <parental-involvement.html>`_ (|Parental Involvement Officer|)
 
-   #. Staff handbook
+   #. **Staff handbook**
 
       #. `Introduction <staff-handbook-introduction.html>`_
       #. `Terms and conditions of employment <staff-handbook-terms-and-conditions-of-employment.html>`_
