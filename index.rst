@@ -34,7 +34,6 @@ Contents
 
       #. `Admissions <admissions.html>`_
       #. `Arrivals and departures <arrivals-and-departures.html>`_
-      #. `Uncollected children <uncollected-children.html>`_
 
    #. Record-keeping
 

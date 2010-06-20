@@ -71,11 +71,14 @@ Title                                Members
 Other people
 ------------
 
-================================= =============
-Title                             Name
-================================= =============
-Area SENCo                        Sheila Brodie
-================================= =============
+.. |Area SENCO| replace:: Shiela Brodie
+.. |Area SENCO Telephone Number| replace:: ???
+
+================================= =============  =============================
+Title                             Name           Telephone number
+================================= =============  =============================
+Area SENCO                        |Area SENCO|   |Area SENCO Telephone Number|
+================================= =============  =============================
 
 
 Places
@@ -238,11 +241,23 @@ List of adopted policies
 Here is recorded a full list of the policies in this document, when they were adopted in their current form and by whom, and when they are to be reviewed.
 Copies of the canonical, signed document are available on request from the nursery.
 
-========================================  ======================  ============  ============================  =================
-Policy                                    Latest adopted version  Adopted on    Policy Officer                Date of next exam
-========================================  ======================  ============  ============================  =================
-Policy management                         1                       2009-01-11    Gaynor Sloan                  2010-03-01
-Special Educational Needs                 1                       2009-01-11    Gaynor Sloan                  2010-04-01
-Positive behaviour management             1                       2009-01-11    Siobhan Brine                 2010-05-01
-========================================  ======================  ============  ============================  =================
+.. |Policy Management Officer| replace:: Gaynor Sloan
+.. |Policy Management|
+
+========================================  ============================
+Policy                                    Policy Officer              
+========================================  ============================
+Enforcement and discipline                |Enforcement and Discipline Officer|
+Policy management                         |Policy Management Officer|
+Whistle-Blowing                           |Whistle-Blowing Officer|
+Key persons                               |Key Persons Officer|
+Insurance                                 |Insurance Officer|
+Staff inductions                          |Staff Inductions Officer|
+Student placements                        |Student Placements Officer|
+Complaints                                |Complaints Officer|
+Admissions                                |Admissions Officer|
+Arrivals and departures                   |Arrivals and Departures Officer|
+Special Educational Needs                 |
+Positive behaviour management             Siobhan Brine               
+========================================  ============================
 
