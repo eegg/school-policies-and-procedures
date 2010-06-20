@@ -43,6 +43,7 @@ Institution type                       Name                                     
 *Local Safeguarding Children Board*    |The Local Safeguarding Children Board|         |The Local Safeguarding Children Board Telephone Number|
 *Director of Children's Services*      |The Director of Children's Services|           |The Director of Children's Services Telephone Number|
 *Social Services*                      |Social Services|                               |Social Services Telephone Number|
+*Area SENCO*                           |Area SENCO|                                    |Area SENCO Telephone Number|
 ====================================== ==============================================  ========================================================
 
 
@@ -60,25 +61,10 @@ Title                                Members
 *Fire Procedure Coordinator*         |Fire Procedure Coordinator|
 *Fire Procedure Subordinate Team*    |Fire Procedure Subordinate Team|
 *Fire Safety Team*                   |Fire Safety Team|
-*SENCO*                              |SENCO|
+*Setting SENCO*                      |Setting SENCO|
 *Child Protection Coordinator*       |Child Protection Coordinator|
 *Child Protection Officer*           |Child Protection Officer|
-*Health and Safety Officer*          |Health and Safety Officer|
-*Behaviour Officer*                  |Behaviour Officer|
 ===================================  =================================
-
-
-Other people
-------------
-
-.. |Area SENCO| replace:: Shiela Brodie
-.. |Area SENCO Telephone Number| replace:: ???
-
-================================= =============  =============================
-Title                             Name           Telephone number
-================================= =============  =============================
-Area SENCO                        |Area SENCO|   |Area SENCO Telephone Number|
-================================= =============  =============================
 
 
 Places
@@ -241,12 +227,9 @@ List of adopted policies
 Here is recorded a full list of the policies in this document, when they were adopted in their current form and by whom, and when they are to be reviewed.
 Copies of the canonical, signed document are available on request from the nursery.
 
-.. |Policy Management Officer| replace:: Gaynor Sloan
-.. |Policy Management|
-
-========================================  ============================
+========================================  ========================================
 Policy                                    Policy Officer              
-========================================  ============================
+========================================  ========================================
 Enforcement and discipline                |Enforcement and Discipline Officer|
 Policy management                         |Policy Management Officer|
 Whistle-Blowing                           |Whistle-Blowing Officer|
@@ -257,7 +240,22 @@ Student placements                        |Student Placements Officer|
 Complaints                                |Complaints Officer|
 Admissions                                |Admissions Officer|
 Arrivals and departures                   |Arrivals and Departures Officer|
-Special Educational Needs                 |
-Positive behaviour management             Siobhan Brine               
-========================================  ============================
-
+Confidentiality                           |Confidentiality Officer|
+Accidents and incidents                   |Accidents and Incidents Officer|
+Children's records                        |Children's Records Officer|
+Provider records                          |Provider Records Officer|
+Individualised education                  |Individualised Education Officer|
+Positive behaviour management             |Positive Behaviour Management Officer|
+Outings                                   |Outings Officer|
+Illnesses and medication                  |Illnesses and Medication Officer|
+Nutrition                                 |Nutrition Officer|
+Looked-after children                     |Looked-After Children Officer|
+Toiletting                                |Toiletting Officer|
+Risk assessment                           |Risk Assessment Officer|
+Safeguarding                              |Safeguarding Officer|
+Security                                  |Security Officer|
+Health and safety                         |Health and Safety Officer|
+First aid                                 |First Aid Officer|
+Equal opportunities                       |Equal Opportunities Officer|
+Parental involvement                      |Parental Involvement Officer|
+========================================  ========================================

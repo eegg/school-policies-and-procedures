@@ -63,15 +63,12 @@ Contents
       #. `Safeguarding <safeguarding.html>`_
       #. `Security <security.html>`_
       #. `Health and safety <health-and-safety.html>`_
-      #. `Animals in the setting <animals-in-the-setting.html>`_
-      #. `Fire safety <fire-safety.html>`_
       #. `First aid <first-aid.html>`_
 
    #. Community and partnership
 
       #. `Equal opportunities <equal-opportunities.html>`_
       #. `Parental involvement <parental-involvement.html>`_
-      #. `Partnerships with other agencies <partnerships-with-other-agencies.html>`_
 
    #. Staff handbook
 
