@@ -5,6 +5,8 @@ First aid
 .. include:: common-metadata.rst
 :Officer: |First Aid Officer|
 
+.. contents::
+
 
 
 Policy

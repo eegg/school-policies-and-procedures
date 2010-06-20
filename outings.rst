@@ -5,6 +5,8 @@ Outings
 .. include:: common-metadata.rst
 :Officer: |Outings Officer|
 
+.. contents::
+
 
 Policy
 ------

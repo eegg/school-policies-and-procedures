@@ -5,6 +5,8 @@ Looked-after children
 .. include:: common-metadata.rst
 :Officer: |Looked-After Children Officer|
 
+.. contents::
+
 
 
 Definitions

@@ -5,6 +5,8 @@ Staff training
 .. include:: common-metadata.rst
 :Officer: |Staff Training Officer|
 
+.. contents::
+
 
 
 Policy

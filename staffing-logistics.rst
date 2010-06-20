@@ -5,6 +5,8 @@ Staffing logistics
 .. include:: common-metadata.rst
 :Officer: |Staffing Logistics Officer|
 
+.. contents::
+
 
 Policy
 ------

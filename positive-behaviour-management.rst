@@ -5,6 +5,8 @@ Positive behaviour management
 .. include:: common-metadata.rst
 :Officer: |Positive Behaviour Management Officer|
 
+.. contents::
+
 
 
 Definitions

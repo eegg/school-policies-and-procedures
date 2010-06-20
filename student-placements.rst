@@ -5,6 +5,8 @@ Student placements
 .. include:: common-metadata.rst
 :Officer: |Student Placements Officer|
 
+.. contents::
+
 
 
 Policy

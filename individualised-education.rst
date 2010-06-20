@@ -5,6 +5,8 @@ Individualised education
 .. include:: common-metadata.rst
 :Officer: |Individualised Education Officer|
 
+.. contents::
+
 
 
 Definitions

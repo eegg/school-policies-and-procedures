@@ -4,6 +4,8 @@ Employment and staffing
 
 .. include:: common-metadata.rst
 
+.. contents::
+
 
 Policy
 ------

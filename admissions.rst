@@ -5,6 +5,8 @@ Admissions
 .. include:: common-metadata.rst
 :Officer: |Admissions Officer|
 
+.. contents::
+
 
 Policy
 ------

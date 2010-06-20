@@ -5,6 +5,8 @@ Complaints
 .. include:: common-metadata.rst
 :Officer: |Complaints Officer|
 
+.. contents::
+
 
 Policy
 ------

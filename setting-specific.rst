@@ -4,6 +4,8 @@ Setting-specific information
 
 .. include:: common-metadata.rst
 
+.. contents::
+
 
 Throughout our policies you will find terms that inevitably have to be defined in the context of our nursery.
 For example, while all nurseries should have a "health and safety team", it's not good enough to leave it at that: who is in this team?

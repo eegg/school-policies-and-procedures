@@ -5,6 +5,8 @@ Illnesses and medication
 .. include:: common-metadata.rst
 :Officer: |Illnesses and Medication Officer|
 
+.. contents::
+
 
 
 Policy

@@ -5,6 +5,8 @@ Safeguarding
 .. include:: common-metadata.rst
 :Officer: |Safeguarding Officer|
 
+.. contents::
+
 
 
 Definitions

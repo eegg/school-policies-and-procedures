@@ -5,6 +5,8 @@ Provider records
 .. include:: common-metadata.rst
 :Officer: |Provider Records Officer|
 
+.. contents::
+
 
 
 Policy

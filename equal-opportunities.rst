@@ -5,6 +5,8 @@ Equal opportunities
 .. include:: common-metadata.rst
 :Officer: |Equal Opportunities Officer|
 
+.. contents::
+
 
 
 Definitions

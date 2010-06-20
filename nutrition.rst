@@ -5,6 +5,8 @@ Nutrition
 .. include:: common-metadata.rst
 :Officer: |Nutrition Officer|
 
+.. contents::
+
 
 
 Policy

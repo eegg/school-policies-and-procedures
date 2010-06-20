@@ -5,6 +5,8 @@ Key persons
 .. include:: common-metadata.rst
 :Officer: |Key Persons Officer|
 
+.. contents::
+
 
 Policy
 ------

@@ -5,6 +5,8 @@ Risk assessment
 .. include:: common-metadata.rst
 :Officer: |Risk Assessment Officer|
 
+.. contents::
+
 
 
 Policy

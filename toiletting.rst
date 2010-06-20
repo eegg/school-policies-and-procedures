@@ -5,6 +5,8 @@ Toiletting
 .. include:: common-metadata.rst
 :Officer: |Toiletting Officer|
 
+.. contents::
+
 
 
 Policy

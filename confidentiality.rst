@@ -5,6 +5,8 @@ Confidentiality
 .. include:: common-metadata.rst
 :Officer: |Confidentiality Officer|
 
+.. contents::
+
 
 Policy
 ------

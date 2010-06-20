@@ -5,6 +5,8 @@ Health and safety
 .. include:: common-metadata.rst
 :Officer: |Health and Safety Officer|
 
+.. contents::
+
 
 
 Policy

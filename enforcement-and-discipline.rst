@@ -5,6 +5,7 @@ Enforcement and discipline
 .. include:: common-metadata.rst 
 :Officer: |Enforcement and Discipline Officer|
 
+.. contents::
 
 
 Policy

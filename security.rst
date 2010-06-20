@@ -5,6 +5,8 @@ Security
 .. include:: common-metadata.rst
 :Officer: |Security Officer|
 
+.. contents::
+
 
 
 Policy statement

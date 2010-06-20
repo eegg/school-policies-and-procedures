@@ -6,6 +6,9 @@ Recording and reporting accidents and incidents
 :Date: 2009-01-11
 :Version: 1
 
+.. contents::
+
+
 
 Policy
 ------

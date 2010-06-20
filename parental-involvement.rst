@@ -5,6 +5,8 @@ Parental involvement
 .. include:: common-metadata.rst
 :Officer: |Parental Involvement Officer|
 
+.. contents::
+
 
 
 Definitions

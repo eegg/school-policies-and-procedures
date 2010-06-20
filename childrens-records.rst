@@ -5,6 +5,8 @@ Children's records
 .. include:: common-metadata.rst
 :Officer: |Children's Records Officer|
 
+.. contents::
+
 
 Policy
 ------
