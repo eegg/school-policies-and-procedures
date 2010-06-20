@@ -3,8 +3,8 @@ Policy management
 =================
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
-:Version: 1
+:Officer: |Policy Management Officer|
+
 
 
 Policy
@@ -12,9 +12,9 @@ Policy
 
 
 
-
 Procedures
 ----------
+
 
 
 Policy Working Groups
@@ -26,6 +26,7 @@ join our *Policy Working Group*.
 This group has the following responsibilities:
 
 * ...
+
 
 
 Policy Officers
@@ -41,6 +42,7 @@ For each policy one person is assigned as Policy Officer:
   that may require changes in policy and procedure.
 
 
+
 Exams
 ^^^^^
 
@@ -51,11 +53,13 @@ composed of questions taken from the current Policies and Procedures.
 All questions answered inadequately must be re-done.
 
 
+
 Policy Amendment Appendix
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A list of amendments is kept attached to each policy.
 This list is maintained by the *Policy Officer*.
+
 
 
 Annual evaluation

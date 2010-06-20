@@ -1,10 +1,9 @@
-==================
-Making a complaint
-==================
+==========
+Complaints
+==========
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
-:Version: 1
+:Officer: |Complaints Officer|
 
 
 Policy
@@ -26,6 +25,7 @@ Are intention is to work in partnership with parents and the community generally
 
 Procedures
 ----------
+
 
 Making concerns known
 ^^^^^^^^^^^^^^^^^^^^^

@@ -3,8 +3,8 @@ First aid
 =========
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
-:Version: 1
+:Officer: |First Aid Officer|
+
 
 
 Policy

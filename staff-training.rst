@@ -3,8 +3,7 @@ Staff training
 ==============
 
 .. include:: common-metadata.rst
-:Date: 2010-06-11
-:Version: 1
+:Officer: |Staff Training Officer|
 
 
 

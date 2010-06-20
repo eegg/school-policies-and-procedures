@@ -3,8 +3,8 @@ Illnesses and medication
 ========================
 
 .. include:: common-metadata.rst
-:Date: 2010-03-04
-:Version: 2
+:Officer: |Illnesses and Medication Officer|
+
 
 
 Policy

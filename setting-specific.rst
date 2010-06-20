@@ -3,8 +3,6 @@ Setting-specific information
 ============================
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
-:Version: 1
 
 
 Throughout our policies you will find terms that inevitably have to be defined in the context of our nursery.

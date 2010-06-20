@@ -3,8 +3,8 @@ Looked-after children
 =====================
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
-:Version: 1
+:Officer: |Looked-After Children Officer|
+
 
 
 Definitions

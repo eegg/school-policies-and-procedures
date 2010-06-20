@@ -3,8 +3,7 @@ Children's records
 ==================
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
-:Version: 1
+:Officer: |Children's Records Officer|
 
 
 Policy

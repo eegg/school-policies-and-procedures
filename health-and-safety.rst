@@ -3,8 +3,8 @@ Health and safety
 =================
 
 .. include:: common-metadata.rst
-:Date: 2010-06-11
-:Version: 1
+:Officer: |Health and Safety Officer|
+
 
 
 Policy

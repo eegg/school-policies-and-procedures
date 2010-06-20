@@ -3,9 +3,7 @@ Arrivals and departures
 =======================
 
 .. include:: common-metadata.rst
-:Date: 2009-01-11
-:Version: 1
-
+:Officer: |Arrivals and Departures Officer|
 
 Policy
 ------

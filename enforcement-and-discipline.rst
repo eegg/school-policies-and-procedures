@@ -3,8 +3,8 @@ Enforcement and discipline
 ==========================
  
 .. include:: common-metadata.rst 
-:Date: 2010-06-19
-:Version: 1 
+:Officer: |Enforcement and Discipline Officer|
+
 
 
 Policy

@@ -3,9 +3,7 @@ Admissions
 ==========
 
 .. include:: common-metadata.rst
-:Date: 2010-05-26
-:Version: 1
-
+:Officer: |Admissions Officer|
 
 
 Policy

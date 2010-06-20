@@ -54,7 +54,9 @@
 .. |Whistle-Blowing Officer|                replace:: Gaynor Sloan
 .. |Key Persons Officer|                    replace:: Gaynor Sloan
 .. |Insurance Officer|                      replace:: Gaynor Sloan
+.. |Staffing Logistics Officer|             replace:: Gaynor Sloan
 .. |Staff Inductions Officer|               replace:: Gaynor Sloan
+.. |Staff Training Officer|                 replace:: Gaynor Sloan
 .. |Student Placements Officer|             replace:: Gaynor Sloan
 .. |Complaints Officer|                     replace:: Gaynor Sloan
 .. |Admissions Officer|                     replace:: Gaynor Sloan

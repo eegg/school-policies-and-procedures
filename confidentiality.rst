@@ -3,9 +3,7 @@ Confidentiality
 ===============
 
 .. include:: common-metadata.rst
-:Date: 2020-05-27
-:Version: 1
-
+:Officer: |Confidentiality Officer|
 
 
 Policy

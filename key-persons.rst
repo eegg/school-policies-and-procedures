@@ -3,9 +3,7 @@ Key persons
 ===========
 
 .. include:: common-metadata.rst
-:Date: 2010-05-27
-:Version: 1
-
+:Officer: |Key Persons Officer|
 
 
 Policy
