@@ -3,12 +3,10 @@ Policies and Procedures
 =======================
 
 .. include:: common-metadata.rst
-:Date: 2010-05-27
-:Version: 1
 
 
-Contents
---------
+Contents of this document
+-------------------------
 
 The name of the Officer for the policy follows in parentheses.
 
