@@ -13,9 +13,27 @@ Of course, their exact duties are set out in more detail in the rest of this doc
 and it is the responsibility of everyone to know those duties.
 
 
-
 Positions
 ---------
+
+=================== ========================  ======================================  ================================================================================================================
+Position            Reports to                Directly oversees                       Overview of basic duties
+=================== ========================  ======================================  ================================================================================================================
+CEO                 -                         Head Administrator, Head of Operations  Manages entire activity, structure, and direction of the company
+Head Administrator  CEO                                                               Oversees project management: all activity that is practicable outside of a specific nursery site
+Head of Operations  Chief Executive           Nursery Head(s)                         Oversees the day-to-day running of all nursery sites
+Nursery Head        Head of Operations        Head of Classroom(s), ...               Oversees maintenance and operations at one specific nursery site
+Head of Education   Nursery Head              Team Leader(s)                          At one specific nursery site, oversees the day-to-day education-specific operations of all classrooms
+Team Leader         Head of Classrooms        Assistants, Students/Volunteers         Educates; maintains and physically leads a team of teachers that is able to independently run a single classroom
+Directress          Team Leader               Assistants, Students/Volunteers         Educates; ensures the classroom is Montessori-compatible; instructs assistants and volunteers
+Assistant           Team Leader, Directress   -                                       Educates; maintains all parts of the immediate environment
+Student / Volunteer Team Leader, Directress   -                                       Maintains the non-educational parts of the environment
+=================== ========================  ======================================  ================================================================================================================
+
+
+
+Classroom-level positions
+-------------------------
 
 ===========  ==============  =================  ===============  ====================
 Position     Base skill set  NVQ 2/3 skill set  NVQ 4 skill set  Leadership skill set
