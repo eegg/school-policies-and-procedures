@@ -7,7 +7,7 @@ import sys
 
 srcdir = 'src'
 dstdir = {
-	'html': 'gh-pages',
+	'html': 'html',
 	'latex': 'latex'
 	}
 

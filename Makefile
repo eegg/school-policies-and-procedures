@@ -1,3 +1,3 @@
 all:
-	rm gh-pages/*.html
+	rm html/*.html
 	./make.py html
