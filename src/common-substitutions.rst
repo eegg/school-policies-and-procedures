@@ -86,11 +86,11 @@
    ================
 
 .. |The Enforcement and Discipline Officer|     replace:: The Enforcement and Discipline Officer (|Enforcement and Discipline Officer|)
-.. |The Policy Management Officer|              replace:: Gaynor Sloan
-.. |The Whistle-Blowing Officer|                replace:: Gaynor Sloan
-.. |The Key Persons Officer|                    replace:: Gaynor Sloan
-.. |The Insurance Officer|                      replace:: Gaynor Sloan
-.. |The Staffing Logistics Officer|             replace:: Gaynor Sloan
+.. |The Policy Management Officer|              replace:: The Policy Management Officer (|Policy Management Officer|)
+.. |The Whistle-Blowing Officer|                replace:: The Whistle-Blowing Officer (|Whistle-Blowing Officer|)
+.. |The Key Persons Officer|                    replace:: The Key Persons Officer (|Key Persons Officer|)
+.. |The Insurance Officer|                      replace:: The Insurance Officer (|Insurance Officer|)
+.. |The Staffing Logistics Officer|             replace:: The Staffing Logistics Officer (|Staffing Logistics Officer|)
 .. |The Staff Inductions Officer|               replace:: The Staff Inductions Officer (|Staff Inductions Officer|)
 .. |The Staff Training Officer|                 replace:: Gaynor Sloan
 .. |The Student Placements Officer|             replace:: Gaynor Sloan
