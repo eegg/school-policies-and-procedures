@@ -80,3 +80,38 @@
 .. |Equal Opportunities Officer|            replace:: Gaynor Sloan
 .. |Parental Involvement Officer|           replace:: Gaynor Sloan
 
+
+.. Don't edit this!
+   ================
+
+.. |The Enforcement and Discipline Officer|     replace:: The Enforcement and Discipline Officer (|Enforcement and Discipline Officer|)
+.. |The Policy Management Officer|              replace:: Gaynor Sloan
+.. |The Whistle-Blowing Officer|                replace:: Gaynor Sloan
+.. |The Key Persons Officer|                    replace:: Gaynor Sloan
+.. |The Insurance Officer|                      replace:: Gaynor Sloan
+.. |The Staffing Logistics Officer|             replace:: Gaynor Sloan
+.. |The Staff Inductions Officer|               replace:: The Staff Inductions Officer (|Staff Inductions Officer|)
+.. |The Staff Training Officer|                 replace:: Gaynor Sloan
+.. |The Student Placements Officer|             replace:: Gaynor Sloan
+.. |The Complaints Officer|                     replace:: Gaynor Sloan
+.. |The Admissions Officer|                     replace:: Gaynor Sloan
+.. |The Arrivals and Departures Officer|        replace:: Gaynor Sloan
+.. |The Confidentiality Officer|                replace:: Gaynor Sloan
+.. |The Accidents and Incidents Officer|        replace:: Gaynor Sloan
+.. |The Children's Records Officer|             replace:: Gaynor Sloan
+.. |The Provider Records Officer|               replace:: Gaynor Sloan
+.. |The Individualised Education Officer|       replace:: Gaynor Sloan
+.. |The Positive Behaviour Management Officer|  replace:: Siobhan Brine
+.. |The Outings Officer|                        replace:: Gaynor Sloan
+.. |The Illnesses and Medication Officer|       replace:: Gaynor Sloan
+.. |The Nutrition Officer|                      replace:: Gaynor Sloan
+.. |The Looked-After Children Officer|          replace:: Gaynor Sloan
+.. |The Toiletting Officer|                     replace:: Gaynor Sloan
+.. |The Risk Assessment Officer|                replace:: Gaynor Sloan
+.. |The Safeguarding Officer|                   replace:: Gaynor Sloan
+.. |The Security Officer|                       replace:: Gaynor Sloan
+.. |The Health and Safety Officer|              replace:: Gaynor Sloan
+.. |The First Aid Officer|                      replace:: Gaynor Sloan
+.. |The Equal Opportunities Officer|            replace:: Gaynor Sloan
+.. |The Parental Involvement Officer|           replace:: Gaynor Sloan
+

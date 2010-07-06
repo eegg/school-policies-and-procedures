@@ -4,6 +4,8 @@ Staff inductions
 .. include:: common-metadata.rst
 :Officer: |Staff Inductions Officer|
 
+
+
 Procedures
 ----------
 
@@ -11,20 +13,55 @@ Procedures
 The first day of a new member of staff
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-We have a written induction plan for all new staff, which includes the following:
+On the first day of a new member of staff,
+|The Staff Inductions Officer| 
 
-* Introductions to all staff and volunteers, including management committee members.
-* Familiarising with the building, health and safety and fire procedures.
-* Ensuring our policies and procedures have been read and are carried out.
-* Introduction to parents, especially parents of allocated key children where appropriate.
-* Familiarising them with confidential information where applicable in relation to any key children.
-* Details of the tasks and daily routines to be completed.
+* Introduces him to any key children he may be inheriting or having assigned to him, noting
 
-The induction period lasts two weeks.
+  * Their name, age, sex, languages known, and other basic details
+  * Where their records are kept
 
-The manager inducts new staff and volunteers.
+* Introduces him to all current staff members by name, noting
 
-The chairperson or senior manager inducts new managers.
+  * What her role is in the team
+  * How, or if, the new staff member will be working with her
 
-* During the induction period, the individual must demonstrate understanding of and compliance with policies, procedures, tasks and routines.
-* Successful completion of the induction forms part of the probationary period.
+* Familiarises him with the building layout, noting
+
+  * Fire exits from every room
+
+* Directs him to information detailing his role:
+
+  * our Policies and Procedures,
+    which |The Staff Inductions Officer| advises him to read thoroughly,
+    noting especially his job description and the Staff Handbook detailed therein.
+
+* Provides him with information detailing his role:
+
+  * A copy of the appropriate job description noted above,
+    which should be signed and returned by the new staff member
+  * A copy of the hierarchy of authority in the team,
+    which must note his position therein
+
+* If appropriate, introduces him to guardians, child collectors and clients,
+  taking extra time with any allocated key children.
+
+
+
+Two weeks after a new member of staff has joined
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Two weeks after a new member of staff has joined,
+|The Staff Inductions Officer|
+organises a meeting to include
+
+* |The Staff Inductions Officer|
+* The new member of staff
+
+in order to discuss
+
+* Whether the new member of staff believes that
+  he has settled into his role
+* Whether there are any ambiguities or difficulties in
+  what is being asked of him
+* How well he has assimilated the Policies and Procedures
