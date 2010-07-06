@@ -79,6 +79,7 @@
 .. |First Aid Officer|                      replace:: Gaynor Sloan
 .. |Equal Opportunities Officer|            replace:: Gaynor Sloan
 .. |Parental Involvement Officer|           replace:: Gaynor Sloan
+.. |Welcoming Officer|                      replace:: Gaynor Sloan
 
 
 .. Don't edit this!
@@ -114,4 +115,4 @@
 .. |The First Aid Officer|                      replace:: Gaynor Sloan
 .. |The Equal Opportunities Officer|            replace:: Gaynor Sloan
 .. |The Parental Involvement Officer|           replace:: Gaynor Sloan
-
+.. |The Welcoming Officer|                      replace:: The Welcoming Officer (|Welcoming Officer|)

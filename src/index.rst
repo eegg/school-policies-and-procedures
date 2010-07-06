@@ -74,6 +74,7 @@ The name of the Officer for the policy follows in parentheses.
 
    #. **Community and partnership**
 
+      #. `Welcoming <welcoming.html>`_ (|Welcoming Officer|)
       #. `Equal opportunities <equal-opportunities.html>`_ (|Equal Opportunities Officer|)
       #. `Parental involvement <parental-involvement.html>`_ (|Parental Involvement Officer|)
 
