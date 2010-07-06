@@ -18,6 +18,11 @@ The name of the Officer for the policy follows in parentheses.
    #. `Policy management <policy-management.html>`_ (|Policy Management Officer|)
    #. `Whistle-blowing <staff-handbook-whistle-blowing.html>`_ (|Whistle-Blowing Officer|)
 
+#. **Alternative entry points to this document**
+
+   #. `Hierarchy of skills <hierarchy-of-skills.html>`_
+   #. `What happens when ... ? <what-happens-when.html>`_
+
 #. **Policies proper**
 
    #. **Management**
