@@ -1,0 +1,102 @@
+body {
+  font-family: "Garamond Premier Pro", Garamond, Georgia;
+  font-size: 12pt;
+  }
+
+p {
+  text-align: justify;
+  }
+  
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Trebuchet MS";
+  }
+
+h1 {
+  color: #505;
+  font-size: 14pt;
+  }
+
+h2 {
+  color: #222;
+  font-size: 12pt;
+  }
+
+h3 {
+  color: #444;
+  font-size: 11pt;
+  }
+
+dt {
+  font-weight: bold;
+  font-style: italic;
+  }
+
+table.defaulttable {
+  border-collapse: collapse;
+  width: 100%;
+  }
+
+/* reset strange default settings */
+table.defaulttable, table.defaulttable thead, table.defaulttable tbody, table.defaulttable tr, table.defaulttable td, table.defaulttable th, table.defaulttable col, table.defaulttable colgroup {
+  border: 0px solid white;
+  padding: 0px;
+  margin: 0px;
+}
+
+table.defaulttable thead {
+  background-color: #ddd;
+  }
+
+table.defaulttable th, table.defaulttable td {
+  padding: 0.5em;
+  }
+
+table.defaulttable th {
+  text-align: left;
+  }
+
+table.defaulttable tr {
+  border-bottom: 1px solid #ddd;
+  }
+
+a:link, a:hover, a:visited {
+  text-decoration: none;
+  font-weight: bold;
+  color: #505;
+  }
+
+@media screen {
+  body { background-color: #fafafa; margin: 0;}
+
+  div.document {
+    background-color: white;
+    width: 21cm;
+    margin: 2em auto 2em auto;
+    padding: 2em;
+    border: 1px solid #ddd;
+    }
+  }
+
+div.warning, div.explanation, div.definition {
+  border: 1px solid;
+  width: 40%;
+  float: right;
+  clear: right;
+  padding: 1em;
+  margin: 0 0 1em 1em; 
+}
+
+div.warning {
+  background-color: #fcc;
+  border-color: #a77;
+  }
+
+div.explanation {
+  background-color: #cfc;
+  border-color: #7a7;
+  }
+
+div.definition {
+  background-color: #ccf;
+  border-color: #77a;
+  }
