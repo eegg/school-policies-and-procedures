@@ -94,7 +94,6 @@ Procedures
 Minor misconduct or unsatisfactory performance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
 It is not always necessary to use formal disciplinary procedures
 in cases of minor misconduct
 or less serious cases of unsatisfactory performance.
@@ -451,6 +450,9 @@ as soon as possible, of
 * the appropriate period of notice
 * their right to appeal
 
+|The Enforcement and Discipline Officer| will then
+inform the Independent Safeguarding Authority of the reasons for dismissal.
+
 
 
 Length of a disciplinary warning
@@ -672,7 +674,6 @@ This request should be confirmed in writing.
 
 What is a reasonable request?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 
 Whether a request for a companion is reasonable
 will depend on the circumstances of each individual case.
