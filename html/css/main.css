@@ -77,6 +77,13 @@ a:link, a:hover, a:visited {
     }
   }
 
+@media print {
+body {
+  padding: 2cm;
+  padding-top: 4cm;
+  }
+}
+
 div.warning, div.explanation, div.definition {
   border: 1px solid;
   width: 40%;
