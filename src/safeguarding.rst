@@ -93,6 +93,7 @@ We follow the DfES guidance set out in Safeguarding Children: Preventing Unsuita
   * we require:
     
     * 'enhanced' disclosure checks with the Criminal Records Bureau (excempt from the Rehabilitation of Offenders Act 1974)
+    * registration of the applicant with the Independent Safeguarding Authority
     * a minimum of two written references
   
   * we inform applicants for the above reasons, and allow them to challenge the information
