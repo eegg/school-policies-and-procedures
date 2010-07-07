@@ -12,6 +12,7 @@
 .. |Setting Manager|          replace:: Gaynor Sloan
 
 
+
 .. Local contact details
    =====================
 
@@ -116,3 +117,5 @@
 .. |The Equal Opportunities Officer|            replace:: Gaynor Sloan
 .. |The Parental Involvement Officer|           replace:: Gaynor Sloan
 .. |The Welcoming Officer|                      replace:: The Welcoming Officer (|Welcoming Officer|)
+
+.. |The Setting Manager| replace:: The Setting Manager (|Setting Manager|)
