@@ -12,15 +12,6 @@ Safeguarding
 Definitions
 -----------
 
-Key Commitment 1
-  A 'culture of safety' in which children are protected from abuse and harm in all areas of its service delivery.
-
-Key Commitment 2
-  Responding promptly and appropriately to all incidents or concerns of abuse that may occur and to work with statuory agencies in accordance with the procedures that are set down in 'What do do if you're worried a child is being abused' (HMG 2006).
-
-Key Commitment 3
-  Promoting awareness of child abuse issues throughout its training and learning programmes for adults.
-
 Physical Abuse
   Any kind of physical harm inflicted (with the exception of *Sexual Abuse* as defined below), which may be by way of:
   
@@ -68,12 +59,21 @@ For each child enrolled, *The Setting* will ensure:
 * his right to privacy and confidentiality
 * all his other legal rights
 
-*The Setting* should:
+*The Setting* will:
 
 * be equipped to recognise any violations of the above
 * work with guardians, the community, and external bodies, where appropriate, to ensure the above
 * not rely on unconditional trust at any level
-
+* build a 'culture of safety'
+  in which children are protected from abuse and harm
+  in all areas of its service delivery ('Key Commitment One')
+* Respond promptly and appropriately to
+  all incidents or concerns of abuse that may occur
+  and work with statuory agencies
+  in accordance with the procedures that are set down
+  in `What to do if you’re Worried a Child is Being Abused`_ ('Key Commitment Two')
+* Promote awareness of child abuse issues
+  throughout its training and learning programmes for adults ('Key Commitment Three')
 
 
 Procedures
