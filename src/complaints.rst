@@ -11,35 +11,19 @@ Complaints
 Policy
 ------
 
-We believe that children and parents are entitled to expect courtesy and prompt, careful attention to their needs and wishes.
-We welcome suggestions on how to improve our setting and will give prompt and serious attention to any concerns about the running of the setting.
-We anticipate that most concerns will be resolved quickly by an informal approach to the appropriate member of staff.
-If this does not achieve the desired result, we have a set of procedures for dealing with concerns.
-We aim to bring all concerns about the running of our setting to a satisfactory conclusion for all of the parties involved.
 
-We believe that most complaints are made constructively and can be sorted out at an early stage.
-We also believe that it is in the best interests of the nursery and parents that complaints should be taken seriously and dealt with fairly and in a way that respects confidentiality.
+We welcome suggestions on how to improve our setting
+and will give prompt and serious attention to
+any concerns about the running of the setting.
+All concerns about the running of our setting will be
+brought to a satisfactory conclusion for all of the parties involved.
+Complaints will be taken seriously and procedure will respect confidentiality.
 
-We aim to offer a welcome to each individual child and family and to provide a warm and caring environment within which all children can learn and develop as they play.
-We believe children and parents are entitled to expect courtesy and prompt, careful attention to their needs and wishes.
-Are intention is to work in partnership with parents and the community generally and we welcome suggestions on how to improve our group at any time.
 
 
 Procedures
 ----------
 
-
-Making concerns known
-^^^^^^^^^^^^^^^^^^^^^
-
-If parents and owners cannot reach an agreement, it might be helpful to invite an external mediator, one who is acceptable to both parties to listen to both sides and offer advice.
-A mediator has no legal powers but can help to clarify the situation.
-Staff or volunteers within the nursery school will be available to act as mediator if both parties wish it.
-The mediator will help define the problem, revive the action so far and suggest further ways in which it might be resolved.
-The mediator will keep all discussion confidential.
-She/ he will meet with the group if requested and will keep an agreed written record of any meetings that are held and of any advice she/he has given.
-
-This is to be made available to parents as well as to Ofsted inspectors.
 
 
 Making a complaint
@@ -102,7 +86,7 @@ Stage 4
   * review the action so far
   * suggest further ways in which it might be resolved.
 
-  He can hold separate meetings with |The Complaints Manager| and the parent,
+  He can hold separate meetings with |The Complaints Officer| and the parent,
   if this is decided to be helpful.
 * When the mediator has concluded his investigation,
   a final meeting between the parent,
