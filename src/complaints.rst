@@ -32,7 +32,7 @@ Procedures
 Making concerns known
 ^^^^^^^^^^^^^^^^^^^^^
 
-A parent who is uneasy about any aspect of the group’s provisions should first of all talk over any worries and anxieties with Jenny Underwood or Zoe Tearle.
+A parent who is uneasy about any aspect of the group’s provisions should first of all talk over any worries and anxieties with |The Complaints Officer|.
 If this does not have a satisfactory outcome within 28 days, or if the problem recurs, the parent should put the concerns or complaint in writing and request a meeting with the nursery owners.
 Both parents and owners may have a friend, relative or partner present if required and an agreed written record of the discussion should be made.
 Most complaints should be resolved informally or at this initial stage.
