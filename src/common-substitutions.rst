@@ -93,29 +93,29 @@
 .. |The Insurance Officer|                      replace:: The Insurance Officer (|Insurance Officer|)
 .. |The Staffing Logistics Officer|             replace:: The Staffing Logistics Officer (|Staffing Logistics Officer|)
 .. |The Staff Inductions Officer|               replace:: The Staff Inductions Officer (|Staff Inductions Officer|)
-.. |The Staff Training Officer|                 replace:: Gaynor Sloan
-.. |The Student Placements Officer|             replace:: Gaynor Sloan
-.. |The Complaints Officer|                     replace:: Gaynor Sloan
-.. |The Admissions Officer|                     replace:: Gaynor Sloan
-.. |The Arrivals and Departures Officer|        replace:: Gaynor Sloan
-.. |The Confidentiality Officer|                replace:: Gaynor Sloan
-.. |The Accidents and Incidents Officer|        replace:: Gaynor Sloan
-.. |The Children's Records Officer|             replace:: Gaynor Sloan
-.. |The Provider Records Officer|               replace:: Gaynor Sloan
-.. |The Individualised Education Officer|       replace:: Gaynor Sloan
-.. |The Positive Behaviour Management Officer|  replace:: Siobhan Brine
-.. |The Outings Officer|                        replace:: Gaynor Sloan
-.. |The Illnesses and Medication Officer|       replace:: Gaynor Sloan
-.. |The Nutrition Officer|                      replace:: Gaynor Sloan
-.. |The Looked-After Children Officer|          replace:: Gaynor Sloan
-.. |The Toiletting Officer|                     replace:: Gaynor Sloan
-.. |The Risk Assessment Officer|                replace:: Gaynor Sloan
-.. |The Safeguarding Officer|                   replace:: Gaynor Sloan
-.. |The Security Officer|                       replace:: Gaynor Sloan
-.. |The Health and Safety Officer|              replace:: Gaynor Sloan
-.. |The First Aid Officer|                      replace:: Gaynor Sloan
-.. |The Equal Opportunities Officer|            replace:: Gaynor Sloan
-.. |The Parental Involvement Officer|           replace:: Gaynor Sloan
+.. |The Staff Training Officer|                 replace:: The Staff Training Officer (|Staff Training Officer|)
+.. |The Student Placements Officer|             replace:: The Student Placements Officer (|Student Placements Officer|)
+.. |The Complaints Officer|                     replace:: The Complaints Officer (|Complaints Officer|)
+.. |The Admissions Officer|                     replace:: The Admisions Officer (|Admissions Officer|)
+.. |The Arrivals and Departures Officer|        replace:: The Arrivals and Departures Officer (|Arrivals and Departures Officer|)
+.. |The Confidentiality Officer|                replace:: The Confidentiality Officer (|Confidentiality Officer|)
+.. |The Accidents and Incidents Officer|        replace:: The Accidents and Incidents Officer (|Accidents and Incidents Officer|)
+.. |The Children's Records Officer|             replace:: The Children's Records Officer (|Children's Records Officer|)
+.. |The Provider Records Officer|               replace:: The Provider Records Officer (|Provider Records Officer|)
+.. |The Individualised Education Officer|       replace:: The Individualised Education Officer (|Individualised Education Officer|)
+.. |The Positive Behaviour Management Officer|  replace:: The Positive Behaviour Management Officer (|Positive Behaviour Management Officer|)
+.. |The Outings Officer|                        replace:: The Outings Officer (|Outings Officer|)
+.. |The Illnesses and Medication Officer|       replace:: The Illnesses and Medication Officer (|Illnesses and Medication Officer|)
+.. |The Nutrition Officer|                      replace:: The Nutrition Officer (|Nutrition Officer|)
+.. |The Looked-After Children Officer|          replace:: The Looked-After Children Officer (|Looked-After Children Officer|)
+.. |The Toiletting Officer|                     replace:: The Toiletting Officer (|Toiletting Officer|)
+.. |The Risk Assessment Officer|                replace:: The Risk Assessment Officer (|Risk Assessment Officer|)
+.. |The Safeguarding Officer|                   replace:: The Safeguarding Officer (|Safeguarding Officer|)
+.. |The Security Officer|                       replace:: The Security Officer (|Security Officer|)
+.. |The Health and Safety Officer|              replace:: The Health and Safety Officer (|Health and Safety Officer|)
+.. |The First Aid Officer|                      replace:: The First Aid Officer (|First Aid Officer|)
+.. |The Equal Opportunities Officer|            replace:: The Equal Opportunities Officer (|Equal Opportunities Officer|)
+.. |The Parental Involvement Officer|           replace:: The Parental Involvement Officer (|Parental Involvement Officer|)
 .. |The Welcoming Officer|                      replace:: The Welcoming Officer (|Welcoming Officer|)
 
 .. |The Setting Manager| replace:: The Setting Manager (|Setting Manager|)
