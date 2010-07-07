@@ -12,6 +12,9 @@ Equal opportunities
 Definitions
 -----------
 
+.. _Key Equality Strands:
+.. _Key Equality Strand:
+
 Key Equality Strands
   All of the following:
   
@@ -28,62 +31,97 @@ Key Equality Strands
   * family
     (including family members and marital status)
   * sex
-    (including gender)
+    (including gender, and sex reassignment)
   * sexual orientation
   * age
   * faith
-    (including organised religion and personal beliefs)
+    (including organised religion, personal beliefs, and any faith reassignment)
   * political opinion
     (including associations and memberships with political parties or trade unions)
 
+
+.. _identity group:
+.. _identity groups:
+
+Identity group
+  A group, or membership of a group,
+  of people of a `key equality strand`_.
+  For example,
+  the 'African-American' identity group
+  is defined by a particular ethnicity.
+
+.. _diversity:
+
+Diversity
+  The property of a group
+  that its constituents vary
+  along all of the `Key Equality Strands`_,
+  and no one sub-group is dominant
+  in its right to representation.
+
+
+.. _discrimination:
+
 Discrimination
-  Use of one or more of
-  the *Key Equality Strands*
-  in order to affect the legal rights,
+  Use of any of the `Key Equality Strands`_
+  to affect the legal rights,
   or the right to be treated according to
   all other policies and procedures
   set out for |The Setting|,
   of anyone.
 
 
+.. _indirect discrimination:
+
+Indirect discrimination
+  An individual’s employment is subject to
+  an unjustified provision, criteria or practice
+  which is applied equally to persons of all groups
+  but which puts or would put at a particular disadvantage
+  persons of a particular group
+  and it cannot be shown to be
+  a proportionate means of achieving a legitimate aim.
+
+Victimisation
+  The treating negatively of an individual
+  because he has asserted the statutory rights
+  of himself or another.
+
+Harassment
+  Conduct towards someone,
+  influenced by that person's `identity groups`_,
+  and unwanted by that person.
+
+
+
 Policy
 ------
 
-|The Setting| endeavours that *Discrimination* does not exist.
+|The Setting|: 
 
-We will ensure that our service is fully inclusive in meeting the needs of all children, particularly those that arise from their ethnic heritage, social and economic background, gender, ability or disability.
-Our setting is committed to anti-discriminatory practice to promote equality of opportunity and valuing diversity for all children and families.
+* recognises that `discrimination`_ does exist
+  and will understand the ways in which this manifests itself
+* ensures that `discrimination`_,
+  including `indirect discrimination`_,
+  does not manifest itself,
+  either negatively or positively:
 
-We aim to: 
+  * in its employment and staffing procedures,
+    in which only criteria relevant to the job are considered
+    (which shall not include reference to
+    membership of a group defined by a `Key Equality Strand`_)
+  * in its advertisement
+  * in its enrolment procedures
+  * in how children are treated at |The Setting|
+  * within its grounds
+  * within its wider community
 
-* provide a secure and accessible environment in which all our children can flourish and in which all contributions are considered and valued
-* include and value the contribution of all families to our understanding of equality and diversity
-* provide positive non-stereotyping information about gender roles, diverse ethnic and cultural groups and disabled people
-* improve our knowledge and understanding of issues of anti-discriminatory practice, promoting equality and valuing diversity
-* make inclusion a thread that runs through all of the activities of the setting
+  where necessary resorting to disciplinary procedures.
 
-|The Setting| recognises that some children and adults are treated unequally for a lot of different reasons.
-We believe that this is wrong and aim to ensure that every child and adult who visits and uses our setting will feel equally welcomed, valued and respected.
+* values, and does not simply tolerate, `diversity`_
+* provides non-stereotyping information about
+  differences of people in the `Key Equality Strands`_.
 
-The employers’ are equal opportunity employers who are committed to ensuring within the framework of the law that its workplaces are free from unlawful or unfair discrimination on the grounds of colour, race, nationality, ethnic or national origin, sex, gender (including gender reassignment), sexual orientation, religion or belief reassignment, [age], marital status or physical or mental disability.
-
-The employers value diversity and is committed to promoting diversity within the workplace by seeking to ensure that all individuals are treated fairly with dignity and respect and by recognising and encouraging individual contribution within the organisation.
-
-The employers aim to ensure that all employees achieve their full potential and that all employment decisions are taken without reference to irrelevant or discriminatory criteria. The following equality and diversity policy has been adopted as a means of helping to achieve these aims.
-
-The employers are committed to ensuring that all employees and all applicants for employment are protected from unlawful discrimination in the workplace. The employers endeavours not to discriminate in the areas of recruitment, selection, promotion, transfer, training, access to benefits and services, discipline or dismissal. It is also the employers’ policy that all employees should be allowed to work in an environment free from harassment, bullying or unsolicited or unwelcome comments or overtures on discriminatory grounds.
-
-Recruitment and employment decisions will be made on the basis of fair and objective criteria. Our selection procedures are reviewed from time to time to ensure that they are appropriate for achieving our objectives and for avoiding unlawful discrimination.
-
-The requirements of job applicants and existing members of staff who have or have had a disability will be reviewed to ensure that whatever possible reasonable adjustments are made to enable them to enter into or remain in employment with us. Promotion opportunities, benefits and facilities of employment will not be unreasonably limited and every reasonable effort will be made to ensure that disabled staff participate fully in the workplace.
-
-Person and job specifications will be limited to those requirements which are necessary for the effective performance of the job. Interviews will be conducted on an objective basis and personal or home commitments will not form the basis of employment decisions except where necessary.
-
-Appropriate training will be provided to enable staff to implement and uphold our commitment to equality of opportunity and diversity.
-
-All staff have a right to equality of opportunity and dignity at work and a duty to implement this policy. Breach of the equal opportunity and diversity policy is potentially a serious disciplinary matter. Anyone who believes that he or she may have been disadvantaged on discriminatory grounds is entitled to raise the matter through the Grievance Procedure.
-
-The Operation’s Director will have ultimate responsibility for implementation of this policy. The Human Resource Manager will co-ordinate the policy’s implementation and can deal with any queries relating to it.
 
 
 
@@ -95,11 +133,10 @@ Documents
 ^^^^^^^^^
 
 
-Single Equality Scheme (SES)
-````````````````````````````
+Single Equality Scheme
+``````````````````````
 
-Our *Single Equality Scheme* document
-is a list of actions or products
+A list of actions or products
 that will build equality into the provision of |The Setting|,
 with the following attributes:
 
@@ -220,105 +257,58 @@ A form with the following questions:
 
 
 
-What is discrimination?
-^^^^^^^^^^^^^^^^^^^^^^^
-
-Direct discrimination occurs where someone is put at a disadvantage or treated less favourably on discriminatory grounds in relation to his or her employment. Direct discrimination may occur even when unintentional.
-
-Examples:
-
-
-
-1. A woman with young children fails to obtain a job because it is feared that she might be an unreliable member of staff.
-
-
-2. A Sikh applicant for a senior post is not appointed because he might not ‘fit in’ with the existing (all white) team.
-
-
-3. A person is subjected to sexual innuendo or other offensive conduct of a sexual nature at work.
-
-
-
-Indirect discrimination occurs where the individual’s employment is subject to an unjustified provision, criteria or practice which is applied equally to persons of all groups but which puts or would put at a particular disadvantage persons of a particular group and it cannot be shown to be a proportionate means of achieving a legitimate aim.
-
-Examples:
-
-
-
-1. A requirement for GCSE English as a selection criterion. This would have disparately adverse impact on people educated overseas and may not be justified if all that is needed is to demonstrate a reasonable level of literacy.
-
-
-2. Full-time work—this would have a disparately adverse impact on more women with small children as they are generally accepted as taking the primary childcare role. It may not be justified if our business needs can still be met by more flexible working arrangements.
-
-
-
-Disability discrimination occurs where an individual is unjustifiably disadvantaged in employment/recruitment for a reason connected with his/her disability unless the discrimination cannot be avoided by making reasonable adjustments.
-
-Examples:
-
-
-
-1. A requirement for staff to hold a valid driving licence for a job which involves little travelling.
-
-
-2. Failure to recruit a wheelchair user without first considering whether the working arrangements or premises can reasonably be adapted to his/her needs.
-
-
-
-Victimisation occurs where an individual is treated less favourably than colleagues because he/she has taken action, in good faith, to assert their statutory rights or assisted a colleague with information in that regard.
-
-Harassment is unwanted conduct based on discriminatory grounds which affects the dignity of an individual at work or creates an intimidating, hostile, degrading, humiliating or offensive environment. Harassment may be visual, verbal or physical. (More details are set out in the employers’ policy on Harassment at Work).
-
-We are committed to ensuring that all our staff and applicants for employment are protected from unlawful discrimination in employment.
-
-
-
 Meetings and groups
 ^^^^^^^^^^^^^^^^^^^
 
 
-The SES
-```````
-
-Regular meeting
-"""""""""""""""
+Once per term
+`````````````
 
 A termly meeting is held including:
 
-* The *Equal Opportunities* *Policy Officer*
-* The *Setting Manager*
-* Invited members of the *Equal Opportunities* *Working Group*
+* |The Equal Opportunities Officer|
+* |The Setting Manager|
+* Invited members of the *Equal Opportunities Working Group*
 
 in order to:
 
-* review the progress of actions in the SES that have begun
-* reassess the priority of the actions in the SES, based on the current parties to |The Setting|
-* assign resources (time and money) to the highest-priority actions in the updated SES
+* review the progress of actions in the `Single Equality Scheme`_ that have begun
+* reassess the priority of the actions in the `Single Equality Scheme`_,
+  based on the current parties to |The Setting|
+* assign resources to the highest-priority actions in the updated `Single Equality Scheme`_
 
 
-Ad hoc enrolment
-""""""""""""""""
 
-Upon the enrolment of every child,
-the guardians are invited to recommend changes to the current SES.
-If any changes are recommended,
-the *Equal Opportunities* *Policy Officer*
-adds them and may call an early `Regular meeting`_.
-
-
-Equality Impact Check, and Access Audit
-```````````````````````````````````````
+Every six months
+````````````````
 
 A biennial completion of
-the `Equality Impact Check`_
-and
-the `Access Audit`_
-is done by the *Equal opportunities* *Policy Officer*.
+the `Equality Impact Check`_ and the `Access Audit`_
+is done by the |Equal opportunities Officer|.
 Shortcomings are noted as appropriate in:
 
-* the *Policy Amendment Appendix* to the current policy
-* the SES
+* An update of the current policy
+* the `Single Equality Scheme`_
 
+
+
+Enrolment of a new child
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Upon the enrolment of every child,
+the guardians are invited to recommend changes to the current `Single Equality Scheme`_.
+If any changes are recommended,
+|The Equal Opportunities Officer| adds them.
+
+
+A child undertakes discrimination
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+We actively discourage bullying and name calling.
+In the event of such activity, the parents of both children are informed immediately and we discuss appropriate action with them.
+A member of staff would talk to the child and explain that the behaviour was unkind.
+We would take into the account the maturity of the child.
+The parent of the child would be told of his inappropriate behaviour and we would work together to remedy the situation.
 
 
 Specific guidelines for each Key Equality Strand
@@ -335,30 +325,24 @@ but should be useful for consultation.
 Ethnicity
 `````````
 
-We actively discourage bullying and name calling.
-In the event of such activity, the parents of both children are informed immediately and we discuss appropriate action with them.
-A member of staff would talk to the child and explain that the behaviour was unkind.
-We would take into the account the maturity of the child.
-The parent of the child would be told of his inappropriate behaviour and we would work together to remedy the situation.
-
-At the nursery we value and respect all racial origins, religions, cultures and languages.
-Each child is valued as an individual, without racial or gender stereotyping.
-We endeavour to provide access and facilities for children with special educational needs.
-All play equipment is selected to show positive images of all races, cultures and disabilities and to avoid racial or sexist stereotyping.
-Our good practice enables children to develop positive attitudes to differences in race, culture, language and gender.
-
+* When selecting play equipment,
+  it should avoid stereotyping
+  and represent all `identity groups`_ fairly.
 
 
 Origin
 ``````
 
+* all crucial documents
+  are made available in multiple languages.
+
 
 Achievement
 ```````````
 
-* setting suitable learning challenges; 
-* responding to children’s diverse learning needs; 
-* overcoming potential barriers to learning and assessment for individuals and groups of children; 
+* setting suitable learning challenges;
+* responding to children’s diverse learning needs;
+* overcoming potential barriers to learning and assessment for individuals and groups of children;
 * providing other curricular opportunities outside the Early Years Foundation Stage to meet the needs of individuals or groups of children.
 
 We achieve educational inclusion by continually reviewing what we do, through asking ourselves these key questions:
@@ -376,7 +360,6 @@ Staff ensure children:
 * take responsibility for their own actions
 * participate safely
 * are taught in groupings that allow them all to experience success
-* use materials that reflect a range of social and cultural backgrounds, without stereotyping
 * have a common curriculum experience that allows for a range of different learning styles
 * have challenging targets that enable them to succeed
 * are encouraged to participate fully, regardless of disabilities or medical needs
@@ -394,9 +377,11 @@ Health
 Physical disability
 """""""""""""""""""
 
-Some children in our nursery may have disabilities and consequently may need additional resources.
-We are committed to providing an environment that allows these children full access to all areas of learning.
-All our entrances are wide enough for wheelchair access.
+When any new addition to the grounds is planned,
+|The Equal Opportunities Officer| ensures that
+it fully passes the `Access Audit`_.
+
+
 All staff modify learning as appropriate for these children.
 For example, they may give additional time to children with disabilities to complete certain activities.
 In their planning teachers ensure that they give children with disabilities the opportunity to develop skills in practical aspects of the curriculum.
