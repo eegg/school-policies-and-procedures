@@ -118,7 +118,7 @@ Fire safety specifics
 Escape route
 ^^^^^^^^^^^^
 
-The definition of your **Escape Route** differs depending on your location in *The Setting*, as follows.
+The definition of your **Escape Route** differs depending on your location in |The Setting|, as follows.
 All routes lead to the *Assembly Point*.
 
 +------------------------------------------------------+----------------------------------+

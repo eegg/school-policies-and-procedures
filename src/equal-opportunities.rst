@@ -42,14 +42,14 @@ Discrimination
   in order to affect the legal rights,
   or the right to be treated according to
   all other policies and procedures
-  set out for *The Setting*,
+  set out for |The Setting|,
   of anyone.
 
 
 Policy
 ------
 
-*The Setting* endeavours that *Discrimination* does not exist.
+|The Setting| endeavours that *Discrimination* does not exist.
 
 We will ensure that our service is fully inclusive in meeting the needs of all children, particularly those that arise from their ethnic heritage, social and economic background, gender, ability or disability.
 Our setting is committed to anti-discriminatory practice to promote equality of opportunity and valuing diversity for all children and families.
@@ -62,7 +62,7 @@ We aim to:
 * improve our knowledge and understanding of issues of anti-discriminatory practice, promoting equality and valuing diversity
 * make inclusion a thread that runs through all of the activities of the setting
 
-*The Setting* recognises that some children and adults are treated unequally for a lot of different reasons.
+|The Setting| recognises that some children and adults are treated unequally for a lot of different reasons.
 We believe that this is wrong and aim to ensure that every child and adult who visits and uses our setting will feel equally welcomed, valued and respected.
 
 The employers’ are equal opportunity employers who are committed to ensuring within the framework of the law that its workplaces are free from unlawful or unfair discrimination on the grounds of colour, race, nationality, ethnic or national origin, sex, gender (including gender reassignment), sexual orientation, religion or belief reassignment, [age], marital status or physical or mental disability.
@@ -100,14 +100,14 @@ Single Equality Scheme (SES)
 
 Our *Single Equality Scheme* document
 is a list of actions or products
-that will build equality into the provision of *The Setting*,
+that will build equality into the provision of |The Setting|,
 with the following attributes:
 
 * Description of finished action
 * The *Key Equality Strand*,
   or *Strands*,
   in which the action will implement equality
-* The parties to *The Setting*
+* The parties to |The Setting|
   for which the action will have a positive impact
 * Start date
 * Estimated time for completion
@@ -292,7 +292,7 @@ A termly meeting is held including:
 in order to:
 
 * review the progress of actions in the SES that have begun
-* reassess the priority of the actions in the SES, based on the current parties to *The Setting*
+* reassess the priority of the actions in the SES, based on the current parties to |The Setting|
 * assign resources (time and money) to the highest-priority actions in the updated SES
 
 

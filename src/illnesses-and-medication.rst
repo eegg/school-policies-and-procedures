@@ -93,7 +93,7 @@ Regularly Administered Medication List
 A list of medications
 that must be administered
 to specified children
-during their time at *The Setting*,
+during their time at |The Setting|,
 containing the following information:
 
 * Name of child
@@ -267,10 +267,10 @@ to include the following information:
    as follows:
    
      The above details are correct to the best of my knowledge.
-     If the above details change I will notify *The Setting* immediately.
+     If the above details change I will notify |The Setting| immediately.
      If emergency treatment is required,
      and the child’s legal guardians cannot be reached immediately,
-     I allow *The Setting* authorities to
+     I allow |The Setting| authorities to
      (1) call the health professionals and contacts detailed above and
      (2) transport the child to a hospital.
    
@@ -376,7 +376,7 @@ the *Illnesses and medication Officer*:
    
    * assesses whether
      its administration is possible
-     in *The Setting*.
+     in |The Setting|.
      If it is not,
      informs the guardians that
      a qualified nurse
@@ -431,7 +431,7 @@ the *Illnesses and medication Officer*:
    * informs the *Setting Manager* of
      the results of the above,
      such that they may
-     notify *The Setting*'s insurance company
+     notify |The Setting|'s insurance company
      of any medication on the premises.
      
      
@@ -455,7 +455,7 @@ Stored medication checklist
 
 * have been administered to the child
   for at least 48 hours
-  before using it at *The Setting*
+  before using it at |The Setting|
 
 * has the following details clearly attached:
  
@@ -484,7 +484,7 @@ Stored medication checklist
 Notifiable diseases
 ^^^^^^^^^^^^^^^^^^^
 
-When *The Setting* becomes aware,
+When |The Setting| becomes aware,
 or is informed of any notifiable disease,
 the *Illnesses and medication Officer*:
 
@@ -500,12 +500,12 @@ Allergy List procedures
 ```````````````````````
 
 All guardians and collectors
-of children at *The Setting*
+of children at |The Setting|
 are made aware of the
 `Allergy List`_,
 and informed that:
 
-* none of the items therein may be brought into the grounds of *The Setting*
+* none of the items therein may be brought into the grounds of |The Setting|
 
 
 Regular cleaning
@@ -626,7 +626,7 @@ they will:
    every 30 minutes in order to:
    
    * inform the contact of the child's state
-   * get an updated estimate of their time of arrival at *The Setting*
+   * get an updated estimate of their time of arrival at |The Setting|
 
 #. Inform the guardians of
    the policy on the `Exclusion guidance table`_.
@@ -635,7 +635,7 @@ they will:
 Admitting a child to The Setting
 ````````````````````````````````
 
-Every time a child arrives at *The Setting*,
+Every time a child arrives at |The Setting|,
 they are only admitted if
 the following criteria
 can be fulfilled:
@@ -650,7 +650,7 @@ can be fulfilled:
 
 * All medication in the child's `Health Details Card`_
   and any `Short-term Prescribed Medication Form`_
-  is present at *The Setting*
+  is present at |The Setting|
   in accordance with the requirements of the `Stored medication checklist`_.
 
 
@@ -684,7 +684,7 @@ using the `Noticing illness`_ table:
    #. **Circulation**
    
 #. On the arrival of the emergency services,
-   all the child's medication in the care of *The Setting*
+   all the child's medication in the care of |The Setting|
    is handed over with the child.
 
 

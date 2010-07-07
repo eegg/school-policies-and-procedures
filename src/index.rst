@@ -100,7 +100,7 @@ That is to say,
 neither the policies nor procedures are
 'passive' documents or dusty lawbooks.
 The reason for their existence is to provide useful information
-for all parties to *The Setting*,
+for all parties to |The Setting|,
 to be accessed at any stage of any predicament,
 giving specific advice on how to handle the predicament.
 
@@ -160,7 +160,7 @@ Each of our policies is divided into the following sections, in the following or
 |                         | how *Team Members* should guide and instruct them.                                  |
 |                         | Ideally *event-driven*: each subsection *X* covers what should happen in event *X*. |
 +-------------------------+-------------------------------------------------------------------------------------+
-| **Documents**           | Physical documents that should exist in *The Setting*.                              |
+| **Documents**           | Physical documents that should exist in |The Setting|.                              |
 |                         | Details of their content and organization.                                          |
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Basis**               | Any documents that were the theoretical or legal foundation of the document,        |
@@ -250,16 +250,16 @@ he, him, his
   You may mentally replace this usage at your preference to *he/she*, *he or she*, *s/he*, *&c.*
 
 Team Member
-  An adult working within *The Setting*.
+  An adult working within |The Setting|.
 
 Staff Member
-  A *Team Member* that is employed by *The Setting*.
+  A *Team Member* that is employed by |The Setting|.
 
 Volunteer
-  A *Team Member* that is not employed by *The Setting*.
+  A *Team Member* that is not employed by |The Setting|.
 
 Visitor
-  An adult in *The Setting* that is not a *Team Member*.
+  An adult in |The Setting| that is not a *Team Member*.
 
 Visiting Child Collector
   A *Visitor* that is a named *Child Collector* for a *Child* currently booked in at that time.

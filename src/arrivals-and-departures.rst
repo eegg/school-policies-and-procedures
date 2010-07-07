@@ -46,7 +46,7 @@ In order that the actions of all staff and guardians are properly synchronized,
 everyone determines the time by the *Authoritative Clocks*, which we provide such that:
 
 * they are synchronized within two minutes of Greenwich Mean Time (British Summer Time)
-* they are visible to guardians from outside *The Setting*
+* they are visible to guardians from outside |The Setting|
 
 
 Arrivals

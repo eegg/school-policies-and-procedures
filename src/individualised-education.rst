@@ -60,7 +60,7 @@ Documents
 SEN register
 ````````````
 
-A register of all SENs is kept in *The Setting*.
+A register of all SENs is kept in |The Setting|.
 This is a list of SENs, with the following attributes:
 
 * Child
@@ -80,7 +80,7 @@ It is the responsibility of the *Setting SENCO* to keep the SEN register up-to-d
 Individual SEN folders
 ``````````````````````
 
-For each SEN in *The Setting*,
+For each SEN in |The Setting|,
 a separate folder is kept, divided into:
 
 * IEPs
@@ -111,7 +111,7 @@ containing the following:
 
 signifying agreement with the following statement in the case of *Action*:
 
-  I give permission to *The Setting*
+  I give permission to |The Setting|
   to compose and review
   Individual Education Plans (IEPs)
   for the above named child,
@@ -122,7 +122,7 @@ and the following statement in the case of *Action Plus*:
 
   I give permission for information
   relating to the above named child
-  to be released by *The Setting*
+  to be released by |The Setting|
   to the following relevant professionals
   (delete as appropriate):
   
@@ -211,7 +211,7 @@ and secondly entering the IEP cycles.
 It may be entered *via* two routes:
 
 * culmination of the `Identification`_ phase
-* initiation by a guardian of a new child at *The Setting* with a SEN
+* initiation by a guardian of a new child at |The Setting| with a SEN
 
 The stages are as follows:
 
@@ -235,7 +235,7 @@ The stages are as follows:
         
         * The *Setting SENCO*
         * All relevant *Team Leaders*
-        * All *Key Persons* in *The Setting*
+        * All *Key Persons* in |The Setting|
          
         in order to discuss:
         

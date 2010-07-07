@@ -17,7 +17,7 @@ This policy and procedure is taken in conjunction with the Confidentiality Polic
 
 All information
 and processes
-in *The Setting*
+at |The Setting|
 are recorded
 where:
 

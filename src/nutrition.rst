@@ -153,7 +153,7 @@ Reporting of food poisoning
 Breakfast, Lunch and Tea Club 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
  
-*The Setting* provides the opportunity for children to have breakfast, lunch and tea. 
+|The Setting| provides the opportunity for children to have breakfast, lunch and tea. 
 We do all we can to ensure that the meals provided have a suitable nutritional value. 
 Children will have the opportunity throughout the sessions to visit the snack bar where fruit, other nutritional snacks and fresh water are available. 
 An additional snack time will be held throughout both the morning and afternoon sessions, where milk and fruit is provided. 

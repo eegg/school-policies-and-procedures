@@ -53,13 +53,13 @@ Signal
 Policies
 --------
 
-For each child enrolled, *The Setting* will ensure:
+For each child enrolled, |The Setting| will ensure:
 
 * that he is not subject to *Abuse*
 * his right to privacy and confidentiality
 * all his other legal rights
 
-*The Setting* will:
+|The Setting| will:
 
 * be equipped to recognise any violations of the above
 * work with guardians, the community, and external bodies, where appropriate, to ensure the above
@@ -121,7 +121,7 @@ Visitors
     * Name, age, sex of child
     * Date and time of booked visit
 
-* To enter *The Setting*, a caller must satisfy all of the following:
+* To enter |The Setting|, a caller must satisfy all of the following:
 
   * he can claim, via the intercom system, without hesitation or back-tracking, a legimate reason for visiting
   * He either:
@@ -232,7 +232,7 @@ he will:
 
 #. Ensure that,
    for each suspect or accusee,
-   at least one *Staff Member* is present with them when in *The Setting*.
+   at least one *Staff Member* is present with them when in |The Setting|.
 #. note down in the *Child Protection Record*:
 
    * the child of concern
@@ -303,7 +303,7 @@ he will:
 * Request of the *Manager* that
   the accusee is suspended,
   on the same pay rate,
-  from entering *The Setting*,
+  from entering |The Setting|,
   until the investigation is complete.
 
 * Seek advice from Children Schools and Families
@@ -354,7 +354,7 @@ Support to families
 Family Support
 ^^^^^^^^^^^^^^
 
-*The Setting* will take every step in its power to build up trusting and supportive relationships between families, staff and volunteers in the group.
+|The Setting| will take every step in its power to build up trusting and supportive relationships between families, staff and volunteers in the group.
 Where abuse at home is suspected, the Nursery School will continue to welcome the child and family while investigations proceed.
 
 
@@ -462,7 +462,7 @@ Enforcement
 * Prospective *Visitors*
   are informed of our procedures
   under `Visitors`_
-  when they arrive at *The Setting*.
+  when they arrive at |The Setting|.
 * *Guardians* are informed of our procedures
   under `Dealing with allegations against staff`_
   when their child is enrolled.

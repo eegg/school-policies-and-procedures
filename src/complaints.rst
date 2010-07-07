@@ -108,7 +108,7 @@ The role of Ofsted and the Local Safeguarding Children Board
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Parents may approach Ofsted directly at any stage of this complaints procedure.
-  In addition, where there seems to be a possible breach of *The Setting*'s registration requirements, it is essential to involve Ofsted as the registering and inspection body with a duty to ensure the Welfare Requirements of the Early Years Foundation Stage are adhered to.
+  In addition, where there seems to be a possible breach of |The Setting|'s registration requirements, it is essential to involve Ofsted as the registering and inspection body with a duty to ensure the Welfare Requirements of the Early Years Foundation Stage are adhered to.
 * The number to call Ofsted with regard to a complaint is:
 
 * These details are displayed on our setting's notice board.

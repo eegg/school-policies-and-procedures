@@ -138,7 +138,7 @@ Educating minimization of conflict
 The *Key Person* :
 
 * Provides a relationship
-  between the child and *The Setting*
+  between the child and |The Setting|
 
 
 On the lookout
@@ -194,7 +194,7 @@ Using Physical Restraint
        authorised to use *Physical Restraint*.
    (#) Alert *The Police*, giving the following information:
      
-       * The location of *The Setting*
+       * The location of |The Setting|
        * Who is involved in the incident
 
 5. Go to `Post-incident procedures`_.
@@ -275,7 +275,7 @@ Post-incident procedures
    including the post-incident discussion above.
 #. Risk assess,
    using a *Risk Assessment Form*,
-   the presence of the abuser in *The Setting*.
+   the presence of the abuser in |The Setting|.
 #. Based on the Risk Assessment,
    assess whether it is appropriate to contact the following:
 
@@ -312,14 +312,14 @@ Post-incident procedures
      and
      the *Risk Assessment*
    * find whether similar incidents
-     are happening outside of *The Setting*
+     are happening outside of |The Setting|
    * gain permission to
      contact any appropriate external bodies
    * produce a strategy
      for dealing with inappropriate behaviour
    * gain support for
      any removal of children
-     from *The Setting*
+     from |The Setting|
 
 #. Based on the *Incident Form*,
    the involved children's history and circumstances,
@@ -379,7 +379,7 @@ ways in which you might deal with it
 |                   | Where words fail, inappropriate behaviour   |                                         |                                           |
 |                   | can get the desired response.               |                                         |                                           |
 +-------------------+---------------------------------------------+-----------------------------------------+-------------------------------------------+
-| **Stress**        | Inappropriate behaviour can temporarily     | * The child is new at *The Setting*     | Make life as normal as possible:          |
+| **Stress**        | Inappropriate behaviour can temporarily     | * The child is new at |The Setting|     | Make life as normal as possible:          |
 |                   | relieve, or distract from, stress.          | * The child is about to leave *The      |                                           |
 |                   |                                             |   Setting*                              | * predictable meals and  can help.        |
 |                   |                                             | * There is change or upheaval at home   | * predictable bedtimes                    |
@@ -419,7 +419,7 @@ ways in which you might deal with it
 |                   |                                             | * Behaviour takes the form of chewing   |                                           |
 |                   |                                             |   or biting.                            |                                           |
 +-------------------+---------------------------------------------+-----------------------------------------+-------------------------------------------+
-| **Isolation**     | Without an attachment to *The Setting* or   | * The child is new at *The Setting*     | * Consider switching the *Key Person* of  |
+| **Isolation**     | Without an attachment to |The Setting| or   | * The child is new at |The Setting|     | * Consider switching the *Key Person* of  |
 |                   | the people around them, the child may not   | * The child has not made strong         |   the child                               |
 |                   | value their feelings.                       |   connections with peers or their *Key  |                                           |
 |                   |                                             |   Person*                               |                                           |
