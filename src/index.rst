@@ -146,7 +146,8 @@ Each of our policies is divided into the following sections, in the following or
 
    The goal of this document is that
    team members can gain information as quickly as possible.
-   In this spirit, the policies proceed from high-level aims (the *Policy* section)
+   In this spirit, the policies proceed are *front-loaded*:
+   they proceed from high-level aims (the *Policy* section)
    to low-level details (*e.g.*, the *Definitions* section).
 
 +-------------------------+-------------------------------------------------------------------------------------+
@@ -165,6 +166,8 @@ Each of our policies is divided into the following sections, in the following or
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Basis**               | Any documents that were the theoretical or legal foundation of the document,        |
 |                         | or were referred to in the policy or which may be useful for further reading.       |
++-------------------------+-------------------------------------------------------------------------------------+
+| **Definitions**         | Key terms that are used in the rest of the document.                                |
 +-------------------------+-------------------------------------------------------------------------------------+
 | **Enforcement**         | How all parties are to be informed of the above Policies and Procedures.            |
 +-------------------------+-------------------------------------------------------------------------------------+
