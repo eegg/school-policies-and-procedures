@@ -9,8 +9,6 @@ Safeguarding
 
 
 
-
-
 Policies
 --------
 
@@ -111,18 +109,18 @@ Visitors
 Indicators of Abuse
 ^^^^^^^^^^^^^^^^^^^
 
-*Team Members* regard the following `indicators of abuse`_ in a child as sufficient for suspicion of abuse_.
+*Team Members* regard the following as sufficient for suspicion of abuse_.
 
 +----------------------+----------------------------------------+-----------------------------------------+
 | Type of Abuse        | Signs                                  | Signals                                 |
 +======================+========================================+=========================================+
-| *`physical abuse`_*  | * bruises                              | * aggression                            |
+| `physical abuse`_    | * bruises                              | * aggression                            |
 |                      | * scalds or burns                      | * behavioural problems                  |
 |                      | * fractures                            | * poor achievement                      |
 +----------------------+----------------------------------------+-----------------------------------------+
-| *`emotional abuse`_* | * the parent's treatment of the child  | * a lack of sense of self               |
+| `emotional abuse`_   | * the parent's treatment of the child  | * a lack of sense of self               |
 +----------------------+----------------------------------------+-----------------------------------------+
-| *`sexual abuse`_*    | More visible when penetrative acts     | * Sexualised behaviour or a knowledge   |
+| `sexual abuse`_      | More visible when penetrative acts     | * Sexualised behaviour or a knowledge   |
 |                      | have taken place:                      |   thereof beyond the typical            |
 |                      |                                        | * Sadness, depression                   |
 |                      |   * genital or anal soreness           | * Aggression                            |
@@ -130,7 +128,7 @@ Indicators of Abuse
 |                      |   * infections                         |                                         |
 |                      |   * pain                               |                                         |
 +----------------------+----------------------------------------+-----------------------------------------+
-| *neglect_*           | * Guardians failing to provide:        | * Impaired growth and development       |
+| neglect_             | * Guardians failing to provide:        | * Impaired growth and development       |
 |                      |                                        | * Poor health                           |
 |                      |   * food                               | * Difficulties in forming relationships |
 |                      |   * clothing                           | * Low educational achievement           |
@@ -156,7 +154,7 @@ All *Team Members* suspecting a child of abuse_ will:
    * the date and time these details were noted down
 
 #. store the *Incident Sheet* safely.
-#. pass their suspicions and the reasons for it to the |The Child Protection Officer|,
+#. pass their suspicions and the reasons for it to the |The Safeguarding Officer|,
    after which the procedures under `Internal procedures for determining Abuse`_ will be followed.
 
 
@@ -186,7 +184,7 @@ Where a *Team Member* is the recipient of a disclosure, he:
 Internal procedures for determining Abuse
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When |The Child Protection Officer| is
+When |The Safeguarding Officer| is
 approached by a *Team Member* with a suspicion of abuse_,
 or by anyone with an accusation of abuse_ against a *Team Member*,
 he will:
@@ -212,16 +210,17 @@ he will:
 #. If the accusee is a *Team Member*,
    follow the procedures under `Dealing with allegations against staff`_.
 
-If the |The Child Protection Officer| finds `evidence of abuse`_, he will follow the procedures under `Reporting Abuse to external bodies`_.
+If the |The Safeguarding Officer| finds `evidence of abuse`_, he will follow the procedures under `Reporting evidence of abuse`_.
 If however he is satisfied that the *Indicators* do not constitute `evidence of abuse`_,
 the file in the `Child Protection Record`_ is marked as closed, with the reasons why so.
 
 
+.. _evidence of abuse:
 
-Reporting Abuse to external bodies
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Reporting evidence of abuse
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Once the |The Child Protection Officer| has found `evidence of abuse`_, he should:
+Once the |The Safeguarding Officer| has found `evidence of abuse`_, he should:
 
 #. Contact the *Local Safeguarding Children Board* verbally.
 #. Record in the open file in the `Child Protection Record`_
@@ -237,7 +236,7 @@ Once the |The Child Protection Officer| has found `evidence of abuse`_, he shoul
    the police or another agency identified by the *Local Safeguarding Children Board*
    in any subsequent investigation.
 
-When *Team Members* are informed by the |The Child Protection Officer|
+When *Team Members* are informed by the |The Safeguarding Officer|
 that contact has been made with the *Local Safeguarding Children Board*,
 they should:
 
@@ -251,7 +250,7 @@ they should:
 Dealing with allegations against staff
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When |The Child Protection Officer| is approached by
+When |The Safeguarding Officer| is approached by
 anyone with an accusation of abuse_ against a *Team Member*,
 he will:
 
@@ -274,13 +273,13 @@ Upon completion of investigation
 ````````````````````````````````
 
 If the accusee is found innocent,
-|The Child Protection Officer|:
+|The Safeguarding Officer|:
 
 * Requests of |The Setting Manager| that
   the accusee is immediately reinstated in their original post
 
 If the accusee is found innocent,
-|The Child Protection Officer|:
+|The Safeguarding Officer|:
 
 * notifies the Independent Barring Board
   so that the guilty may be included on
@@ -414,10 +413,23 @@ The managers implement the school’s health, safety and welfare policy on a day
 
 
 
+Documents
+---------
+
+
+Child Protection Record
+^^^^^^^^^^^^^^^^^^^^^^^
+
+A document containing:
+
+* ...
+
+
 Definitions
 -----------
 
 .. _physical abuse:
+
 Physical Abuse
   Any kind of physical harm inflicted (with the exception of `sexual abuse`_ as defined below), which may be by way of:
   
@@ -428,19 +440,27 @@ Physical Abuse
   * shaking or throwing
   * poisoning
 
+
 .. _sexual abuse:
+
 Sexual Abuse
   Forcing or enticing a child or young person to take part in sexual activities (physical, visual, or mental), whether or not the child is aware of what is happening.
 
+
 .. _emotional abuse:
+
 Emotional Abuse
   Persistent ill-treatment of a child such as to cause severe and persistent adverse effects on the child's emotional development. 
 
+
 .. _neglect:
+
 Neglect
   The persistent failure to meet a child's basic physical and/or psychological needs.
 
+
 .. _abuse:
+
 Abuse
   Abuse can take different forms.  We recognise:
     
@@ -449,15 +469,21 @@ Abuse
   * `sexual abuse`_, as defined above
   * neglect_, as defined above
 
+
 .. _indicator:
+
 Indicator
   A fact about a child which suggests that the child has been, or is, subject to abuse_.
 
+
 .. _sign:
+
 Sign
   A physical, visual, apparent `indicator`_.
 
+
 .. _signal:
+
 Signal
   A behavioural `indicator`_.
 
@@ -527,12 +553,6 @@ Basis
 | **Department of Health**  | `Framework for the Assessment of Children in Need and their Families`_    | 2000  |
 +---------------------------+---------------------------------------------------------------------------+-------+
 
-
-See also
---------
-
-* Use of force
-
 .. _Children Act 2004: http://www.opsi.gov.uk/acts/acts2004/ukpga_20040031_en_1
 .. _Children Act 1989: http://www.opsi.gov.uk/acts/acts1989/ukpga_19890041_en_1
 .. _Protection of Children Act: http://www.opsi.gov.uk/acts/acts1999/ukpga_19990014_en_1
@@ -552,3 +572,8 @@ See also
 .. _Framework for the Assessment of Children in Need and their Families: http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_4003256
 
 
+
+See also
+--------
+
+* Use of force
