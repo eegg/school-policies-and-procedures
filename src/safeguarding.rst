@@ -9,45 +9,6 @@ Safeguarding
 
 
 
-Definitions
------------
-
-Physical Abuse
-  Any kind of physical harm inflicted (with the exception of *Sexual Abuse* as defined below), which may be by way of:
-  
-  * hitting, punching, kicking, *&c.*
-  * biting
-  * burning or scalding
-  * suffocating or drowning
-  * shaking or throwing
-  * poisoning
-
-Sexual Abuse
-  Forcing or enticing a child or young person to take part in sexual activities (physical, visual, or mental), whether or not the child is aware of what is happening.
-
-Emotional Abuse
-  Persistent ill-treatment of a child such as to cause severe and persistent adverse effects on the child's emotional development. 
-
-Neglect
-  The persistent failure to meet a child's basic physical and/or psychological needs.
-
-Abuse
-  Abuse can take different forms.  We recognise:
-    
-  * *Physical Abuse*, as defined above
-  * *Emotional abuse*, as defined above
-  * *Sexual abuse*, as defined above
-  * *Neglect*, as defined above
-
-Indicator
-  A fact about a child which suggests that the child has been, or is, subject to *Abuse*.
-
-Sign
-  A physical, visual, apparent *Indicator*.
-
-Signal
-  A behavioural *Indicator*.
-
 
 
 Policies
@@ -450,6 +411,48 @@ The nursery will not tolerate violence, threatening behaviour or abuse directed 
 If such incidents do occur, the nursery will take the matter very seriously, and take action in line with the LEA’s policy.
 The nursery, in consultation with professional advisors, carries out regular risk assessments, with the object of keeping the nursery environment safe.
 The managers implement the school’s health, safety and welfare policy on a day-to-day basis, and ensure that all staff are aware of the details of the policy as it applies to them.
+
+
+
+Definitions
+-----------
+
+Physical Abuse
+  Any kind of physical harm inflicted (with the exception of *Sexual Abuse* as defined below), which may be by way of:
+  
+  * hitting, punching, kicking, *&c.*
+  * biting
+  * burning or scalding
+  * suffocating or drowning
+  * shaking or throwing
+  * poisoning
+
+Sexual Abuse
+  Forcing or enticing a child or young person to take part in sexual activities (physical, visual, or mental), whether or not the child is aware of what is happening.
+
+Emotional Abuse
+  Persistent ill-treatment of a child such as to cause severe and persistent adverse effects on the child's emotional development. 
+
+Neglect
+  The persistent failure to meet a child's basic physical and/or psychological needs.
+
+Abuse
+  Abuse can take different forms.  We recognise:
+    
+  * *Physical Abuse*, as defined above
+  * *Emotional abuse*, as defined above
+  * *Sexual abuse*, as defined above
+  * *Neglect*, as defined above
+
+Indicator
+  A fact about a child which suggests that the child has been, or is, subject to *Abuse*.
+
+Sign
+  A physical, visual, apparent *Indicator*.
+
+Signal
+  A behavioural *Indicator*.
+
 
 
 Enforcement
