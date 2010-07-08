@@ -16,7 +16,7 @@ Policies
 
 For each child enrolled, |The Setting| will ensure:
 
-* that he is not subject to *Abuse*
+* that he is not subject to abuse_
 * his right to privacy and confidentiality
 * all his other legal rights
 
@@ -111,41 +111,41 @@ Visitors
 Indicators of Abuse
 ^^^^^^^^^^^^^^^^^^^
 
-*Team Members* regard the following *Indicators of Abuse* in a child as sufficient for suspicion of *Abuse*.
+*Team Members* regard the following `indicators of abuse`_ in a child as sufficient for suspicion of abuse_.
 
-+---------------------+----------------------------------------+-----------------------------------------+
-| Type of Abuse       | Signs                                  | Signals                                 |
-+=====================+========================================+=========================================+
-| **Physical Abuse**  | * bruises                              | * aggression                            |
-|                     | * scalds or burns                      | * behavioural problems                  |
-|                     | * fractures                            | * poor achievement                      |
-+---------------------+----------------------------------------+-----------------------------------------+
-| **Emotional Abuse** | * the parent's treatment of the child  | * a lack of sense of self               |
-+---------------------+----------------------------------------+-----------------------------------------+
-| **Sexual Abuse**    | More visible when penetrative acts     | * Sexualised behaviour or a knowledge   |
-|                     | have taken place:                      |   thereof beyond the typical            |
-|                     |                                        | * Sadness, depression                   |
-|                     |   * genital or anal soreness           | * Aggression                            |
-|                     |   * abrasions                          |                                         |
-|                     |   * infections                         |                                         |
-|                     |   * pain                               |                                         |
-+---------------------+----------------------------------------+-----------------------------------------+
-| **Neglect**         | * Guardians failing to provide:        | * Impaired growth and development       |
-|                     |                                        | * Poor health                           |
-|                     |   * food                               | * Difficulties in forming relationships |
-|                     |   * clothing                           | * Low educational achievement           |
-|                     |   * shelter                            |                                         |
-|                     |   * medical treatment                  |                                         |
-|                     |   * for the child's emotional needs    |                                         |
-+---------------------+----------------------------------------+-----------------------------------------+
-| **Common to all**   | * physical harm                        | * loss of appetite                      |
-|                     |                                        | * disturbing content in role-play       |
-|                     |                                        |   or artistic expression                |
-|                     |                                        | * **disclosure**                        |
-+---------------------+----------------------------------------+-----------------------------------------+
++----------------------+----------------------------------------+-----------------------------------------+
+| Type of Abuse        | Signs                                  | Signals                                 |
++======================+========================================+=========================================+
+| *`physical abuse`_*  | * bruises                              | * aggression                            |
+|                      | * scalds or burns                      | * behavioural problems                  |
+|                      | * fractures                            | * poor achievement                      |
++----------------------+----------------------------------------+-----------------------------------------+
+| *`emotional abuse`_* | * the parent's treatment of the child  | * a lack of sense of self               |
++----------------------+----------------------------------------+-----------------------------------------+
+| *`sexual abuse`_*    | More visible when penetrative acts     | * Sexualised behaviour or a knowledge   |
+|                      | have taken place:                      |   thereof beyond the typical            |
+|                      |                                        | * Sadness, depression                   |
+|                      |   * genital or anal soreness           | * Aggression                            |
+|                      |   * abrasions                          |                                         |
+|                      |   * infections                         |                                         |
+|                      |   * pain                               |                                         |
++----------------------+----------------------------------------+-----------------------------------------+
+| *neglect_*           | * Guardians failing to provide:        | * Impaired growth and development       |
+|                      |                                        | * Poor health                           |
+|                      |   * food                               | * Difficulties in forming relationships |
+|                      |   * clothing                           | * Low educational achievement           |
+|                      |   * shelter                            |                                         |
+|                      |   * medical treatment                  |                                         |
+|                      |   * for the child's emotional needs    |                                         |
++----------------------+----------------------------------------+-----------------------------------------+
+| **Common to all**    | * physical harm                        | * loss of appetite                      |
+|                      |                                        | * disturbing content in role-play       |
+|                      |                                        |   or artistic expression                |
+|                      |                                        | * **disclosure**                        |
++----------------------+----------------------------------------+-----------------------------------------+
 
-Any *Team Member* noting *any* of the above will suspect that child is a victim of *Abuse*.
-All *Team Members* suspecting a child of *Abuse* will:
+Any *Team Member* noting *any* of the above will suspect that child is a victim of abuse_.
+All *Team Members* suspecting a child of abuse_ will:
 
 #. If a disclosure is one of the reasons for suspicion,
    follow the procedures under `Dealing with disclosures`_
@@ -156,7 +156,7 @@ All *Team Members* suspecting a child of *Abuse* will:
    * the date and time these details were noted down
 
 #. store the *Incident Sheet* safely.
-#. pass their suspicions and the reasons for it to the *Child Protection Officer*,
+#. pass their suspicions and the reasons for it to the |The Child Protection Officer|,
    after which the procedures under `Internal procedures for determining Abuse`_ will be followed.
 
 
@@ -171,7 +171,7 @@ Where a *Team Member* is the recipient of a disclosure, he:
 * gives assurance that she or he will take action (but does not make promises as to what conclusions will come of it)
 * reassures the child that it was not his fault
 * tells the child that speaking was the right thing to do
-* makes a written record after the event in the *Child Protection Record* that includes:
+* makes a written record after the event in the `Child Protection Record`_ that includes:
 
   * the date and time of the observation
   * the exact words spoken by the child, as far as possible
@@ -186,22 +186,22 @@ Where a *Team Member* is the recipient of a disclosure, he:
 Internal procedures for determining Abuse
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When the *Child Protection Officer* is
-approached by a *Team Member* with a suspicion of *Abuse*,
-or by anyone with an accusation of *Abuse* against a *Team Member*,
+When |The Child Protection Officer| is
+approached by a *Team Member* with a suspicion of abuse_,
+or by anyone with an accusation of abuse_ against a *Team Member*,
 he will:
 
 #. Ensure that,
    for each suspect or accusee,
    at least one *Staff Member* is present with them when in |The Setting|.
-#. note down in the *Child Protection Record*:
+#. note down in the `Child Protection Record`_:
 
    * the child of concern
    * who approached him (whether a *Team Member* or a *Guardian*)
    * the date and time he was approached
    * the date and time he noted down these details
 
-#. regard the changes as *Evidence of Abuse*, unless and only unless:
+#. regard the changes as `evidence of abuse`_, unless and only unless:
 
    * the child has not been placed on the Safeguarding Children Register, *and*
    * immediate, clear, and consistent innocent explanation for the changes is given, *without* any prompting:
@@ -212,24 +212,24 @@ he will:
 #. If the accusee is a *Team Member*,
    follow the procedures under `Dealing with allegations against staff`_.
 
-If the *Child Protection Officer* finds *Evidence of Abuse*, he will follow the procedures under `Reporting Abuse to external bodies`_.
-If however he is satisfied that the *Indicators* do not constitute *Evidence of Abuse*,
-the file in the *Child Protection Record* is marked as closed, with the reasons why so.
+If the |The Child Protection Officer| finds `evidence of abuse`_, he will follow the procedures under `Reporting Abuse to external bodies`_.
+If however he is satisfied that the *Indicators* do not constitute `evidence of abuse`_,
+the file in the `Child Protection Record`_ is marked as closed, with the reasons why so.
 
 
 
 Reporting Abuse to external bodies
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Once the *Child Protection Officer* has found *Evidence of Abuse*, he should:
+Once the |The Child Protection Officer| has found `evidence of abuse`_, he should:
 
 #. Contact the *Local Safeguarding Children Board* verbally.
-#. Record in the open file in the *Child Protection Record*
-   that the *Indicators of Abuse* are being treated as *Evidence of Abuse*, and why.
+#. Record in the open file in the `Child Protection Record`_
+   that the `indicators of abuse`_ are being treated as `evidence of abuse`_, and why.
 #. Inform all *Team Members* that
    contact has been made with the *Local Safeguarding Children Board* concerning the child.
 #. Within 48 hours of the above contact,
-   securely send complete copies of the file in the *Child Protection Record*
+   securely send complete copies of the file in the `Child Protection Record`_
    to the *Local Safeguarding Children Board*.
 #. Prepare to co-operate fully with
    the *Local Safeguarding Children Board*
@@ -237,7 +237,7 @@ Once the *Child Protection Officer* has found *Evidence of Abuse*, he should:
    the police or another agency identified by the *Local Safeguarding Children Board*
    in any subsequent investigation.
 
-When *Team Members* are informed by the *Child Protection Officer*
+When *Team Members* are informed by the |The Child Protection Officer|
 that contact has been made with the *Local Safeguarding Children Board*,
 they should:
 
@@ -251,17 +251,17 @@ they should:
 Dealing with allegations against staff
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When the *Child Protection Officer* is approached by
-anyone with an accusation of *Abuse* against a *Team Member*,
+When |The Child Protection Officer| is approached by
+anyone with an accusation of abuse_ against a *Team Member*,
 he will:
 
 * Refer it immediately to:
 
   * *Social Services*
   * Ofsted
-  * if the accusee is the *Manager*: Children Schools and Families
+  * if the accusee is |The Setting Manager|: Children Schools and Families
   
-* Request of the *Manager* that
+* Request of |The Setting Manager| that
   the accusee is suspended,
   on the same pay rate,
   from entering |The Setting|,
@@ -274,13 +274,13 @@ Upon completion of investigation
 ````````````````````````````````
 
 If the accusee is found innocent,
-the *Child Protection Officer*:
+|The Child Protection Officer|:
 
-* Requests of the *Manager* that
+* Requests of |The Setting Manager| that
   the accusee is immediately reinstated in their original post
 
 If the accusee is found innocent,
-the *Child Protection Officer*:
+|The Child Protection Officer|:
 
 * notifies the Independent Barring Board
   so that the guilty may be included on
@@ -417,8 +417,9 @@ The managers implement the school’s health, safety and welfare policy on a day
 Definitions
 -----------
 
+.. _physical abuse:
 Physical Abuse
-  Any kind of physical harm inflicted (with the exception of *Sexual Abuse* as defined below), which may be by way of:
+  Any kind of physical harm inflicted (with the exception of `sexual abuse`_ as defined below), which may be by way of:
   
   * hitting, punching, kicking, *&c.*
   * biting
@@ -427,31 +428,38 @@ Physical Abuse
   * shaking or throwing
   * poisoning
 
+.. _sexual abuse:
 Sexual Abuse
   Forcing or enticing a child or young person to take part in sexual activities (physical, visual, or mental), whether or not the child is aware of what is happening.
 
+.. _emotional abuse:
 Emotional Abuse
   Persistent ill-treatment of a child such as to cause severe and persistent adverse effects on the child's emotional development. 
 
+.. _neglect:
 Neglect
   The persistent failure to meet a child's basic physical and/or psychological needs.
 
+.. _abuse:
 Abuse
   Abuse can take different forms.  We recognise:
     
-  * *Physical Abuse*, as defined above
-  * *Emotional abuse*, as defined above
-  * *Sexual abuse*, as defined above
-  * *Neglect*, as defined above
+  * `physical abuse`_, as defined above
+  * `emotional abuse`_, as defined above
+  * `sexual abuse`_, as defined above
+  * neglect_, as defined above
 
+.. _indicator:
 Indicator
-  A fact about a child which suggests that the child has been, or is, subject to *Abuse*.
+  A fact about a child which suggests that the child has been, or is, subject to abuse_.
 
+.. _sign:
 Sign
-  A physical, visual, apparent *Indicator*.
+  A physical, visual, apparent `indicator`_.
 
+.. _signal:
 Signal
-  A behavioural *Indicator*.
+  A behavioural `indicator`_.
 
 
 
