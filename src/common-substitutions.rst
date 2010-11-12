@@ -74,7 +74,7 @@
 .. |Looked-After Children Officer|          replace:: Gaynor Sloan
 .. |Toiletting Officer|                     replace:: Gaynor Sloan
 .. |Risk Assessment Officer|                replace:: Gaynor Sloan
-.. |Safeguarding Officer|                   replace:: Gaynor Sloan
+.. |Safeguarding Officer|                   replace:: Siobhan Brine
 .. |Security Officer|                       replace:: Gaynor Sloan
 .. |Health and Safety Officer|              replace:: Gaynor Sloan
 .. |First Aid Officer|                      replace:: Gaynor Sloan
