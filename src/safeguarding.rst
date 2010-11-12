@@ -3,7 +3,7 @@ Safeguarding
 ============
 
 .. include:: common-metadata.rst
-:Officer: |Safeguarding|
+:Officer: |Safeguarding Officer|
 
 .. contents::
 
@@ -169,7 +169,7 @@ Where a *Team Member* is the recipient of a disclosure, he:
 * gives assurance that she or he will take action (but does not make promises as to what conclusions will come of it)
 * reassures the child that it was not his fault
 * tells the child that speaking was the right thing to do
-* makes a written record after the event in the `Confidential files`_ that includes:
+* makes a written record after the event in the confidential files that includes:
 
   * the date and time of the observation
   * the exact words spoken by the child, as far as possible
