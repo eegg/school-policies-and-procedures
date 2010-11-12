@@ -3,7 +3,7 @@ Safeguarding
 ============
 
 .. include:: common-metadata.rst
-:Officer: |Safeguarding Officer|
+:Officer: |Safeguarding|
 
 .. contents::
 
@@ -169,7 +169,7 @@ Where a *Team Member* is the recipient of a disclosure, he:
 * gives assurance that she or he will take action (but does not make promises as to what conclusions will come of it)
 * reassures the child that it was not his fault
 * tells the child that speaking was the right thing to do
-* makes a written record after the event in the `Child Protection Record`_ that includes:
+* makes a written record after the event in the `Confidential files`_ that includes:
 
   * the date and time of the observation
   * the exact words spoken by the child, as far as possible
@@ -256,7 +256,7 @@ he will:
 
 * Refer it immediately to:
 
-  * *Social Services*
+  * *the Children's Safeguarding Service on 01245 436744*
   * Ofsted
   * if the accusee is |The Setting Manager|: Children Schools and Families
   
@@ -278,7 +278,7 @@ If the accusee is found innocent,
 * Requests of |The Setting Manager| that
   the accusee is immediately reinstated in their original post
 
-If the accusee is found innocent,
+If the accusee is found guilty,
 |The Safeguarding Officer|:
 
 * notifies the Independent Barring Board
@@ -330,7 +330,7 @@ Informing parents
 Child protection
 ^^^^^^^^^^^^^^^^
 
-The named person with responsibility for child protection in the nursery is the managers.
+The named person with responsibility for child protection in the nursery is Siobhan Brine.
 We will follow the procedures for child protection (see Child Protection Policy).
 If any member of staff suspects that a child in their class may be the victim of abuse, they should not try to investigate, but should immediately inform the person responsible in the nursery for child protection (the managers) about their concerns.
 We require all adults employed in the nursery to have an up to date CRB record, in order to check that there is no evidence of offences involving children or abuse.
@@ -344,18 +344,18 @@ Nursery security
 
 While it is difficult to make the nursery site totally secure, we will do all we can to ensure that the nursery is a safe environment for the children to play and learn in and staff to work in.
 We review security measures regularly, and carry out a daily Risk Assessment and draw upon the advice of experts (e.g. police officers, fire officers, architects and other consultants).
-We require all adult visitors who arrive in normal nursery hours to sign the visitors’ book in the reception area, and to wear an identification badge at all times whilst on the nursery premises.
+We require all adult visitors who arrive in normal nursery hours to sign the visitors’ book in the reception area, and these persons will never be left alone but will always be accompanied by a staff member.
 
 
 Stranger awareness
 ^^^^^^^^^^^^^^^^^^
 
 Staff are constantly alert to any strangers on the premises.
-We will not open the door to anyone that is unknown to us and will NEVER release a child to anybody other than the parent/guardian unless a permission form is signed.
+We will not open the door to anyone that is unknown to us and will NEVER release a child to anybody other than the parent/guardian unless a permission form is signed on the named guardian and collectors sheet.
 Children’s names and identity are protected at all times and staff will not disclose information about any child attending the nursery to any person other than those immediately responsible for the child.
 If the child was the subject of a child protection issue, information would only be shared with Social Services or other agencies involved in a strictly confidential manner.
 Parents have a responsibility to inform staff if anyone other than themselves is collecting their child for whatever reason.
-Staff will ask parent to complete form situated in the cloakroom area as to who is going to be collecting their child only then will they be released from our care.
+Staff will check the named collectors sheet and if the person nominated to collect the child is not listed with a photograph then the child will not be released from our care.
 If we are unsure at any time, parents will be contacted to confirm the identity of any person.
 
 
@@ -395,7 +395,6 @@ Internet safety
 
 We regularly use the Internet in the nursery, because it has many educational benefits.
 In order to minimise the risk of children coming across unsuitable material, we provide constant supervision, and we use only a filtered service, selected links, and child-friendly search engines.
-Parents are asked to sign authorisation for their child to use the Internet.
 We also seek parental permission before using photographs of children or their work on the nursery’s website, or in newsletters and other publications.
 
 
