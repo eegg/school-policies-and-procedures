@@ -102,6 +102,17 @@ containing the following information:
 * Times to administer
 * When the course is to cease (if known)
 
+Non-prescription Medication Permission Form
+``````````````````````````````````````````````````````````
+
+A list of non-prescription medications or first-aid that staff are permitted to administer.
+It contains the following information:
+
+* Name of child
+* Date of birth
+* List of non-prescription medicines and minor first-aid remedies
+* Guardian's name and signature
+* Date of signature
 
 Medication Record Book
 ``````````````````````
@@ -284,7 +295,7 @@ to include the following information:
 Short-term Prescribed Medication Form
 `````````````````````````````````````
 
-A form completed by a child's General Practitioner,
+A form completed by a child's guardian upon delivering to the setting a prescribed medication labelled for the child,
 to include:
 
 * The child's:
@@ -296,14 +307,7 @@ to include:
 * Dosage
 * When to administer
 * When the course of medication is to cease
-* The General Practitioner's:
 
-  * Full name
-  * Signature
-  * Practice:
-  
-    * Address
-    * Telephone number
 
 * The guardians':
 
@@ -445,13 +449,12 @@ the *Illnesses and medication Officer*:
 #. ensures all noted medicinal items:
    
    * fulfil the `Stored medication checklist`_
-   * are added to the `Regularly Administered Medication List`_
 
 
 Stored medication checklist
 ```````````````````````````
 
-* are stored in the *Medication Cabinet*
+* are stored in the *Medication Cabinet* or the refrigerator in the locked kitchen
 
 * have been administered to the child
   for at least 48 hours
@@ -576,9 +579,9 @@ after which the *Key Person* will follow the procedure at
 `Removing a child from The Setting`_.
 
 ========================  ==================  ==============================  ===================================================
-Symptom                   Type                Confirmation procedure          Non-medicinal treatment
+Symptom                   Type                Confirmation procedure          Treatment
 ========================  ==================  ==============================  ===================================================
-**high temperature**      Exclusion           use the `ear thermometer`_      remove top clothing; sponge head with cool water
+**high temperature**      Exclusion           use the `ear thermometer`_      remove top clothing; administer paediatric suspensions of either paracetamol or ibuprofen if permitted on the non-prescription medication form
 **low temperature**       Exclusion           use the `ear thermometer`_
 **vomiting**              Exclusion
 **diarrhoea**             Exclusion
