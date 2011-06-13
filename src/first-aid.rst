@@ -17,6 +17,19 @@ At least one member of staff with current first aid training is on the premises 
 The first aid qualification includes first aid training for infants and young children.
 
 
+Documents
+---------
+
+
+Accident book
+^^^^^^^^^^^^^
+
+* is kept safely and accessibly;
+* is accessible to all staff and volunteers, who know how to complete it; and
+* is reviewed at least half termly to identify any potential or actual hazards.
+
+
+
 Procedures
 ----------
 
@@ -55,18 +68,18 @@ Note that:
   on the understanding that parents have been informed and are on their way to the hospital.
 
 
-Accident book
-^^^^^^^^^^^^^
+An accident happens
+^^^^^^^^^^^^^^^^^^^
 
-* is kept safely and accessibly;
-* is accessible to all staff and volunteers, who know how to complete it; and
-* is reviewed at least half termly to identify any potential or actual hazards.
+When an accident happens:
 
-Ofsted is notified of any injury requiring treatment by a general practitioner or hospital doctor, or the death of a child or adult.
+* If an injury requires treatment by a general practitioner or hospital doctor,
+  Ofsted is notified.
+* When there is any injury requiring general practitioner or hospital treatment
+  to a child, parent, volunteer or visitor
+  or where there is a death of a child or adult on the premises,
+  we make a report to the Health and Safety Executive using the RIDDOR format.
 
-When there is any injury requiring general practitioner or hospital treatment to a child, parent, volunteer or visitor
-or where there is a death of a child or adult on the premises,
-we make a report to the Health and Safety Executive using the format for the Reporting of Injuries, Diseases and Dangerous Occurrences.
 
 
 External documents
