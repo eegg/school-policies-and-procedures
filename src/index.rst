@@ -45,7 +45,6 @@ The name of the Officer for the policy follows in parentheses.
    #. **Record-keeping**
 
       #. `Confidentiality <confidentiality.html>`_ (|Confidentiality Officer|)
-      #. `Accidents and incidents <accidents-and-incidents.html>`_ (|Accidents and Incidents Officer|)
       #. `Children's records <childrens-records.html>`_ (|Children's Records Officer|)
       #. `Provider records <provider-records.html>`_ (|Provider Records Officer|)
 
@@ -70,7 +69,8 @@ The name of the Officer for the policy follows in parentheses.
       #. `Safeguarding <safeguarding.html>`_ (|Safeguarding Officer|)
       #. `Security <security.html>`_ (|Security Officer|)
       #. `Health and safety <health-and-safety.html>`_ (|Health and Safety Officer|)
-      #. `First aid <first-aid.html>`_ (|First Aid Officer|)
+      #. `Accidents <accidents.html>`_ (|Accident Officer|)
+      #. `Incidents <incidents.html>`_ (|Incident Officer|)
 
    #. **Community and partnership**
 
