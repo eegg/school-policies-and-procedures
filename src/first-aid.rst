@@ -1,9 +1,9 @@
 =========
-First aid
+Accidents
 =========
 
 .. include:: common-metadata.rst
-:Officer: |First Aid Officer|
+:Officer: |Accident Officer|
 
 .. contents::
 
@@ -55,6 +55,20 @@ Note that:
   on the understanding that parents have been informed and are on their way to the hospital.
 
 
+Accident book
+^^^^^^^^^^^^^
+
+* is kept safely and accessibly;
+* is accessible to all staff and volunteers, who know how to complete it; and
+* is reviewed at least half termly to identify any potential or actual hazards.
+
+Ofsted is notified of any injury requiring treatment by a general practitioner or hospital doctor, or the death of a child or adult.
+
+When there is any injury requiring general practitioner or hospital treatment to a child, parent, volunteer or visitor
+or where there is a death of a child or adult on the premises,
+we make a report to the Health and Safety Executive using the format for the Reporting of Injuries, Diseases and Dangerous Occurrences.
+
+
 External documents
 ------------------
 
@@ -63,6 +77,7 @@ Legal framework
 ^^^^^^^^^^^^^^^
 
 * Health and Safety (First Aid ) Regulations (1981)
+* Accident Record, Pre-school Learning Alliance (2008)
 
 
 Further guidance
