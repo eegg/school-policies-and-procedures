@@ -3,9 +3,6 @@ Parental leave
 ============== 
  
 .. include:: common-metadata.rst 
-:Date: 2010-06-19
-:Version: 1 
-
 
 
 Policy

@@ -3,8 +3,6 @@ Caring for pets
 ===============
 
 .. include:: common-metadata.rst
-:Date: 2010-06-11
-:Version: 1
 
 
 Policy

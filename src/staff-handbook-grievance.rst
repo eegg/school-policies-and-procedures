@@ -2,33 +2,18 @@
 Grievance
 ========= 
  
-.. include:: common-metadata.rst 
-:Date: 2010-06-19
-:Version: 1 
-
+.. include:: common-metadata.rst
 
 
 Policy
 ------
 
 1. This procedure applies to all employees, regardless of job or grade, employed by the employers or who work at a home or centre owned or operated by the employers. Its aim is to resolve individual grievances fairly, consistently and speedily.
-
-
 2. The employers recognise that misunderstandings or grievances may sometimes occur. It is most important that these grievances are brought out into the open and resolved as quickly and fairly as possible.
-
-
 3. In most cases this can be done on an informal basis between the employee and the employee’s line manager, who in most cases should be best placed to successfully deal with the issue.
-
-
 4. However there are occasions when a more formal approach may be needed. This grievance procedure is designed to ensure that an employee’s grievance is addressed, and if possible, successfully resolved.
-
-
 5. When following this procedure the employers will not seek to discriminate against any employee. When appropriate under the Disability Discrimination Act 1995, The employers will make reasonable adjustments to cater for an individual who has a disability. An employee who believes this provision applies to them, should notify the employers as soon as possible giving full details, including suggested reasonable adjustments to be made to the procedure being followed.
-
-
 6. All grievance documentation, so far as possible, must be typed.
-
-
 7. This procedure is not intended to be a contractual term and condition of employment with the employers.
 
 
@@ -38,45 +23,20 @@ Issues covered by this grievance procedure
 
 
 1. A grievance is a problem or concern that an employee has about their work, working conditions or relationships with colleagues that they wish to talk about with management.
-
-
 2. Examples of issues that may cause grievances include, but are not limited to:
-
-
 3. 
 
-1. terms and conditions of employment;
-
-
-2. health and safety;
-
-
-3. work relationships between colleagues or managers;
-
-
-4. bullying and harassment;
-
-
-5. new working practices;
-
-
-6. working environment;
-
-
-7. organisational change; and
-
-
-8. equal opportunities.
-
-
-
+  1. terms and conditions of employment;
+  2. health and safety;
+  3. work relationships between colleagues or managers;
+  4. bullying and harassment;
+  5. new working practices;
+  6. working environment;
+  7. organisational change; and
+  8. equal opportunities.
 
 4. This procedure does not apply if the employee’s grievance relates to any decision to dismiss or to other disciplinary action taken by management against the employee. In such cases the employees’ Disciplinary Policy and Procedure must be followed.
-
-
 5. This grievance procedure incorporates the procedural requirements of the statutory grievance procedures as set out in Schedule 2 Employment Act 2002 and the Employment Act 2002 (Dispute Resolution) Regulations 2004.
-
-
 6. Employees are reminded that they must submit a formal grievance in writing to management, and wait 28 days, if they wish subsequently to use the grievance as the basis of most types of application to the employment tribunal, including alleged claims for constructive unfair dismissal, unlawful deductions from wages or discrimination complaints.
 
 

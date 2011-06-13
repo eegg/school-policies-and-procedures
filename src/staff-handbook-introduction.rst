@@ -3,8 +3,6 @@ Introduction
 ================= 
  
 .. include:: common-metadata.rst 
-:Date: 2010-06-19
-:Version: 1 
 
 
 Purpose
