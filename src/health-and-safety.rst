@@ -244,7 +244,7 @@ The risk assessment must cover:
 
 
 Accidents at work
------------------
+`````````````````
 
 We have designated trained First-Aiders. Lists of First Aiders are displayed on the Employee Notice Boards, and are identified as such in the internal telephone directory.
 
@@ -256,7 +256,7 @@ If you suffer an accident at work, you (or someone on your behalf) must report t
 
 
 Fire Safety Procedures
-----------------------
+``````````````````````
 
 Procedures for fire and other emergency evacuation are displayed prominently in all rooms.
 Fire drills are held once each term and this is recorded in our Fire Drill book.
@@ -470,7 +470,7 @@ External documents
 
 
 Legal Framework
-```````````````
+^^^^^^^^^^^^^^^
 
 * `The Management of Health and Safety at Work Regulations 1999 <www.opsi.gov.uk/SI/si1999/19993242.htm>`_
 * Health and Safety at Work Act (1974)
@@ -489,7 +489,7 @@ Legal Framework
 
 
 Further guidance
-````````````````
+^^^^^^^^^^^^^^^^
 
 * `Health and Safety Law: What you Should Know (HSE 1999) <www.hse.gov.uk/pubns/law.pdf>`_
 * `Health and Safety Regulation ... a Short Guide (HSE 2003) <www.hse.gov.uk/pubns/hsc13.pdf>`_

@@ -24,7 +24,6 @@ Issues covered by this grievance procedure
 
 1. A grievance is a problem or concern that an employee has about their work, working conditions or relationships with colleagues that they wish to talk about with management.
 2. Examples of issues that may cause grievances include, but are not limited to:
-3. 
 
   1. terms and conditions of employment;
   2. health and safety;

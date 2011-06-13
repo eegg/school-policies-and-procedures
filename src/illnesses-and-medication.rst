@@ -12,6 +12,12 @@ Illnesses and medication
 Policy
 ------
 
+.. container:: definition
+
+   Condition
+
+     Illness or injury.
+
 We endeavour to maintain the health of our *Team Members* and our children.
 We are, however, an educational setting,
 and not in the business of providing healthcare.

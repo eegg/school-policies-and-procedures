@@ -69,7 +69,6 @@ The name of the Officer for the policy follows in parentheses.
       #. `Safeguarding <safeguarding.html>`_ (|Safeguarding Officer|)
       #. `Security <security.html>`_ (|Security Officer|)
       #. `Health and safety <health-and-safety.html>`_ (|Health and Safety Officer|)
-      #. `Accidents <accidents.html>`_ (|Accident Officer|)
       #. `Incidents <incidents.html>`_ (|Incident Officer|)
 
    #. **Community and partnership**
