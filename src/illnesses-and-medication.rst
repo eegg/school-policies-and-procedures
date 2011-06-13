@@ -33,6 +33,11 @@ has four parts, ensuring for children and *Team Members* that:
    we provide limited 
    `administering of medication`_
 
+In our setting staff are able to take action to apply first aid treatment in the event of an accident involving a child or adult.
+At least one member of staff with current first aid training is on the premises or on an outing at any one time.
+The first aid qualification includes first aid training for infants and young children.
+
+
 
 Procedures
 ----------
@@ -44,28 +49,29 @@ Equipment
 First-Aid Box
 `````````````
 
-This contains:
+Our first aid kit complies with the Health and Safety (First Aid) Regulations 1981,
+is easily accessible to adults and is kept out of the reach of children,
+and contains the following items only:
 
-====================================================  ==============
-Item                                                  Quantity
-====================================================  ==============
-First-aid advice leaflet                              1
-Protective face shield for CPR                        1
-Adhesive dressing (individually wrapped; sterile)     20, assorted
-Eye pad (sterile)                                     2
-Triangular bandage                                    4
-Medium wound dressing (12cm square)                   6
-Large wound dressing (18cm square)                    2
-Small non-adherent dressing (5cm square)              5
-Medium non-adherent dressing (10cm square)            5
-Hypo-allergenic tape                                  1 roll
-Disposable gloves                                     3 pairs
-Scissors                                              1 pair
-Gauze swab (5cm square; sterile)                      10 packs of 5
-Finger bandage and applicator                         1
-Sterile water (if on a trip)                          1 litre
-Ear thermometer                                       1
-====================================================  ==============
+========================================================================  ==============
+Item                                                                      Quantity
+========================================================================  ==============
+Leaflet giving general guidance on First Aid                              1
+Protective face shield for performing CPR                                 1
+Individually wrapped sterile adhesive dressing; assorted sizes            20
+Sterile eye-pad                                                           2
+Triangular bandage, individually wrapped and preferably sterile           4
+Wound dressing, medium (12cm by 12cm), individually wrapped and sterile   6 
+Wound dressing, large (18cm by 18cm), individually wrapped and sterile    6 
+Low-adherence dressing, approx. 5cm by 5cm                                5
+Low-adherence dressing, approx. 10cm by 10cm                              5
+Roll of hypoallergenic tape                                               1
+Pair of disposable gloves                                                 3
+Pair of scissors with rounded ends                                        1
+Pack of 5 sterile gauze swabs, approx. 5cm by 5cm                         10
+Finger bandage and applicator                                             1
+========================================================================  ==============
+
 
 
 Documents
@@ -102,8 +108,9 @@ containing the following information:
 * Times to administer
 * When the course is to cease (if known)
 
+
 Non-prescription Medication Permission Form
-``````````````````````````````````````````````````````````
+```````````````````````````````````````````
 
 A list of non-prescription medications or first-aid that staff are permitted to administer.
 It contains the following information:
@@ -113,6 +120,7 @@ It contains the following information:
 * List of non-prescription medicines and minor first-aid remedies
 * Guardian's name and signature
 * Date of signature
+
 
 Medication Record Book
 ``````````````````````
@@ -347,6 +355,13 @@ including:
   * Signature
 
 
+Accident book
+`````````````
+
+* is kept safely and accessibly;
+* is accessible to all staff and volunteers, who know how to complete it; and
+* is reviewed at least half termly to identify any potential or actual hazards.
+
 
 
 Exclusion guidance table
@@ -437,7 +452,7 @@ the *Illnesses and medication Officer*:
      such that they may
      notify |The Setting|'s insurance company
      of any medication on the premises.
-     
+
      
 
 Receiving a Short-term Prescribed Medication Form
@@ -570,8 +585,11 @@ However,
 the following table
 gives rudimentary instruction to *Team Members*
 on how to deal with signs of illness.
+The table is far from comprehensive,
+so First-Aid-qualified staff must judge what the appropriate action is
+given their understanding of the symptoms.
 
-If a child has any symptoms of type *Hospital*,
+If a child has any symptoms of an *Emergency*,
 go to `Dealing with emergency illnesses`_.
 Else, if the child has any symptoms of type *Exclusion*,
 inform the child's *Key Person*,
@@ -588,7 +606,7 @@ Symptom                   Type                Confirmation procedure          Tr
 **pains**                 Exclusion
 **sore throat**           Exclusion
 **nasal discharge**       Exclusion
-**FAST symptoms**         Hospital
+**FAST symptoms**         Emergency
 ========================  ==================  ==============================  ===================================================
 
 
@@ -663,7 +681,7 @@ Dealing with emergency illnesses
 If an emergency is identified
 using the `Noticing illness`_ table:
 
-#. The child's *Key Person* stays with the child.
+#. A member of staff, preferably the child's *Key Person*, is assigned to stay with the child.
 
 #. The *Illnesses and medication officer*
    finds the following forms for the child:
@@ -685,10 +703,23 @@ using the `Noticing illness`_ table:
    #. **Airway**
    #. **Breathing**
    #. **Circulation**
-   
+
 #. On the arrival of the emergency services,
    all the child's medication in the care of |The Setting|
    is handed over with the child.
+
+
+An accident happens
+^^^^^^^^^^^^^^^^^^^
+
+When an accident happens:
+
+* If an injury requires treatment by a general practitioner or hospital doctor,
+  Ofsted is notified.
+* When there is any injury requiring general practitioner or hospital treatment
+  to a child, parent, volunteer or visitor
+  or where there is a death of a child or adult on the premises,
+  we make a report to the Health and Safety Executive using the RIDDOR format.
 
 
 
@@ -796,6 +827,8 @@ Basis
 |                           +-------------------------------------------------------------------------------------+-------+
 |                           | `Public Health (Infectious Diseases) Regulations                                    | 1988  |
 |                           | <http://www.opsi.gov.uk/si/si1988/Uksi_19881546_en_1.htm>`_                         |       |
+|                           +-------------------------------------------------------------------------------------+-------+
+|                           | Health and Safety (First Aid) Regulations                                           | 1981  |
 +---------------------------+-------------------------------------------------------------------------------------+-------+
 | **DCSF**                  | `Managing Medicines in Schools and Early Years Settings                             | 2005  |
 |                           | <http://publications.teachernet.gov.uk/eOrderingDownload/1448-2005PDF-EN-02.pdf>`_  |       |
@@ -806,7 +839,20 @@ Basis
 | **Asthma UK**             | `Your child at school                                                               |       |
 |                           | <http://www.asthma.org.uk/all_about_asthma/for_parents/at_school/index.html>`_      |       |
 +---------------------------+-------------------------------------------------------------------------------------+-------+
-
+| **HSE**                   | `First Aid at Work: Your questions answered                                         | 1997  |
+|                           | <www.hse.gov.uk/pubns/indg214.pdf>`_                                                |       |
+|                           +-------------------------------------------------------------------------------------+-------+
+|                           | `Basic Advice on First Aid at Work                                                  | 2006  |
+|                           | <www.hse.gov.uk/pubns/indg347.pdf>`_                                                |       |
++---------------------------+-------------------------------------------------------------------------------------+-------+
+| DfEE                      | `Guidance on First Aid for Schools                                                  |       |
+|                           | <www.teachernet.gov.uk/_doc/4421/GFAS.pdf>`_                                        |       |
++---------------------------+-------------------------------------------------------------------------------------+-------+
+| Pre-School Learning       | Medication Record                                                                   | 2006  |
+| Alliance                  |                                                                                     |       |
+|                           +-------------------------------------------------------------------------------------+-------+
+|                           | Accident Record                                                                     | 2008  |
++---------------------------+-------------------------------------------------------------------------------------+-------+
 
 
 .. _administering of medication: `Administering medication`_
