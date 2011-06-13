@@ -1,6 +1,6 @@
-===============================================
-Recording and reporting accidents and incidents
-===============================================
+=================================
+Recording and reporting incidents
+=================================
 
 .. include:: common-metadata.rst
 :Date: 2009-01-11
@@ -26,7 +26,7 @@ Policy
      * death of a child
      * a terrorist attack, or threat of one
 
-We follow the guidelines of the Reporting Injuries, Diseases and Dangerous Occurrences (RIDDOR) for the reporting of accidents and incidents.
+We follow the guidelines of the Reporting Injuries, Diseases and Dangerous Occurrences (RIDDOR) for the reporting of incidents.
 Child protection matters or behavioural incidents between children are NOT regarded as incidents and there are separate procedures for this.
 
 
@@ -34,8 +34,8 @@ Procedures
 ----------
 
 
-Dealing with incidents
-^^^^^^^^^^^^^^^^^^^^^^
+An incident happens
+^^^^^^^^^^^^^^^^^^^
 
 We meet our legal requirements for the safety of our employees by complying with RIDDOR (the Reporting of Injury, Disease and Dangerous Occurrences Regulations).
 We report to the Health and Safety Executive:
@@ -50,20 +50,6 @@ Any dangerous occurrence is recorded in our incident book.
 
 Documents
 ---------
-
-
-Accident book
-^^^^^^^^^^^^^
-
-
-* is kept safely and accessibly;
-* is accessible to all staff and volunteers, who know how to complete it; and
-* is reviewed at least half termly to identify any potential or actual hazards.
-
-Ofsted is notified of any injury requiring treatment by a general practitioner or hospital doctor, or the death of a child or adult.
-When there is any injury requiring general practitioner or hospital treatment to a child, parent, volunteer or visitor
-or where there is a death of a child or adult on the premises,
-we make a report to the Health and Safety Executive using the format for the Reporting of Injuries, Diseases and Dangerous Occurrences.
 
 
 Incident book
@@ -104,8 +90,3 @@ Further guidance
 
 * `RIDDOR Guidance and Reporting Form <www.hse.gov.uk/riddor/index.htm>`_
 * Accident Record, Pre-school Learning Alliance (2008)
-
-
-Definitions
------------
-
