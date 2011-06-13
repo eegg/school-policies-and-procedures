@@ -37,35 +37,41 @@ Procedures
 The First Aid Kit
 ^^^^^^^^^^^^^^^^^
 
-Our first aid kit complies with the Health and Safety (First Aid) Regulations 1981 and contains the following items only:
+Our first aid kit complies with the Health and Safety (First Aid) Regulations 1981,
+is easily accessible to adults and is kept out of the reach of children,
+and contains the following items only:
 
-* Triangular bandages (ideally at least one should be sterile) - x 4
-* Sterile dressings:
+* One leaflet giving general guidance on First Aid
+* One protective face shield for performing CPR
+* 20 individually wrapped sterile adhesive dressings of assorted size (plasters)
+* 2 sterile eye-pads
+* 4 triangular bandages, indivudually wrapped and preferably sterile
+* Wound dressings, individually wrapped and sterile
 
- * Small (formerly Medium No 8) x 3
- * Medium (formerly Large No 9) HSE 1 x 3
- * Large (formerly Extra Large No 3) HSE 2 x 3
+  * 6 medium (12cm by 12cm)
+  * 2 large (18cm by 18cm)
 
-* Composite pack containing 20 assorted (individually-wrapped) plasters 1
-* Sterile eye pads (with bandage or attachment), *e.g.* No 16 dressing 2.
-* Container or 6 safety pins 1
-* Guidance card as recommended by HSE 1
+* Low-adherence dressings:
 
-In addition to the first aid equipment, each box should be supplied with: 
+  * 5 approx. 5cm by 5cm
+  * 5 10cm by 10cm
 
-* 2 pairs of disposable plastic (PVC or vinyl) gloves
-* 1 plastic disposable apron
-* a children’s forehead ‘strip’ thermometer
+* 1 roll of hypoallergenic tape
+* 3 pairs of disposable gloves
+* 1 pair scissors with rounded ends
+* 10 packs of 5 sterile gauze swabs, approx. 5cm by 5cm
+* 1 finger bandage and applicator
 
 
-Note that: 
+Child joins
+^^^^^^^^^^^
 
-* The first aid box is easily accessible to adults and is kept out of the reach of children
-* No un-prescribed medication is given to children, parents or staff
-* At the time of admission to the setting, parents' written permission for emergency medical advice or treatment is sought.
+Our Enrolment Form contains:
+
+* parents' written permission for emergency medical advice or treatment.
   Parents sign and date their written approval.
-* Parents sign a consent form at registration allowing staff to take their child to the nearest Accident and Emergency unit to be examined, treated or admitted as necessary,
-  on the understanding that parents have been informed and are on their way to the hospital.
+* A consent form allowing staff to contact Emergency Services,
+  on the condition that the parent is informed at the same time or immediately afterwards.
 
 
 An accident happens
