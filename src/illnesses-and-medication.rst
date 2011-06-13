@@ -25,7 +25,7 @@ has four parts, ensuring for children and *Team Members* that:
    or
    contagious in any way,
    `they are removed from The Setting`_
-#. emergency illnesses are
+#. emergency conditions are
    `treated and passed to the emergency services`_
    as soon as possible
 #. if they are a child not removed
@@ -577,20 +577,20 @@ Removal of illness
 ^^^^^^^^^^^^^^^^^^
 
 
-Noticing illness
-````````````````
+Noticing conditions
+```````````````````
 
 We are not diagnosticians.
 However,
 the following table
 gives rudimentary instruction to *Team Members*
-on how to deal with signs of illness.
+on how to deal with signs of conditions.
 The table is far from comprehensive,
 so First-Aid-qualified staff must judge what the appropriate action is
 given their understanding of the symptoms.
 
 If a child has any symptoms of an *Emergency*,
-go to `Dealing with emergency illnesses`_.
+go to `Dealing with emergency conditions`_.
 Else, if the child has any symptoms of type *Exclusion*,
 inform the child's *Key Person*,
 after which the *Key Person* will follow the procedure at 
@@ -631,7 +631,7 @@ they will:
 
 #. If possible,
    confirm the observations using the confirmation procedure
-   in the `Noticing illness`_ table.   
+   in the `Noticing conditions`_ table.   
    If the observations were baseless,
    stop.
 
@@ -641,7 +641,7 @@ they will:
    
 #. Alleviate confirmed symptoms,
    by using the non-medicinal means
-   in the `Noticing illness`_ table.
+   in the `Noticing conditions`_ table.
 
 #. Repeat contact with the successful contact
    every 30 minutes in order to:
@@ -661,7 +661,7 @@ they are only admitted if
 the following criteria
 can be fulfilled:
 
-* The child displays no symptoms in the `Noticing illness`_ table
+* The child displays no symptoms in the `Noticing conditions`_ table
 * If the child was excluded on their last visit to the nursery,
   the guardians either:
   
@@ -675,11 +675,11 @@ can be fulfilled:
   in accordance with the requirements of the `Stored medication checklist`_.
 
 
-Dealing with emergency illnesses
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dealing with emergency conditions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If an emergency is identified
-using the `Noticing illness`_ table:
+If an emergency condition is identified
+using the `Noticing conditions`_ table:
 
 #. A member of staff, preferably the child's *Key Person*, is assigned to stay with the child.
 
@@ -708,19 +708,23 @@ using the `Noticing illness`_ table:
    all the child's medication in the care of |The Setting|
    is handed over with the child.
 
+#. |The Illnesses and Medication Officer|:
+
+   #. notifies Ofsted
+   #. makes a report to the Health and Safety Executive using the RIDDOR format
+
 
 An accident happens
 ^^^^^^^^^^^^^^^^^^^
 
-When an accident happens:
+When an accident happens to a child,
+any conditions are identified using the procedure under `Noticing conditions`_.
+In all cases:
 
-* If an injury requires treatment by a general practitioner or hospital doctor,
-  Ofsted is notified.
-* When there is any injury requiring general practitioner or hospital treatment
-  to a child, parent, volunteer or visitor
-  or where there is a death of a child or adult on the premises,
-  we make a report to the Health and Safety Executive using the RIDDOR format.
-
+* The child's Key Person records all details in the `Accident Book`_.
+* When the child is collected,
+  the child's Key Person notifies the collector,
+  and asks the collector to sign in the Accident Book.
 
 
 Administering medication
@@ -858,6 +862,6 @@ Basis
 .. _administering of medication: `Administering medication`_
 .. _The Setting is a healthy environment: `Maintaining a healthy environment`_
 .. _they are removed from The Setting: `Removal of illness`_
-.. _treated and passed to the emergency services: `Dealing with emergency illnesses`_
+.. _treated and passed to the emergency services: `Dealing with emergency conditions`_
 
 .. _ear thermometer: `First-Aid Box`_

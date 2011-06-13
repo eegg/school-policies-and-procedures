@@ -87,19 +87,6 @@ Where necessary we seek the advice of a competent person, such as our Fire Offic
 
 
 
-Documents
----------
-
-
-Accident Book
-`````````````
-
-A book listing accidents, organized by date and time, with the following attributes:
-
-* Date and time
-* ...
-
-
 Procedures
 ----------
 
@@ -113,16 +100,6 @@ In the nursery we aim to:
 * Control situations likely to be hazardous to health and safety in the nursery or cause damage to persons or equipment.
 * Provide a safe and healthy environment.
 
-
-An accident happens
-```````````````````
-
-When a child has an accident in the care of The Setting:
-
-* The child's Key Person records all details in the `Accident Book`_.
-* When the child is collected,
-  the child's Key Person notifies the collector,
-  and asks the collector to sign in the Accident Book.
 
 
 Safety of adults
