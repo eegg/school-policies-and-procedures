@@ -329,7 +329,7 @@ to include:
   * Signature
 
 
-Health Issue Care Plan Card
+Health Issue Care Plan 
 ```````````````````````````
 
 A form completed by the *Illnesses and medication Officer*
@@ -436,7 +436,7 @@ the *Illnesses and medication Officer*:
      
      
      and to, if deemed necessary,
-     complete a `Health Issue Care Plan Card`_.
+     complete a `Health Issue Care Plan`_.
      
    * organizes a meeting,
      to include:
@@ -619,7 +619,7 @@ Symptom                   Type                Confirmation procedure          Tr
 FAST symptoms
 """""""""""""
 
-*Staff Members* memorise the **FAST** group of four groups of symptoms of anaphylaxis:
+*Staff Members* are aware of the **FAST** group of four groups of symptoms of anaphylaxis:
 
 * **F** ace: itchiness, redness, swelling
 * **A** irway: trouble breathing, swallowing, speaking
@@ -685,9 +685,8 @@ Dealing with emergency conditions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If an emergency condition is identified
-using the `Noticing conditions`_ table:
 
-#. A member of staff, preferably the child's *Key Person*, is assigned to stay with the child.
+#. A first-aid qualified member of staff, preferably the child's *Key Person*, is assigned to stay with the child.
 
 #. The *Illnesses and medication officer*
    finds the following forms for the child:
@@ -704,14 +703,16 @@ using the `Noticing conditions`_ table:
    * the child's health details on the `Health Details Card`_
 
 #. If deemed necessary,
-   the child's *Key Person* follows the ABC protocols:
+   the qualified first-aider follows the ABBB protocols:
    
    #. **Airway**
    #. **Breathing**
-   #. **Circulation**
+   #. **Bleeding**
+   #. **Bones**
+
 
 #. On the arrival of the emergency services,
-   all the child's medication in the care of |The Setting|
+   all the child's medication and details in the care of |The Setting|
    is handed over with the child.
 
 #. |The Illnesses and Medication Officer|:
@@ -723,13 +724,17 @@ using the `Noticing conditions`_ table:
 An accident happens
 ^^^^^^^^^^^^^^^^^^^
 
-When an accident happens to a child,
-any conditions are identified using the procedure under `Noticing conditions`_.
+When an accident happens to a child and a Team Member has identified the need to have the child collected by the parent or the emergency services, the Team Member will decide if it is necessary to have the child transported to hospital without the guardian if the guardian has not arrived within a period of not more than 1 hour following the accident.
+It may be necessary, in the interests of the child, to transport the child immediately to hospital and, in this case, Team Members will await the arrival of the emergency services in order to do this and the guardians will be informed to meet us at the hospital.
+Team Members will administer first-aid to attend to the immediate safety and well-being of the child before the emergency services or guardians arrive. Team Members will monitor the child's condition using an 'accident monitoring form' and will continually reassess the situation until either the emergency services or the guardian arrives.
+If first-aid has stabilised the child's condition, the guardian has been successfully contacted and advised that they will need to collect the child, take the child immediately to a Healthcare Professional and is on their way to the setting, Team Members will await the arrival of the guardian up to, but not exceeding a period of 1 hour following the accident.  After this period has elapsed, the emergency services will be called.
+
 In all cases:
 
-* The child's Key Person records all details in the `Accident Book`_.
+* The child's guardian is contacted to inform them of the accident
+* A member of staff records all details in the `Accident Book`_.
 * When the child is collected,
-  the child's Key Person notifies the collector,
+  the staff member notifies the collector,
   and asks the collector to sign in the Accident Book.
 
 
@@ -740,10 +745,10 @@ Administering medication
 Administration of on-going medication
 `````````````````````````````````````
 
-The *Key Person* is aware of
-their children's details on the `Regularly Administered Medication List`_.
+All Team Members are aware of
+the children's details on the `Regularly Administered Medication List`_.
 At the times at which medication is to be administered,
-the *Key Person*:
+the Team Member:
 
 
 #. Records, in the `Medication Record Book`_:
@@ -752,7 +757,7 @@ the *Key Person*:
    * name and strength of medication
    * the date and time of dose
    * dose given and method
-   * signature of the child's *Key Person* and the guardian
+   * signature of the Team Member, a witness and the guardian
 
 #. Returns the medication to the *Medication Cabinet*.
 #. Takes note to ensure that
@@ -788,7 +793,7 @@ Medication on outings
 
 Before going on an outing:
 
-* The *Key Person* of each child:
+* The *Illnesses and medication Officer*:
 
   #. ensures that
      all medication for the child
@@ -807,6 +812,7 @@ Before going on an outing:
   * The `Allergy List`_
   * The `Regularly Administered Medication List`_
   * The `Medication Record Book`_
+  * The Non-prescription medication permission list
 
 
 Enforcement
