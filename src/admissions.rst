@@ -43,8 +43,8 @@ The typical procedure for a guardian and child joining The Setting is as follows
 #. The guardian `makes first contact`_ with The Setting
 #. The client, and possibly others, `make a first visit`_ to The Setting together
 #. The client `returns a completed Enrolment Form`_
-#. The child `begins their first session`_
-#. The Setting produces an Initial Assessment of the child after the child has attended for two days.
+#. The child receives a home visit (see transition from home policy) and `attends their first settling in session`_
+#. The Setting produces an Initial Assessment of the child after the child has attended for two weeks.
 
 .. _makes first contact: `Making first contact`_
 .. _make a first visit: `The first visit`_
@@ -115,7 +115,7 @@ The visitors will be
 
 If interest is shown,
 The Setting provides the guardian with an Enrolment Form,
-to be `returned when completed`_.
+to be `returned when completed with the correct enrolment fee`_.
 
 .. _returned when completed: `Returning the Enrolment Form`_
 
@@ -186,7 +186,7 @@ When this stage is reached:
    There may be questions of legitimacy to consider before the child begins
    (e.g., credit checks on the client).
 
-* provide the guardian with a `Welcome Pack`_.
+* provide the guardian with a `Welcome Pack and Transition Pack`_.
 * prepare all record-keeping for the child's first session
 * the date of the child's first session is noted in the Setting Diary,
   being not before one working week of the date of completion of the `Enrolment Form`_,
@@ -238,7 +238,7 @@ The last day
 
 When a child leaves:
 
-* Their documents are archived
+* Their documents are archived and the child's Learning Journey books and Graduation Certificate are presented at the Graduation Ceremony.
 * Go to `Changing sessional patterns`_
 
 
@@ -251,9 +251,8 @@ Such termination is at the sole discretion of the Nursery Manager.
 This may occur when: 
  
 * The child has reached the age limit. 
-* Failure to register for 5 days without contact or prior notification. 
-* If, despite best efforts, a child fails to settle, the contract may be terminated with immediate effect at the sole discretion of the Nursery Manager. 
-* Guardians wishing to terminate their registration must give four weeks notice in writing to the Nursery Manager 
+* Failure to register for 5 days without contact or prior notification.  
+* Guardians wishing to terminate their registration must give a term's notice in writing (as agreed in the Terms & Conditions) to the Nursery Manager 
 
 
 
