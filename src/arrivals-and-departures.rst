@@ -21,7 +21,7 @@ We aim to make arrivals and departures:
 * quick
 * efficient
 * stress-free
-* accurately recorded
+* accurately recorded and, above all, safe
 
 It is essential that guardians always sign their children in and record the time of arrival on the daily arrivals and departures sheet.
 The time is defined by the clock in the entrance hallway.
@@ -45,7 +45,7 @@ Determining the time
 In order that the actions of all staff and guardians are properly synchronized,
 everyone determines the time by the *Authoritative Clocks*, which we provide such that:
 
-* they are synchronized within two minutes of Greenwich Mean Time (British Summer Time)
+* they are displayed above the signing in table and checked for accuracy on a daily basis
 * they are visible to guardians from outside |The Setting|
 
 
@@ -56,10 +56,10 @@ Guardians must follow the following steps:
 
 #. The guardian must wait until the defined start of their booked session before they enter the property
 #. At the start time of the booked session, the guardian must signal their arrival at the *Setting Entrance*
-#. They must only enter the propert when a *Staff Member* opens the door to them.
-#. The child is surrendered to the care of his *Key Person*.
+#. They must only enter the property when a *Staff Member* opens the door to them.
+#. The child is surrendered to the care of his *Key Person* and the guardian says Goodbye to the child.
 #. The parent signs the *Arrivals Sheet*, marking the time by the *Authoritative Clock*
-#. The parent exits the property via the *Setting Entrance*
+#. The parent exits the property via the *Setting Entrance* using the following procedure
 
 The *Security Staff Member* will always be at the door, to:
 
@@ -87,7 +87,7 @@ Uncollected children
   * Home address and telephone number - if the parents do not have a telephone, an alternative number must be given, perhaps a neighbour or close relative.
   * Place of work, address and telephone number (if applicable).
   * Mobile telephone number (if applicable).
-  * Names, addresses, telephone numbers and signatures of adults who are authorised by the parents to collect their child from the setting, for example a childminder or grandparent.
+  * Names, addresses, telephone numbers, photographs and signatures of adults who are authorised by the parents to collect their child from the setting, for example a childminder or grandparent.
   * Who has parental responsibility for the child.
   * Information about any person who does not have legal access to the child.
 
