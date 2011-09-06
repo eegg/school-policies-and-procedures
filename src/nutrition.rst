@@ -14,8 +14,8 @@ Policy
 
 This setting regards snack and meal times as an important part of the setting's day.
 Eating represents a social time for children and adults and helps children to learn about healthy eating.
-We promote healthy eating using resources and materials from the Pre-school Learning Alliance campaign ''Feeding Young Imaginations''.
-At snack and meal times, we aim to provide nutritious food, which meets the children's individual dietary needs.
+We promote healthy eating.
+At snack and meal times, we provide nutritious food, which meets the children's individual dietary needs.
 
 With reference to hygiene:
 
@@ -32,9 +32,9 @@ Nutrition
 
 We provide nutritious food for all meals and snacks, avoiding large quantities of saturated fat, sugar and salt and artificial additives, preservatives and colourings.
 
-We include a variety of foods from the four main food groups:
+We include a variety of vegetarian foods from the four main food groups:
 
- * meat, fish and protein alternatives
+ * proteins
  * dairy foods
  * grains, cereals and starch vegetables
  * fruit and vegetables
@@ -44,12 +44,12 @@ Dietary requirements
 ^^^^^^^^^^^^^^^^^^^^
 
 * Before a child starts to attend the setting, we find out from parents their children's dietary needs and preferences, including any allergies.
-* We record information about each child's dietary needs in his registration record and parents sign the record to signify that it is correct.
+* Parents record information about each child's dietary needs in his registration record and parents sign the record to signify that it is correct.
 * We regularly consult with parents to ensure that our records of their children's dietary needs are up-to-date.
   Parents sign the up-dated record to signify that it is correct.
 * We display current information about individual children's dietary needs so that all staff and volunteers are fully informed about them.
 * We implement systems to ensure that children receive only food and drink that is consistent with their dietary needs and preferences.
-* We take care not to provide food containing nuts or nut products and are especially vigilant where we have a child who has a known allergy to nuts.
+* We take care not to provide food containing nuts or nut products and are especially vigilant where we have a child who has any known allergy.
 * Staff must:
 
  * show sensitivity in providing for children's diets and allergies
@@ -60,19 +60,19 @@ Dietary requirements
 Ethical and religious concerns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-We plan children's meals in accordance with their parents' wishes.
+We plan children's snacks and meals in accordance with their parents' wishes.
 
 * We provide a vegetarian option at every meal opportunity.
 * Through discussion with parents and research reading by staff, we obtain information about any dietary rules abided by children and their parents.
   We take account of this information in the provision of food and drinks.
 
 
-Planning of meals
+Planning of meals 
 ^^^^^^^^^^^^^^^^^
 
-* We plan menus in advance, involving children and parents in the planning.
+* We plan menus in advance.
 * We display the menus of meals for the information of guardians.
-* We organise meal times as social occasions in which children and staff participate.
+* We organise meal and snack times as social occasions in which children and staff participate.
 
 
 International and culturally diverse meals
@@ -83,26 +83,26 @@ International and culturally diverse meals
 
 * We use meal times to help children to develop independence through making choices, serving food and drink and feeding themselves.
 * We provide children with utensils that are appropriate for their ages and stages of development and 
-* We have fresh drinking water constantly available for the children.
-  We inform the children about how to obtain the water and that they can ask for water at any time during the day.
+* We have fresh drinking water constantly available at the snack table for the children.
+  We inform the children about how to obtain the water and that they can ask for or pour their own water at any time during the day.
 * We offer children present outside main hours an appropriate meal or snack.
 * We inform parents who provide food for their children about the storage facilities available in the setting.
 * We give parents who provide food for their children information about suitable containers for food.
-* In order to protect children with food allergies, we discourage children from sharing and swapping their food with one another.
-* For children who drink milk, we provide whole pasteurised milk.
-* For each child under two, we provide parents with daily written information about feeding routines, intake and preferences.
+* In order to protect children with food allergies, children are not permitted to share or swap their food with one another.
+* For children who drink milk, we provide a choice of whole pasteurised milk, semi-skimmed or soya/rice milk in the case of dietary needs.
+
 
 
 Packed lunches
 ^^^^^^^^^^^^^^
 
-Where children bring packed lunches, we:
+Children bring packed lunches, we:
 
 * ensure perishable contents of packed lunches are refrigerated or contain an ice pack to keep food cool
 * inform parents of our policy on healthy eating
 * inform parents of whether we have facilities to microwave cooked food brought from home
-* encourage parents to provide sandwiches with a healthy filling, fruit, and milk-based desserts where we can only provide cold food from home.
-* discourage sweet drinks and can provide children with water or diluted fresh fruit juice
+* encourage parents to provide sandwiches with a healthy filling, fruit, vegetables and healthy desserts or suitable alternatives to these.
+* discourage sweet drinks and can provide children with water or milk.
 * discourage packed lunch contents that consist largely of crisps, processed foods, sweet drinks and sweet products such as cakes or biscuits
 * reserve the right to return this food to the parent as a last resort
 * provide children bringing packed lunches, with plates, cups and cutlery
@@ -119,14 +119,14 @@ We serve meals on the basis set out in our *Nursery-Specific Policies*.
   The basis for this is risk assessment as it applies to the purchase, storage, preparation and serving of food to prevent growth of bacteria and food contamination.
 * All staff follow the guidelines of *Safer Food, Better Business*.
 * At least one person has an in-date Food Hygiene Certificate.
-* The person responsible for food preparation and serving carries out daily opening and closing checks on the kitchen to ensure standards are met consistently.
+* The person responsible for food preparation and serving carries out daily opening and closing checks on the kitchen or food preparation areas to ensure standards are met consistently.
 * We use reliable suppliers for the food we purchase.
 * Food is stored at correct temperatures and is checked to ensure it is in-date and not subject to contamination by pests, rodents or mould.
 * Packed lunches are stored in a cool place
-* Un-refrigerated food is served to children within 4 hours of preparation at home.
+* Un-refrigerated food is served to children within 4 hours of preparation at home and must have an ice-pack enclosed.
 * Food preparation areas are cleaned before use as well as after use.
 * There are separate facilities for hand-washing and for washing up.
-* All surfaces are clean and non-porous.
+* All surfaces are clean. An anti-bacterial spray such as Milton is used before and after preparation and meals.
 * All utensils, crockery etc are clean and stored appropriately.
 * Waste food is disposed of daily.
 * Cleaning materials and other dangerous materials are stored out of children's reach.
