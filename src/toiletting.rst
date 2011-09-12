@@ -69,7 +69,7 @@ Nappy changing
 ^^^^^^^^^^^^^^
 
 * Young children from two years should wear ‘pull ups’ or other types of trainer pants as soon as they are comfortable with this and their parents agree.
-* Key persons undertake changing young children in their key groups; back up key persons change them if the key person is absent.
+* Nappy changing is the responsibility of all staff who are qualified and CRB checked, however the nappy changing person will always ensure that the child's key person is advised of any changes or unusual toiletting patterns in order for these to be reported to the parent.
 * Changing areas are warm and there are safe areas to lay young children if they need to have their bottoms cleaned.
 * All children in nappies/pull-ups are checked regularly and in any case are changed every 2 1/2 hours.  If a child has a soiled or over-wet nappy in between these times, the child is changed.
 * Each young child has their own tray or bag to hand with their nappies or ’pull ups’ and changing wipes.
