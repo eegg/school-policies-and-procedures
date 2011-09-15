@@ -49,7 +49,7 @@ The typical procedure for a guardian and child joining The Setting is as follows
 .. _makes first contact: `Making first contact`_
 .. _make a first visit: `The first visit`_
 .. _returns a completed Enrolment Form: `Returning the Enrolment Form`_
-.. _begins their first session: `The first day`_
+.. _attends their first settling in session: `The first day`_
 
 
 
@@ -115,7 +115,7 @@ The visitors will be
 
 If interest is shown,
 The Setting provides the guardian with an Enrolment Form,
-to be `returned when completed with the correct enrolment fee`_.
+to be `returned when completed`_ with the correct enrolment fee.
 
 .. _returned when completed: `Returning the Enrolment Form`_
 
@@ -186,7 +186,7 @@ When this stage is reached:
    There may be questions of legitimacy to consider before the child begins
    (e.g., credit checks on the client).
 
-* provide the guardian with a `Welcome Pack and Transition Pack`_.
+* provide the guardian with a `Welcome Pack`_ and `Transition Pack`_.
 * prepare all record-keeping for the child's first session
 * the date of the child's first session is noted in the Setting Diary,
   being not before one working week of the date of completion of the `Enrolment Form`_,
@@ -286,6 +286,11 @@ Welcome Pack
 
 Details
 
+
+Transition Pack
+^^^^^^^^^^^^^^^
+
+Details
 
 
 Waiting List
