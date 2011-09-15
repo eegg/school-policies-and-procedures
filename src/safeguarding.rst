@@ -223,9 +223,9 @@ Reporting evidence of abuse
 Once the |The Safeguarding Officer| has found `evidence of abuse`_, he should:
 
 #. Contact the *Local Safeguarding Children Board* verbally.
-#. Record in the open file in the `Child Protection Record`_
-   that the `indicators of abuse`_ are being treated as `evidence of abuse`_, and why.
-#. Inform all *Team Members* that
+#. Record details as soon as possible and as 'word for word' as possible on an incident sheet that the `indicators of abuse`_ are being treated as `evidence of abuse`_, and why..  Pass these details on to the safeguarding authority.  Sign and date the incident sheet and store in locked cabinet. _
+   
+#. Inform all *Team Members* on a 'need to know basis' that
    contact has been made with the *Local Safeguarding Children Board* concerning the child.
 #. Within 48 hours of the above contact,
    securely send complete copies of the file in the `Child Protection Record`_
@@ -298,16 +298,16 @@ The Circular advises:
   it is important that the member of staff tells the child sensitively that he has a responsibility to refer cases of alleged abuse to the appropriate agencies for the child’s sake.
 * Within that context, the child should, however, be assured that the matter will be disclosed only to people who need to know about it.
   Staff who receive information about children and their families in the course of their work should share that information only within appropriate professional contexts.
-  Child Protection records should be kept securely locked.
+  Safeguarding records should be kept securely locked.
 
 
 Support to families
 ^^^^^^^^^^^^^^^^^^^
 
 * We believe in building trusting and supportive relationships with families, staff and volunteers in the group.
-* We make clear to parents our role and responsibilities in relation to child protection, such as for the reporting of concerns, providing information, monitoring of the child, and liaising at all times with the local children’s social care team.
+* We make clear to parents our role and responsibilities in relation to safeguarding, such as for the reporting of concerns, providing information, monitoring of the child, and liaising at all times with the local children’s social care team.
 * We will continue to welcome the child and the family whilst investigations are being made in relation to any alleged abuse.
-* We follow the Child Protection Plan as set by the child’s social care worker in relation to the setting's designated role and tasks in supporting that child and their family, subsequent to any investigation.
+* We follow the Child Protection/safeguarding Plan as set by the child’s social care worker in relation to the setting's designated role and tasks in supporting that child and their family, subsequent to any investigation.
 * Confidential records kept on a child are shared with the child's parents or those who have parental responsibility for the child in accordance with the Confidentiality and Client Access to Records procedure and only if appropriate under the guidance of the Local Safeguarding Children Board.
 
 
@@ -330,9 +330,9 @@ Informing parents
 Child protection
 ^^^^^^^^^^^^^^^^
 
-The named person with responsibility for child protection in the nursery is Siobhan Brine.
-We will follow the procedures for child protection (see Child Protection Policy).
-If any member of staff suspects that a child in their class may be the victim of abuse, they should not try to investigate, but should immediately inform the person responsible in the nursery for child protection (the managers) about their concerns.
+The named person with responsibility for safeguarding in the nursery is Siobhan Brine.
+We will follow the procedures for safeguarding as set out in the HM Government 'What to do' flowchart which follows this policy.
+If any member of staff suspects that a child in their class may be the victim of abuse, they should not try to investigate, but should immediately inform the person responsible in the nursery for safeguarding (the managers) about their concerns.
 We require all adults employed in the nursery to have an up to date CRB record, in order to check that there is no evidence of offences involving children or abuse.
 All the adults in our nursery share responsibility for keeping our children safe.
 We may on occasion report concerns which, on investigation, prove unfounded.
@@ -356,7 +356,7 @@ Children’s names and identity are protected at all times and staff will not di
 If the child was the subject of a child protection issue, information would only be shared with Social Services or other agencies involved in a strictly confidential manner.
 Parents have a responsibility to inform staff if anyone other than themselves is collecting their child for whatever reason.
 Staff will check the named collectors sheet and if the person nominated to collect the child is not listed with a photograph then the child will not be released from our care.
-If we are unsure at any time, parents will be contacted to confirm the identity of any person.
+If we are unsure at any time, parents will be contacted to confirm the identity of any person and be required to provide us with a password that the person will also state.
 
 
 Safety of children
@@ -367,8 +367,8 @@ Similarly, staff will always be vigilant for hazards concerning equipment or act
 If a member of staff has any concerns about the children’s safety, they should bring them to the attention of the manager before that particular activity takes place.
 We do not take any child off the school site without the prior permission of the parent.
 If an accident does happen, and it results in an injury to a child, the staff will do all he can to aid the child concerned.
-We keep a first aid box in the kitchen area.
-All staff are First Aid trained and certificates are kept on the premises.
+We keep a first aid box in classroom 1.
+We aim at all times to have all staff qualified in First Aid and certificates are kept on the premises. There may be occasions when, due to staff absences that there may be a staff member who is not qualified but they will always be accompanied by the rest of the team who are First Aid trained.
 Should any incident involving injury to a child take place, one of the members of staff who have been first aid trained will be called to assist.
 If necessary emergency assistance will be called for.
 We record any accident in the accident file involving injury, and in all cases we inform parents and they sign an Accident Form to confirm they have been informed.
@@ -508,7 +508,7 @@ Enforcement
   of sensible ways to stay safe.
 * The maximum period of time between
   *Staff Members* receiving refresher training courses
-  is three years.
+  is two years.
 
 
 Basis
