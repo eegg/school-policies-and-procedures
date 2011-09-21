@@ -18,7 +18,7 @@ suffix = {
 
 cmd = {
 	'html': [
-		'rst2html.py',
+		'rst2html',
 		'--no-generator',
 		"--no-datestamp",
 		"--no-source-link",
