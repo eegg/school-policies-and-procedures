@@ -29,22 +29,19 @@
 .. |Social Services Telephone Number|                       replace:: 01245 434 375
 
 .. |Area SENCO|                                             replace:: Shiela Brodie
-.. |Area SENCO Telephone Number|                            replace:: Area SENCO Telephone Number
+.. |Area SENCO Telephone Number|                            replace:: 07717 867 103
 
 
 .. Internal roles
    ==============
 
-.. |Montessori Directress|            replace:: Siobhan Brine
-.. |Health and Safety Team|           replace:: Gaynor Sloan, Siobhan Brine
+.. |Deputy Manager|                   replace:: Siobhan Brine
 .. |Fire Alarm Tester|                replace:: Gaynor Sloan
 .. |Emergency Lighting Tester|        replace:: Gaynor Sloan
-.. |Fire Procedure Coordinator|       replace:: Gaynor Sloan
-.. |Fire Procedure Subordinate Team|  replace:: Siobhan Brine, Debbie Ross
+.. |Fire Procedure Coordinator|       replace:: Siobhan Brine
+.. |Fire Procedure Subordinate Team|  replace:: Siobhan Brine, Wendy Smith, Gemma Smith, Jenny Parrett
 .. |Fire Safety Team|                 replace:: Gaynor Sloan, Siobhan Brine
-.. |Setting SENCO|                    replace:: Gaynor Sloan
-.. |Child Protection Coordinator|     replace:: Siobhan Brine
-.. |Child Protection Officer|         replace:: Siobhan Brine
+.. |Setting SENCO|                    replace:: Gemma Smith
 
 
 .. Policy Officers
@@ -53,34 +50,34 @@
 .. |Enforcement and Discipline Officer|     replace:: Gaynor Sloan
 .. |Policy Management Officer|              replace:: Gaynor Sloan
 .. |Whistle-Blowing Officer|                replace:: Gaynor Sloan
-.. |Key Persons Officer|                    replace:: Gaynor Sloan
+.. |Key Persons Officer|                    replace:: Siobhan Brine
 .. |Insurance Officer|                      replace:: Gaynor Sloan
 .. |Staffing Logistics Officer|             replace:: Gaynor Sloan
-.. |Staff Inductions Officer|               replace:: Gaynor Sloan
+.. |Staff Inductions Officer|               replace:: Gaynor Sloan, Siobhan Brine
 .. |Staff Training Officer|                 replace:: Gaynor Sloan
 .. |Student Placements Officer|             replace:: Gaynor Sloan
 .. |Complaints Officer|                     replace:: Gaynor Sloan
-.. |Admissions Officer|                     replace:: Gaynor Sloan
-.. |Arrivals and Departures Officer|        replace:: Gaynor Sloan
-.. |Confidentiality Officer|                replace:: Gaynor Sloan
-.. |Incident Officer|                       replace:: Gaynor Sloan
-.. |Children's Records Officer|             replace:: Gaynor Sloan
+.. |Admissions Officer|                     replace:: Gaynor Sloan, Siobhan Brine
+.. |Arrivals and Departures Officer|        replace:: Gaynor Sloan, Siobhan Brine
+.. |Confidentiality Officer|                replace:: Gaynor Sloan, Siobhan Brine
+.. |Incident Officer|                       replace:: Siobhan Brine
+.. |Children's Records Officer|             replace:: Gaynor Sloan, Siobhan Brine
 .. |Provider Records Officer|               replace:: Gaynor Sloan
-.. |Individualised Education Officer|       replace:: Gaynor Sloan
+.. |Individualised Education Officer|       replace:: Gemma Smith
 .. |Positive Behaviour Management Officer|  replace:: Siobhan Brine
-.. |Outings Officer|                        replace:: Gaynor Sloan
-.. |Illnesses and Medication Officer|       replace:: Gaynor Sloan
-.. |Nutrition Officer|                      replace:: Gaynor Sloan
-.. |Looked-After Children Officer|          replace:: Gaynor Sloan
-.. |Toiletting Officer|                     replace:: Gaynor Sloan
-.. |Risk Assessment Officer|                replace:: Gaynor Sloan
+.. |Outings Officer|                        replace:: Gaynor Sloan, Siobhan Brine
+.. |Illnesses and Medication Officer|       replace:: Gaynor Sloan, Siobhan Brine
+.. |Nutrition Officer|                      replace:: Gaynor Sloan, Siobhan Brine
+.. |Looked-After Children Officer|          replace:: Gaynor Sloan, Siobhan Brine
+.. |Toiletting Officer|                     replace:: Gaynor Sloan, Siobhan Brine
+.. |Risk Assessment Officer|                replace:: Gaynor Sloan, Siobhan Brine
 .. |Safeguarding Officer|                   replace:: Siobhan Brine
-.. |Security Officer|                       replace:: Gaynor Sloan
-.. |Health and Safety Officer|              replace:: Gaynor Sloan
+.. |Security Officer|                       replace:: Gaynor Sloan, Siobhan Brine
+.. |Health and Safety Officer|              replace:: Siobhan Brine
 .. |Accident Officer|                       replace:: Gaynor Sloan
 .. |Equal Opportunities Officer|            replace:: Gaynor Sloan
-.. |Parental Involvement Officer|           replace:: Gaynor Sloan
-.. |Welcoming Officer|                      replace:: Gaynor Sloan
+.. |Parental Involvement Officer|           replace:: Gaynor Sloan, Siobhan Brine
+.. |Welcoming Officer|                      replace:: Siobhan Brine
 
 
 .. Don't edit this!

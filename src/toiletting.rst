@@ -23,24 +23,6 @@ Procedures
 ----------
 
 
-Design and fitting of W.C.s
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* All cubicles will be individual with a maximum of one toilet and one sink
-* Cubicle doors will shut, but will not be able to lock from the inside or outside
-
-
-Design and fitting of the Nappy-Changing Area
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The *Nappy-Changing Area* is warm.
-It contains:
-
-* a set of carpet mats?
-* a set of changing mats
-* the Nappy Bin.
-
-
 Toilet training
 ^^^^^^^^^^^^^^^
 
@@ -82,7 +64,9 @@ The following rules will always be followed:
 When a nappy requires changing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Failure to follow this procedure may constitute neglect and will be a disciplinary matter.
+.. container:: warning
+
+   Failure to follow this procedure may constitute neglect and will be a disciplinary matter.
 
 For every child in session,
 that child requires their nappy changing
@@ -91,7 +75,7 @@ in either event that:
 * a member of staff suspects that
   the child's nappy is soiled, or
 * a member of staff identifies,
-  by regular checking (how often?), that
+  by regular checking, that
   the child's nappy is soiled, or
 * 150 minutes have passed since
   the child was last changed
@@ -102,6 +86,14 @@ the following procedure is performed by either:
 
 * the child's *Key Person* if available, or alternatively
 * another member of staff who is qualified.
+
+.. container:: explanation
+
+   **Why is the carpet mat not placed on a surface?**
+
+   There are risks involved in placing the carpet mat on a high surface.
+   Following the procedure on the floor eliminates these.
+   The mats ensure a safe and hygienic surface.
 
 #. Put on
 
@@ -115,7 +107,7 @@ the following procedure is performed by either:
 
    * the child's nappies/pull-ups
    * the child's changing wipes
-   * ...?
+   * a nappy bag.
 
 #. Using the child's wipes,
    clean the child of all urine and faeces,
@@ -125,15 +117,16 @@ the following procedure is performed by either:
 #. Place one of the child's nappies on the child.
 #. If the child's clothes are soiled or wet:
 
-   * place them in a white bag
-   * place it ??
-   * use child's clothes from ??
+   * place them in a white bag and tie the bag
+   * place the bag in the child's rucksack
+   * replace with child's clothes from the child's spare clothes bag. 
 
    Otherwise,
    re-dress the child in those clothes.
 
-#. Child leaves?
-#. Place in the Nappy Bin:
+#. Accompany the child to their classroom.
+#. Return to the Nappy -Changing Area.
+#. Place in the *Nappy Bin*:
    the used nappy, gloves, apron, and wipes.
 #. Clean the changing mat with anti-bacterial spray.
 #. Record the event in the *Nappy-Changing Record*.
@@ -154,6 +147,27 @@ When a parent collects their child
 
 The child's *Key Person*
 
-* gives the parent all white bags in the ??.
-* if the child's toiletting procedure appears to have changed,
+* if necessary, notifies the parent of the presence of dirty clothes in their child's rucksack.
+* if the child's toiletting behaviour appears to have changed,
   tells the parent. 
+
+
+Resources
+---------
+
+
+Children's W.C.s
+^^^^^^^^^^^^^^^^
+
+* All cubicles in the *Children's W.C.s* will be individual with a maximum of one toilet and one sink
+* Cubicle doors will shut, but will not be able to lock from the inside or outside
+
+
+Nappy-Changing Area
+^^^^^^^^^^^^^^^^^^^
+
+The *Nappy-Changing Area* is warm.
+It contains:
+
+* a carpet mat
+* a set of changing mats.

@@ -291,7 +291,7 @@ Records are kept of fire drills and the servicing of fire safety equipment.
 Annual assessments
 ``````````````````
 
-An annual risk assessment will be made by the *Health and Safety Team*. It will:
+An annual risk assessment will be made by the |Health and Safety Officer|. It will:
 
 * Identify any person especially at risk in a case of fire, and make plans to include their safe evacuation.  This includes:
 

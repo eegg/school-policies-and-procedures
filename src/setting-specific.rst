@@ -54,16 +54,13 @@ Staff member titles
 Title                                Members
 ===================================  =================================
 *Setting Manager*                    |Setting Manager|
-*Montessori Directress*              |Montessori Directress|
-*Health and Safety Team*             |Health and Safety Team|
+*Deputy Manager*                     |Deputy Manager|
 *Fire Alarm Tester*                  |Fire Alarm Tester|
 *Emergency Lighting Tester*          |Emergency Lighting Tester|
 *Fire Procedure Coordinator*         |Fire Procedure Coordinator|
 *Fire Procedure Subordinate Team*    |Fire Procedure Subordinate Team|
 *Fire Safety Team*                   |Fire Safety Team|
 *Setting SENCO*                      |Setting SENCO|
-*Child Protection Coordinator*       |Child Protection Coordinator|
-*Child Protection Officer*           |Child Protection Officer|
 ===================================  =================================
 
 
@@ -130,11 +127,11 @@ All routes lead to the *Assembly Point*.
 +------------------------------------------------------+----------------------------------+
 | *Right-Hand-Side Entranceway*                        | The gate, onto the *Drive*       |
 +------------------------------------------------------+----------------------------------+
-| *Left-Hand-Side Entranceway*                         | The gate, onto the *Drive*       |
+| *Left-Hand-Side Entranceway*                         | *Outdoor Classroom*              |
 +------------------------------------------------------+----------------------------------+
 | *Garden*                                             | *Right-Hand-Side Entranceway*    |
 +------------------------------------------------------+----------------------------------+
-| *Outdoor Classroom*                                  | *Left-Hand-Side Entranceway*     |
+| *Outdoor Classroom*                                  | *Classroom Two* or *Garden*      |
 +------------------------------------------------------+----------------------------------+
 | *W.C. 3*, *W.C. 4*                                   | *Classroom One*                  |
 +------------------------------------------------------+----------------------------------+
@@ -188,14 +185,14 @@ Document                                          Location                      
 *The Diary*                                       The shelf in *Classroom Two*            Date
 *Visitors' Book*                                  The table the *Entrance Hall*           Date
 *Incident Book*                                   The locked cabinet in *Classroom One*   Date
-*Accident Book* 
+*Accident Book*                                   Shelf in *Classroom Two*
 *Certificate for public liability insurance* 
 *Guardian Correspondence Folder*                  Shelved in the *Office*                 Name of child
-*SEN Register*                                    Shelved in *Classroom Two*              SEN
+*SEN Register*                                    Shelved in *Classroom One*              SEN
 *Child Protection Record*                                                                 Name of child
 *Individual Planning File*                        *Key Persons' Planning Box Files*       Name of child
 *Individual Education Plans*                      *Individual Planning File*
-*Single Equality Scheme*                          *Reference Working Document Wardrobe*   Action
+*Single Equality Scheme*                          Shelved in *Classroom One*              Action
 *Equality Impact Check*                           
 *Access Audit*
 ================================================  ======================================  ======================
@@ -209,16 +206,6 @@ In our setting we serve food for children on the following basis:
 * Snacks.
 * Meals.
 * Packed lunches.
-
-
-Fee rates
----------
-
-+---------------------------------------+--------+
-| Item                                  | Cost   |
-+=======================================+========+
-| 10 minutes of Unbooked Childcare Rate | £15.00 |
-+---------------------------------------+--------+
 
 
 List of adopted policies
@@ -257,4 +244,5 @@ Security                                  |Security Officer|
 Health and safety                         |Health and Safety Officer|
 Equal opportunities                       |Equal Opportunities Officer|
 Parental involvement                      |Parental Involvement Officer|
+Welcoming Officer                         |Welcoming Officer|
 ========================================  ========================================
