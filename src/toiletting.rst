@@ -89,7 +89,7 @@ the following procedure is performed by either:
 
 .. container:: explanation
 
-   **Why is the carpet mat not placed on a surface?**
+   **Why is the carpet mat not placed on a high surface?**
 
    There are risks involved in placing the carpet mat on a high surface.
    Following the procedure on the floor eliminates these.

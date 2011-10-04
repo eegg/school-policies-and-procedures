@@ -117,6 +117,9 @@ Client access to records
 
 Parents may request access to any confidential records held on their child and family following the procedure below:
 
+* Confidential records kept on a child are shared with the parent only if appropriate under the guidance of the *Local Safeguarding Children Board*.
+
+
 * Any request to see the child’s personal file by a parent or person with parental responsibility must be made in writing to the setting leader or manager.
 * The setting leader informs the chairperson of the management committee and sends a written acknowledgement.
 * The setting commits to providing access within 14 days, although this may be extended.

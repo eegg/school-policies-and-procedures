@@ -33,9 +33,11 @@ cmd = {
 		]
 	}
 
-target = sys.argv[1]
+target = "html"
 
-for f in filter(lambda x: x[-4:] == '.rst', os.listdir(srcdir)):
+files = sys.argv[1:] if len(sys.argv)>1 else filter(lambda x: x[-4:] == '.rst', os.listdir(srcdir))
+
+for f in files:
 	p = os.path.join(srcdir, f)
 	target_file = os.path.join(dstdir[target], f[:-4] + suffix[target])
 	print target_file
