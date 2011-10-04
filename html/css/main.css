@@ -8,7 +8,7 @@ p {
   }
   
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Trebuchet MS";
+  font-family: "Arial";
   }
 
 h1 {
@@ -72,17 +72,15 @@ a:link, a:hover, a:visited {
     border: 1px solid #ddd;
     }
 
-  a:link, a:hover, a:visited, h1, h2, h3, h4, h5 { color: #505; }
+  a:link, a:hover, a:visited, h1, h2, h3 { color: #505; }
   }
 
 @media print {
-  body {
-    padding: 2cm;
-    padding-top: 4cm;
-    }
 
-  a:link, a:hover, a:visited, h1, h2, h3, h4, h5 { color: black; }
-}
+  @page { margin: 2cm; }
+
+  a:link, a:hover, a:visited, h1, h2, h3 { color: black; }
+  }
 
 div.warning, div.explanation, div.definition {
   border: 1px solid;
@@ -91,7 +89,7 @@ div.warning, div.explanation, div.definition {
   clear: right;
   padding: 1em;
   margin: 0 0 1em 1em; 
-}
+  }
 
 div.warning {
   background-color: #fcc;
