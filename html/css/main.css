@@ -1,7 +1,5 @@
 body {
   font-family: "Garamond Premier Pro", Garamond, Georgia;
-  font-size: 11pt;
-  line-height: 14pt;
   }
 
 p {
@@ -10,6 +8,7 @@ p {
   
 h1, h2, h3, h4, h5, h6 {
   font-family: "Arial";
+  font-weight: bold;
   }
 
 h1 {
@@ -20,9 +19,8 @@ h2 {
   font-size: 12pt;
   }
 
-h3 {
-  font-size: 11pt;
-  }
+a:link, a:hover, a:visited, h1 { color: #505; }
+h2, h2 a:link, h2 a:visited { color: black; }
 
 dt {
   font-weight: bold;
@@ -63,24 +61,21 @@ a:link, a:hover, a:visited {
   }
 
 @media screen {
+  body { font-size: 16px; }
   body { background-color: #fafafa; margin: 0;}
 
   div.document {
     background-color: white;
-    width: 21cm;
+    width: 17cm;
     margin: 2em auto 2em auto;
-    padding: 2em;
+    padding: 2cm;
     border: 1px solid #ddd;
     }
-
-  a:link, a:hover, a:visited, h1, h2, h3 { color: #505; }
   }
 
 @media print {
-
+  body { font-size: 12pt; }
   @page { margin: 2cm; }
-
-  a:link, a:hover, a:visited, h1, h2, h3 { color: black; }
   }
 
 div.warning, div.explanation, div.definition {
