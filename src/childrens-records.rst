@@ -48,23 +48,21 @@ Developmental records
 * These can be freely accessed, and contributed to, by staff, the child and the child’s parents.
 
 
-Daily observation
+Observation
 `````````````````
 
-* For each child in our care,
-  observations are made daily,
-  using our Daily Observation Sheet.
-* The Daily Observation Sheet is split into the EYFS Early Learning Goals.
+* For each child in our care, we observe the 6 areas of learning and development according to the Early Years Foundation Stage. 
+* Each child is observed according to their schema or interest they may have.
+* All children are observed when introduced and working with the Montessori activities.
 
 
-Progress Reports
+Progress Reports/ Meetings
 ````````````````
 
-* Monthly, the Daily Observation Sheets are collated by Early Learning Goal,
-  producing a Progress Report.
-* The Progress Reports should make clear
-  any Goal to which attention should be paid --
-  if, for instance, an unusually low or high level of progress has been made.
+* The setting has an open door policy where parents can make an appointment with their key person and a member of management staff to discuss their child's progress and development.
+* Progress Reports are created when a child leaves the setting or at the end of the academic year when each report is then produced for when the child returns in the Autumn Term. should make clear
+* When a child leaves the setting the setting will use the Early Years Profile Handbook to indetify a level of development with personal comments from their key person in the 6 areas of learning according to the Early Years Foundation Stage.
+
 
 
 
