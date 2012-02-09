@@ -185,7 +185,7 @@ Defusing situations
 
 
 Risk-assessing Physical Strategies
-`````````````````````````````````
+``````````````````````````````````
 
 The use of *Physical strategy* always involves a risk assessment.
 More precisely, it is composed of two risk assessments:
