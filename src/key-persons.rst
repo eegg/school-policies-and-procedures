@@ -32,31 +32,11 @@ and chosen as the first result when potential Key Persons are ordered as follows
 * Order ascending by
   number of sessions in which
   the child would not have their Key Person present
-* For any ties in the above scoring,
-  order ascending by
-  the number of Key Children that that potential Key Person already has assigned
-  according to the `Key Person List`_.
+* Key persons are assigned on a temporay basis for the first 6-7 weeks that the child attends.  After this period the key person is subject to change and is dependent upon the bonds and attachements formed by the child and staff to child ratios.    
 
 
 
-Assigning permanent Key Persons
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Every two weeks,
-the `Key Person List`_ will be run through,
-and for each child with a Key Person with *temporary* status:
-
-* *if staff decide that the child and Key Person have bonded*,
-  on the grounds that the child:
-
-  * looks for the Key Person when arriving
-  * goes to the Key Person for comfort
- 
-  the Key Person status is remarked as *permanent*.
-* *otherwise*,
-  `a new Key Person is assigned`_.
-
-.. _a new Key Person is assigned: `Assigning a Key Person`_
 
 
 
@@ -68,7 +48,7 @@ Reshuffling Key Persons
    **Why do we reshuffle Key Persons?**
 
    Over time,
-   the weekly sessions taken by a child change,
+   the weekly sessions taken by a child may change,
    as do the weekly sessions worked by a staff member.
    This results in many sessions
    having Key Person assignment strongly skewed:
@@ -79,7 +59,7 @@ Reshuffling Key Persons
    periodic reassignment to reflect the timetable.
 
 At the end of every term,
-the `Key Person List`_ is reshuffled.
+the `Key Person List` may be reshuffled.
 
 
 
@@ -102,7 +82,7 @@ ordered by surname:
 
 
 
-Definitions
+
 -----------
 
 Key Person
