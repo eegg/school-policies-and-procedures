@@ -225,8 +225,8 @@ Changing sessional patterns
 When a client requests to change the number or pattern of sessions
 that the child attends at The Setting:
 
-* If the number of sessions has decreased,
-  invoice for an *administration fee*.
+* if the number of sessions has decreased the client must give a Full Term's Notice.  However the child must still attend the stipulated amount of sessions for their age for example if a child is two years they do three sessions.  The stipulated number of session is always one more than the age of the child.
+
 * Go through the `Waiting List`_ in ascending order of date of enrolment.
   Contact each client,
   performing the procedures under `Allocating sessions and preparing for attendance`_.
