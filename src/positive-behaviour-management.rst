@@ -37,7 +37,8 @@ Inappropriate Behaviour
     rights
     of others
 
-
+Physical strategies
+  UNDEFINED
 
 
 Policy
@@ -141,8 +142,7 @@ On the lookout
 ^^^^^^^^^^^^^^
 
 *Team Members* should constantly be assessing
-any level of risk
-in their vicinity
+any level of risk in their vicinity
 (respecting guidelines under `Fantasy aggression`_).
 Based on the assessment:
 
@@ -152,22 +152,19 @@ Based on the assessment:
    go to `Defusing situations`_.
 
 
-Strategies
-   
-Use the following two steps
-   
-   (a) Physically separate, by blocking paths, the abuser and abused.
-   (b) Lead the abuser (by the hand, shoulder, or arm) away from the scene.
-  
+Using physical strategies
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
- Contact someone else.
-   Use the following contact methods in order of preference:
+#. Physically separate, by blocking paths, the abuser and abused.
+#. Lead the abuser (by the hand, shoulder, or arm) away from the scene.
 
-   (a) Alert a *Staff Member* in line-of-sight.
-   (#) Alert a *Staff Member* via internal communications systems.
-   
+Contact someone else.
+Use the following contact methods in order of preference:
 
-5. Go to `Post-incident procedures`_.
+#. Alert a *Staff Member* in line-of-sight.
+#. Alert a *Staff Member* via internal communications systems.
+
+Go to `Post-incident procedures`_.
 
 
 Defusing situations
@@ -177,17 +174,14 @@ Defusing situations
 #. If the potential abuser is pre-literate,
    attempt using distraction,
    and failing that,
-   go to `Using Physical strategy`_.
+   go to `Using physical strategies`_.
 #. If the situation is defused, stop.
 #. If any child in the vicinity the immediate subject of *Abuse*,
-   go to `Using Physical strategy`_.
+   go to `Using physical strategies`_.
 #. Try a new tack each time this step is reached:
 
    (a) Instruct the potential abuser to calm down.
    (#) Instruct the potential abuser and abused to separate and go to separate places.
-
-
-
 
 
 Risk-assessing Physical Strategies
@@ -238,8 +232,7 @@ Post-incident procedures
    * what behaviour would have instead been appropriate
    * whether any apologies want to be made
 
-
-  in order to:
+   in order to:
    
    * Rebuild relationships between abuser and abused
    * Support the abused
@@ -253,16 +246,13 @@ Post-incident procedures
    
    in order to:
    
-   * discuss the findings in
-     the incident
+   * discuss the findings in the incident
    * find whether similar incidents
      are happening outside of |The Setting|
    * gain permission to
      contact any appropriate external bodies
    * produce a strategy
      for dealing with inappropriate behaviour
-
-
 
 
 
@@ -311,8 +301,8 @@ ways in which you might deal with it
 |                   | exaggerated or misconstrued:                |                                         |                                           |
 |                   | a pat, say, turns into a push.              |                                         |                                           |
 +-------------------+---------------------------------------------+-----------------------------------------+-------------------------------------------+
-| **Frustration**   | Expression of your intentions can be        | * Many other needs are non-verbalised   | * Provide non-verbal communication (e.g.|
-|                   | hard.                                       |                                         |   British Sign Language or Makaton)                  |
+| **Frustration**   | Expression of your intentions can be        | * Many other needs are non-verbalised   | * Provide non-verbal communication (e.g.  |
+|                   | hard.                                       |                                         |   British Sign Language or Makaton)       |
 |                   | Where words fail, inappropriate behaviour   |                                         |                                           |
 |                   | can get the desired response.               |                                         |                                           |
 +-------------------+---------------------------------------------+-----------------------------------------+-------------------------------------------+
