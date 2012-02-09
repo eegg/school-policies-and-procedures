@@ -39,7 +39,7 @@
 .. |Fire Alarm Tester|                replace:: Gaynor Sloan
 .. |Emergency Lighting Tester|        replace:: Gaynor Sloan
 .. |Fire Procedure Coordinator|       replace:: Siobhan Brine
-.. |Fire Procedure Subordinate Team|  replace:: Siobhan Brine, Wendy Smith, Gemma Smith, Jenny Parrett
+.. |Fire Procedure Subordinate Team|  replace:: Siobhan Brine, Lucy Harvey, Karen Jones, Poppy Critchley, Rosie Swahn, Gemma Smith, Jenny Parrett
 .. |Fire Safety Team|                 replace:: Gaynor Sloan, Siobhan Brine
 .. |Setting SENCO|                    replace:: Gemma Smith
 
