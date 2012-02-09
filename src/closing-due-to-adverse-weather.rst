@@ -44,7 +44,7 @@ Informing guardians and staff
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * A *Snow Day* may be declared at any time on any date on which nursery is in session.
-* When this declaration has been decided upon, the following is done immediately:
+* When this declaration has been decided upon, one of the following is done immediately:
 
  * The following notice placed on the *School Telephone* answering machine:
    "Thank you for calling *The Nursery*.
@@ -52,7 +52,7 @@ Informing guardians and staff
    If you are due to drop off your child, please make alternative arrangements.
    If you have already dropped off your child, arrange to have him collected as soon as possible.
    This message is valid until the end of today, *Weekday* the *X*th of *Month*."
- * If possible, the above message also placed on the *School Website* and any other electronic media.
+ * If possible, the above message also placed on the *School Website via the Twitter Feed* and any other electronic media.
  * A notice placed on the main entrance of *The Nursery*, with the following message:
    "*The Nursery* is not in session on *Weekday* the *X*th of *Month*.
    Please make alternative arrangements.
@@ -68,3 +68,5 @@ Finding whether a day has been declared a Snow Day
   They may do this by calling the School Telephone and requesting the Nursery Manager or, failing that,
   listening to the dated message in which the Nursery Manager may decide to inform guardians that the nursery is closed.
 * This procedure must be followed each day of ongoing adverse weather conditions.
+
+PLEASE NOTE THAT SNOW DAYS ARE NON REFUNDABLE AND NON EXCHANGEABLE 
