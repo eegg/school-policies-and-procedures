@@ -26,9 +26,9 @@ We serve meals on the basis set out in our *Nursery-Specific Policies*.
 * We use meal times to help children to develop independence through making choices, serving food and drink and feeding 
 
 We provide food storage facilities for parentally provided food.
-We provide facilities to microwave cooked food brought from home.
+We provide facilities for conventional cooking of meals for the Baby Rooms (under twos) and to either reheat by conventional or by microwave, cooked food brought from home. The nursery will be introducing home-cooked meals to the nursery for the three-five year-olds during 2012.
 
-Children will have the opportunity throughout the sessions to visit 
+
 
 
 Procedures
@@ -64,8 +64,8 @@ Daily preparation
 * We provide a choice of milk:
 
   * whole,
-  * semi-skimmed, and
-  * soya or rice milk.
+  * semi-skimmed
+  
 
 * provide children bringing packed lunches, with plates, cups and cutlery
 
@@ -77,9 +77,9 @@ We plan children's snacks and meals in accordance with their parents' wishes.
   We tell the children how to obtain the water
   and that they can ask for or pour their own water at any time.
 * Children are not permitted to share or swap their food with one another.
-* We offer meals at: breakfast, ..
+* We offer meals at: breakfast, lunch and tea-time for the Baby Rooms and will soon be introducing a hot tea or lunch in the existing nursery.
 
-the snack bar where fruit, other nutritional snacks and fresh water are available. 
+the snack table where fruit, other nutritional snacks and fresh water are available. 
 
 
 Dietary requirements
@@ -115,30 +115,30 @@ At a snack time
 
 A member of staff sits with children to eat their lunch.
 
-* All surfaces are clean. An anti-bacterial spray is used before and after preparation and meals.
+* All surfaces are clean. An anti-bacterial spray or hot, soapy water is used before and after preparation and meals.
 
 Breakfast, Lunch and Tea Club
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
  
 |The Setting| provides the opportunity for children to have breakfast, lunch and tea.
-An additional snack time will be held throughout both the morning and afternoon sessions, where milk and fruit is provided.
+An additional snack time will be held throughout both the morning and afternoon sessions, where milk, a savoury or sweet biscuit and fruit is provided.
 
 
 A child arrives
 ^^^^^^^^^^^^^^^
 
-When a child arrives, if the child has a packed lunch, the child's *Key Person* ensures
+When a child arrives, if the child has a packed lunch, staff ensure that
 
 * perishable contents are refrigerated or contain an ice pack
 * the food meets the child's dietary needs
-* the container is suitable.
+* the container is suitable and is clearly named.
 
 If it meets these requirements,
-the packed is stored in a cool place.
+the packed meal is stored in a cool place.
 
 If the packed lunch does not meet these requirements,
-the *Key Person* notifies the parent;
-they may also return the food to the parent.
+staff notify the parent;
+they may also return the food or container to the parent.
 
 
 At the start of the day
