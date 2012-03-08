@@ -49,7 +49,7 @@ Developmental records
 
 
 Observation
-`````````````````
+```````````
 
 * For each child in our care, we observe the 6 areas of learning and development according to the Early Years Foundation Stage. 
 * Each child is observed according to their schema or interest they may have.
@@ -57,7 +57,7 @@ Observation
 
 
 Progress Reports/ Meetings
-````````````````
+``````````````````````````
 
 * The setting has an open door policy where parents can make an appointment with their key person and a member of management staff to discuss their child's progress and development.
 * Progress Reports are created when a child leaves the setting or at the end of the academic year when each report is then produced for when the child returns in the Autumn Term. should make clear

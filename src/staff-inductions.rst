@@ -37,8 +37,9 @@ On the first day of a new member of staff,
     noting especially his job description and the Staff Handbook detailed therein.
 
 * A thorough induction for every member of staff takes place that includes the following:
- -a tour of the nursery highlighting where resources, files and equipment are kept and stored
- -staff will be asked to read through all the policies and procedures and sign registers to confirm they have read and understood procedures including the Risk Assessments, SEN, CAF, TAC, Safeguarding and Food Hygiene
+
+ - a tour of the nursery highlighting where resources, files and equipment are kept and stored
+ - staff will be asked to read through all the policies and procedures and sign registers to confirm they have read and understood procedures including the Risk Assessments, SEN, CAF, TAC, Safeguarding and Food Hygiene
  - they will be shown how to use electrical and cleaning equipment safely
  - staff wil be show where to find and complete the register, medication, accident and incident and accidents at home files
  - staff will be shown how to complete planning for individual children and discussion times for all ages
