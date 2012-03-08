@@ -40,9 +40,7 @@ A Team Member is hired
 
 When a new *Team Member* is hired, |The Safeguarding Officer| requires:
 
-* 'enhanced' disclosure checks with the Criminal Records Bureau
-  with an explicit request for information from the Independent Safeguarding Authority Children Barred List,
-* registration of the applicant with the Independent Safeguarding Authority, and
+* 'enhanced' disclosure checks with the Criminal Records Bureau, and
 * a minimum of two written references from 
 
   * a previous employer, or
@@ -250,23 +248,6 @@ If T is found innocent,
 requests of |The Setting Manager| that
 T is immediately reinstated in their original post.
 
-Otherwise,
-|The Safeguarding Officer|
-notifies the Independent Barring Board.
-
-
-A child requires restraint
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-It is justified for staff to restrain a child physically if
-
-* to prevent them from inflicting injury to others
-* causing self-injury
-* damaging property
-* being disruptive.
-
-Only the minimum force necessary may be used,
-and any action taken must be only to restrain the child.
 
 
 Internet safety
@@ -274,7 +255,7 @@ Internet safety
 
 We seek parental permission
 before using photographs of children
-or their work on the nursery’s website,
+or their work on the nursery’s website, online media
 or in newsletters and other publications.
 
 
@@ -390,7 +371,7 @@ Enforcement
   when they arrive at |The Setting|.
 * The maximum period of time between
   *Staff Members* receiving refresher training courses
-  is two years.
+  is six months for the online safeguarding courses and three years for the Level 2.
 
 
 Basis
