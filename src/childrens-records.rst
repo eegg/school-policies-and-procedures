@@ -57,14 +57,24 @@ Observation
 * These observations are either photographed or written up.
 
 
-Progress Reports/ Meetings
-``````````````````````````
+Progress Reports
+````````````````
 
-* The setting has an open door policy where parents can make an appointment with their key person and a member of management staff to discuss their child's progress and development.
-* Progress Reports are created when a child leaves the setting or at the end of the academic year when each report is then produced for when the child returns in the Autumn Term. should make clear
-* When a child leaves the setting the setting will use the Early Years Profile Handbook to indetify a level of development with personal comments from their key person in the 6 areas of learning according to the Early Years Foundation Stage.
+Progress Reports are created when
+
+* a child leaves the setting
+* at the end of the academic year, to be given to parents when the child returns in the Autumn Term
+* When a child leaves the setting the setting will use the Early Years Profile Handbook
+  to identify a level of development
+  in the Six Areas of Learning according to the Early Years Foundation Stage,
+  with personal comments from their Key Person.
 
 
+Progress meetings
+`````````````````
+
+* Parents can make an appointment with their key person and a member of management staff
+  to discuss their child's progress and development.
 
 
 Personal records
@@ -89,7 +99,10 @@ The personal record is:
   our staff induction includes an awareness of the importance of confidentiality in the role of the key person.
 * retained for three years after the child has left the setting.
 
-
+Some specific records,
+including Collectors
+and Emergency Cards
+are kept safely in Classroom Two.
 
 
 Basis
