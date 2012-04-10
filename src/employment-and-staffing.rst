@@ -134,28 +134,6 @@ the *Employing Staff Officer*
    and places these in the Single Central Record.
 
 
-Induction
-`````````
-
-Before a candidate's first day at The Setting,
-they are given an induction in order to brief them about:
-
-* The Setting
-* the families The Setting serves
-* The Setting's Policies and Procedures,
-  including the Health and Safety policy and Safeguarding Children and Child Protection policy
-* The Setting's curriculum and daily practice
-
-..
-  Move to Staff Handbook:
-  A staff member takes unexpected absence
-  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  * Where staff are unwell and take sick leave in accordance with their contract of employment,
-    we organise cover to ensure ratios are maintained.
-  * Sick leave is monitored and action is taken where necessary in accordance with the contract of employment.
-  * Staff complete a sickness absence form.
-
-
 A staff member leaves
 ^^^^^^^^^^^^^^^^^^^^^
 
