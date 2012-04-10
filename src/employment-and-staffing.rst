@@ -10,14 +10,7 @@ Employment and staffing
 Policy
 ------
 
-We provide an induction for all *Staff* in order to brief them about:
 
-* the setting
-* the families we serve
-* our policies and procedures
-* our curriculum and daily practice
-
-Our staff are appropriately qualified and vetted.
 
 
 
@@ -48,8 +41,8 @@ Advertising the job
 For each one position at The Setting that is offered,
 the *Employing Staff Officer*:
 
-1. produces a `Job Description`_ for that position
-2. places advertisements in appropriate places,
+#. produces a `Job Description`_ for that position
+#. places advertisements in appropriate places,
    each advertisement including
    
    * a summary of the produced Job Description
@@ -58,7 +51,7 @@ the *Employing Staff Officer*:
    * a lower and upper bound for salary or wages
    * contact details
 
-3. notes a date by which the `interview phase`_ should begin.
+#. notes a date by which the `interview phase`_ should begin.
 
 
 Interview phase
@@ -67,9 +60,9 @@ Interview phase
 When the date set for entering the interview phase arrives,
 the *Employing Staff Officer*:
 
-1. if zero applicants contacted The Setting,
+#. if zero applicants contacted The Setting,
    stops.
-2. for each applicant,
+#. for each applicant,
    arranges a meeting at The Setting,
    to be attended by:
 
@@ -77,19 +70,26 @@ the *Employing Staff Officer*:
    * the *Employing Staff Officer*
    * the potential line manager of the applicant
 
-   in order for
+   in order for the applicant to
 
-   * the applicant to complete an `Interview Questionnaire`_
-   * the applicant to be subjected to
+   * complete an `Interview Questionnaire`_
+   * spend a minimum of three hours working in The Setting
+   * be subjected to interviews by 
 
-     1. an interview by the *Employing Staff Officer*
-     2. an interview by their potential line manager
+     #. the *Employing Staff Officer*
+     #. their potential line manager
      
      in which their answers on the Interview Questionnaire are discussed.
 
-3. arranges a meeting,
-   at a date not before
-   five working days after the final applicant interview date,
+
+Applicant evaluation phase
+``````````````````````````
+
+After all interviews have been made,
+the Employing Staff Officer will
+
+#. arrange a meeting,
+   at a date at least five working days after the final applicant interview date,
    to be attended by
 
    * the *Employing Staff Officer*
@@ -101,7 +101,12 @@ the *Employing Staff Officer*:
    * their suitability for the responsibilities in the Job Description
    * The Setting's `equality of opportunity <equality-of-opportunity.html>`_ policy
 
-4. `Offers the position to the successful applicant`_.
+#. after an applicant has been chosen,
+   checks their two references.
+   If the references are sufficiently bad,
+   go back to step 1.
+
+#. `Offers the position to the successful applicant`_.
 
 .. _Offers the position to the successful applicant: `Formally offering the position`_
 
@@ -112,29 +117,43 @@ Formally offering the position
 
 When the decision is made to offer a candidate a position,
 the *Employing Staff Officer*
-puts a formal offer in writing to the successful applicant,
-including
 
-* the start date
-* an exact salary or wage
-* the entire Job Description
-* two copies of a contract, requesting one be signed and returned
-* a deadline on which the job offer will become void if not accepted
+#. puts a formal offer in writing to the successful applicant,
+   including
 
-* We use Ofsted guidance on obtaining references and enhanced criminal record checks through the Criminal Records Bureau for staff and volunteers who will have unsupervised access to children,
-  and we carry out checks for criminal and other records through the Criminal Records Bureau in accordance with statutory requirements.
-* We keep all records relating to employment of staff and volunteers, in particular those demonstrating that checks have been done, including the date and number of the enhanced CRB check.
+   * the start date
+   * an exact salary or wage
+   * the entire Job Description
+   * two copies of a contract, requesting one be signed and returned
+   * a deadline on which the job offer will become void if not accepted
+
+#. obtains an enhanced Criminal Records Bureau check for the candidate,
+   which is kept securely including the date and number of the document.
+
+#. obtains copies of two forms of identification of the candidate
+   and places these in the Single Central Record.
 
 
-A staff member takes unexpected absence
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Induction
+`````````
 
-* In term time only settings, our staff take their holiday breaks when the setting is closed.
-  Where staff may need to take time off for any reason other than sick leave or training, this is agreed with the manager with sufficient notice.
-* In all year round settings, managers organise staff annual leave so that ratios are not compromised.
-* Where staff are unwell and take sick leave in accordance with their contract of employment, we organise cover to ensure ratios are maintained.
-* Sick leave is monitored and action is taken where necessary in accordance with the contract of employment.
-* We have contingency plans to cover staff absences, as follows:
+Before a candidate's first day at The Setting,
+they are given an induction in order to brief them about:
+
+* The Setting
+* the families The Setting serves
+* The Setting's Policies and Procedures,
+  including the Health and Safety policy and Safeguarding Children and Child Protection policy
+* The Setting's curriculum and daily practice
+
+..
+  Move to Staff Handbook:
+  A staff member takes unexpected absence
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  * Where staff are unwell and take sick leave in accordance with their contract of employment,
+    we organise cover to ensure ratios are maintained.
+  * Sick leave is monitored and action is taken where necessary in accordance with the contract of employment.
+  * Staff complete a sickness absence form.
 
 
 A staff member leaves
@@ -146,15 +165,17 @@ A staff member leaves
 Training and staff development
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Our *Setting Manager* holds the CACHE Level 3 Diploma in Pre-school Practice or an equivalent qualification
-* A minimum of half of our *Staff* hold the CACHE Level 2 Certificate in Pre-school Practice or an equivalent or higher qualification
-* We provide regular in-service training to all staff -- whether paid staff or volunteers
+..
+  not policies or procedures:
+  * The *Setting Manager* holds an International Diploma in Montessori Pedagogy
+    and the CACHE Level 3 Diploma in Pre-school Practice or an equivalent qualification.
+  * The Deputy Manager holds an International Diploma in Montessori Pedagogy,
+    a BA Hons. degree in Early Years,
+    and EYPS.
+
+* We provide regular in-service training to all staff and volunteers.
 * Our setting budget allocates resources to training.
-* We provide staff induction training in the first week of employment.
-  This induction includes our Health and Safety Policy and Safeguarding Children and Child Protection Policy.
-  Other policies and procedures will be introduced within an induction plan.
 * We support the work of our staff by holding regular supervision meetings and appraisals.
-* We are committed to recruiting, appointing and employing staff in accordance with all relevant legislation and best practice.
 
 
 
