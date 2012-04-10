@@ -20,24 +20,16 @@ Procedures
 ----------
 
 
-
 Assigning a Key Person
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Before the child begins their first day,
-they shall be entered on the `Key Person List`_,
-with the Key Person marked as *temporary*,
-and chosen as the first result when potential Key Persons are ordered as follows:
+they shall be entered on the `Key Person List`_.
+Their Key Person is chosen to minimize the number of sessions in which
+the child will not have their Key Person present.
 
-* Order ascending by
-  number of sessions in which
-  the child would not have their Key Person present
-* Key persons are assigned on a temporay basis for the first 6-7 weeks that the child attends.  After this period the key person is subject to change and is dependent upon the bonds and attachements formed by the child and staff to child ratios.    
-
-
-
-
-
+The child's Key Person is subject to change within the first 7 weeks,
+depending on the attachments formed by the child.
 
 
 Reshuffling Key Persons
@@ -59,13 +51,32 @@ Reshuffling Key Persons
    periodic reassignment to reflect the timetable.
 
 At the end of every term,
-the `Key Person List` may be reshuffled.
+the `Key Person List`_ may be reshuffled.
 
+
+The role of a Key Person
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+The role of the Key Person of child C is to
+
+* pass on information to C's parents, such as a summary of C's week at nursery
+* complete a Learning Journey, including
+
+  * photographs of C
+  * C's special work
+  * C's important development achievements
+
+* complete a report covering the Six Areas every academic year
+* complete a Leaver's Report when C leaves
+* build a bond with C
+* plan C's education using Montessori sheets and according to the EYFS areas
+* meet with C's parents in any necessary progress meetings
+* work in partnership with C's parents
+* work with the setting SENCO and any multi-professionals where necessary for C
 
 
 Documents
 ---------
-
 
 
 Key Person List
@@ -78,16 +89,3 @@ ordered by surname:
 * Name
 * Date of birth
 * Key Person
-* Whether the Key Person is temporary
-
-
-
-
------------
-
-Key Person
-  Defined in basis?
-
-
-Basis
------
