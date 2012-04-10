@@ -68,6 +68,9 @@ Prior to the first day of a new member of staff S,
   
 * gives S an induction sheet to complete with the first four weeks of attendance.
 
+* organizes for S to take online courses in
+
+  * Safeguarding
 
 
 
