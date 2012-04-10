@@ -162,23 +162,6 @@ A staff member leaves
 * We inform Ofsted of any changes in the person responsible for our setting.
 
 
-Training and staff development
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-..
-  not policies or procedures:
-  * The *Setting Manager* holds an International Diploma in Montessori Pedagogy
-    and the CACHE Level 3 Diploma in Pre-school Practice or an equivalent qualification.
-  * The Deputy Manager holds an International Diploma in Montessori Pedagogy,
-    a BA Hons. degree in Early Years,
-    and EYPS.
-
-* We provide regular in-service training to all staff and volunteers.
-* Our setting budget allocates resources to training.
-* We support the work of our staff by holding regular supervision meetings and appraisals.
-
-
-
 External documents
 ------------------
 
