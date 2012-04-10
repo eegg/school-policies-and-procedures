@@ -22,13 +22,13 @@ Procedures
 ----------
 
 
-
 Accessible information
 ^^^^^^^^^^^^^^^^^^^^^^
 
-We ensure that our advertisements are accessible by all sections of the community.
-Information about our setting is produced in multiple forms when necessary:
+Our advertisements are accessible by all sections of the community.
+Information about our setting is produced in multiple forms when necessary.
 
+..
   * in written and spoken form
   * in more than one language (and failing that, via an interpreter)
   * in Braille, or through British Sign Language
