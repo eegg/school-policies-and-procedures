@@ -54,6 +54,7 @@ Observation
 * For each child in our care, we observe the 6 areas of learning and development according to the Early Years Foundation Stage. 
 * Each child is observed according to their schema or interest they may have.
 * All children are observed when introduced and working with the Montessori activities.
+* These observations are either photographed or written up.
 
 
 Progress Reports/ Meetings

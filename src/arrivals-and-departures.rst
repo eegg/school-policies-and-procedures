@@ -57,9 +57,9 @@ Guardians must follow the following steps:
 #. The guardian must wait until the defined start of their booked session before they enter the property
 #. At the start time of the booked session, the guardian must signal their arrival at the *Setting Entrance*
 #. They must only enter the property when a *Staff Member* opens the door to them.
-#. The child is surrendered to the care of his *Key Person* and the guardian says Goodbye to the child.
-#. The parent signs the *Arrivals Sheet*, marking the time by the *Authoritative Clock*
-#. The parent exits the property via the *Setting Entrance* using the following procedure
+#. The child enters the classroom in the presence of a member of staff.
+#. The parent signs the *Arrivals Sheet*, marking the time by the *Authoritative Clock*.
+#. The parent exits the property via the *Setting Entrance* using the following procedure:
 
 The *Security Staff Member* will always be at the door, to:
 
