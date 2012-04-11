@@ -12,13 +12,9 @@ Parental involvement
 Definitions
 -----------
 
-+-------------------------+---------------------------------------------------------------------------+
-| Term                    | Definition                                                                |
-+=========================+===========================================================================+
-| Parental responsibility | All the rights, duties, powers and responsibilities and authority which   |
-+-------------------------+---------------------------------------------------------------------------+
-|                         | by law a parent of a child has in relation to the child and his property. |
-+-------------------------+---------------------------------------------------------------------------+
+Parental responsibility
+  All the rights, duties, powers and responsibilities and authority which
+  by law a parent of a child has in relation to the child and his property.
 
 
 Policy
@@ -52,6 +48,18 @@ Procedures
 * We welcome the contributions of parents, in whatever form these may take.
 * We inform all parents of the systems for registering queries, complaints or suggestions and check to ensure these are understood.
 * We provide opportunities for parents to learn about the curriculum offered in the setting and about young children's learning, in the setting and at home.
+* We communicate with parents with
+
+  * our home-school diaries
+  * our notice board in the entrance hall
+
+* We hold a regular Child Interest Week.
+* We organize
+
+  * social evenings
+  * sports days
+  * Christmas plays
+  * Easter Bonnet parade
 
 In compliance with the Welfare Requirements, the following documentation is in place:
 
