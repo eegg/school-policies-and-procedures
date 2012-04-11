@@ -61,7 +61,7 @@ The name of the Officer for the policy follows in parentheses.
       #. `Nutrition <nutrition.html>`_ (|Nutrition Officer|)
       #. `Children's rights and entitlements <childrens-rights-and-entitlements.html>`_
       #. `Looked-after children <looked-after-children.html>`_ (|Looked-After Children Officer|)
-      #. `Toiletting <toiletting.html>`_ (|Toiletting Officer|)
+      #. `Toileting <Toileting.html>`_ (|Toileting Officer|)
 
    #. **Safety**
 
@@ -97,7 +97,7 @@ That is, it lofty aim is to completely specify the behaviour that is required of
 such that |The Setting| can run stably and effectively.
 That is to say,
 neither the policies nor procedures are
-'passive' documents or dusty lawbooks.
+'passive' documents or dusty law books.
 The reason for their existence is to provide useful information
 for all parties to |The Setting|,
 to be accessed at any stage of any predicament,
@@ -115,7 +115,7 @@ to define how this document is used and enforced.
 This document carries three such meta-policies:
 
 * **Policy management.**
-  This sets out how this document is learned and revised
+  This sets out how this document is learnt and revised
   by the management and Staff that use it.
 * **Enforcement and discipline.**
   In the event that
@@ -183,7 +183,7 @@ Interspersed throughout the policy may be blocks of the following kinds:
   the explanation of what *should* be done in that situation.
 * **Explanations** in **green** boxes.
   It is not the purpose of this document to rationalise every procedure herein --
-  much of this rationalization underpins the legal documents that underpin this one --
+  much of this rationalisation underpins the legal documents that underpin this one --
   yet explanation will sometimes be required,
   such as where one procedure is read in isolation.
 * **Definitions** in **blue** boxes:
@@ -212,7 +212,7 @@ we can formulate some guidelines:
   and do not speak in the first person ('we').
 * Structure the document for the ease of use of the staff member,
   not the parent or any other entity.
-  The document will be learned and obeyed by members of staff.
+  The document will be learnt and obeyed by members of staff.
 * Do not end list elements with punctuation (commas, semi-colons, *etc.*)
 * Do not end list elements with logical operators ('or', or 'and') unless necessary
 * Do not use phrases like "staff should ...", or "we will endeavour that, where possible, ...".

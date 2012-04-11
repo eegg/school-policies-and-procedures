@@ -163,7 +163,7 @@ Water feature, pool, pond          Has a purpose-designed cover which cannot be 
 =================================  =========================================================================================
 
 
-Designing and maintaining moveable resources (liquid assets)
+Designing and maintaining movable resources (liquid assets)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: explanation
@@ -193,7 +193,7 @@ the *Site Manager* ensures that
 =================================  =========================================================================================
 Liquid asset                       Standards to which it must conform
 =================================  =========================================================================================
-Moveable resources                 Stored/stacked non-precariously
+Movable resources                  Stored/stacked non-precariously
 Sand                               Children's 'play sand'; clean and covered
 Paint, glue                        Non-toxic
 Sharp items                        A designated storage place, with the point facing the ground
@@ -208,7 +208,7 @@ Hygiene
 * We have a schedule for cleaning resources and equipment, dressing-up clothes and furnishings.
 * The toilet area has a high standard of hygiene including hand washing and drying facilities and the disposal of nappies.
 
-We implement good hygiene practices by:
+We implement good hygiene practises by:
 
 * cleaning tables between activities;
 * cleaning toilets regularly;
@@ -265,7 +265,7 @@ The fire bell is rung and children are helped to put down games/activities and w
 * Fire doors are never obstructed 
 * Details are recorded in the fire drill book 
 
-The fire procedure is displayed in the hall and all staff are familiar with the procedureStaff check all areas, pick up the register and phone and walk out with the children, where the children, staff and visitors are counted.
+The fire procedure is displayed in the hall and all staff are familiar with the procedure Staff check all areas, pick up the register and phone and walk out with the children, where the children, staff and visitors are counted.
 If necessary the fire brigade are called.
 Arrangements are made to monitor the condition of all fire prevention equipment regularly.
 This includes the visual inspection of fire extinguishers, and the testing of the fire alarm system.
@@ -300,7 +300,7 @@ An annual risk assessment will be made by the |Health and Safety Officer|. It wi
  * The otherwise disabled
 
 * Review the evacuation plan and each room's instructions for this
-* Look at the past year's records of fire practices
+* Look at the past year's records of fire practises
 * Ensure the provision of adequate training
 * Review the Fire Risk Assessment sheets
 * Review the provision of instruction to students or visitors to the building
@@ -455,7 +455,7 @@ Definitions
 Risks posed by organisms
 
   ==============================  ============================================  ==================================================================
-  Risk                            Minimizing risk                               Dealing with an incident
+  Risk                            Minimising risk                               Dealing with an incident
   ==============================  ============================================  ==================================================================
   Biting, scratching, venom       Understand the species' behavioural patterns  Call the emergency services
   Allergic reaction               Check known allergies before contact          As directed by the child's medical details

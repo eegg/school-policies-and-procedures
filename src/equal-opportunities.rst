@@ -170,8 +170,8 @@ A form with the following questions:
     * Consider more favourable treatment of disadvantaged children and adults?
   
   #. Are there any aspects of the setting's function, including what is provided or access, that could contribute to inequality?
-  #. Will the setting's activities have an inpact (positive or negative) upon the lives of people, including members of particular communities and groups? What evidence do you have for this?
-  #. Are children and families from particlar communities or groups likely to have different needs, experiences and attitudes in relation to the setting?
+  #. Will the setting's activities have an impact (positive or negative) upon the lives of people, including members of particular communities and groups? What evidence do you have for this?
+  #. Are children and families from particular communities or groups likely to have different needs, experiences and attitudes in relation to the setting?
   #. Does the setting have an Equality Working Group?
   #. Does the setting have a statement (vision) on equality?
   #. Does the setting have a Single Equality Scheme and action plan?
@@ -187,12 +187,12 @@ A form with the following questions:
   #. Are all vacancies formulated to attract a diverse range of applicants?
   #. Are there clear career progression routes for all staff members?
   #. Does the staff team reflect local diversity and under-representation?
-  #. Are individuals frrom under-represented groups on the management team?
+  #. Are individuals from under-represented groups on the management team?
   #. Are children's view sought and used on matters relating to their care and education?
   #. Is data collected on diversity (i.e. for funding and inspection purposes) and used effectively to make changes in the setting?
-  #. Does promotional literature take into account the needs of families using English as an additional langage and those with commuication and l;iteracy needs?
+  #. Does promotional literature take into account the needs of families using English as an additional language and those with communication and l;literacy needs?
   #. Are alternative forms of verbal and written communication available such as interpreting and translation services?
-  #. Are all staff able to access equality asnd diversity training and do all staff attend?
+  #. Are all staff able to access equality and diversity training and do all staff attend?
   #. Does the setting have access to relevant resources to meet the needs of disabled children such as standing frames?
   #. Does the setting have good links with all sections of the local community?
   #. Is the setting aware of the local government strategy on equality?
@@ -213,7 +213,7 @@ A form with the following questions:
 #. Approach to the building
 
   #. If relevant, are there disabled parking facilities?
-  #. Are kerbs lowered outside the bilding?
+  #. Are kerbs lowered outside the building?
   #. Is the entrance gate wide enough for wheelchair users (e.g. width of double buggy)?
   #. Are there orientation landmarks for visual impairment?
   #. Is the route clearly signed?
@@ -222,7 +222,7 @@ A form with the following questions:
   #. Are pathways clear of obstructions?
   #. Are all areas adequately lit?
   #. Do steps and handrails accompany ramps?
-  #. Are stemps suitable and highlighted for people with visual impairment?
+  #. Are steps suitable and highlighted for people with visual impairment?
   #. Are resting platforms available and highlighted?
   
 #. Entrances
@@ -430,8 +430,8 @@ Political opinion
 Admissions
 ^^^^^^^^^^
 
-* We describe our setting and its practices in terms that make it clear that it welcomes both fathers and mothers, other relations and other carers, including childminders.
-* We describe our setting and its practices in terms of how it treats each child and their family, having regard to their needs arising from their:
+* We describe our setting and its practises in terms that make it clear that it welcomes both fathers and mothers, other relations and other carers, including childminders.
+* We describe our setting and its practises in terms of how it treats each child and their family, having regard to their needs arising from their:
 
  * gender
  * special educational needs
@@ -441,7 +441,7 @@ Admissions
  * ethnicity
  * English being a newly acquired additional language
 
-* We describe our setting and its practices in terms of how it enables children and/or parents with disabilities to take part in the life of the setting.
+* We describe our setting and its practises in terms of how it enables children and/or parents with disabilities to take part in the life of the setting.
 
 
 Our setting is open to all members of the community.
@@ -476,9 +476,9 @@ Employment
 Training
 ^^^^^^^^
 
-* We seek out training opportunities for staff and volunteers to enable them to develop anti-discriminatory and inclusive practices, which enable all children to flourish.
+* We seek out training opportunities for staff and volunteers to enable them to develop anti-discriminatory and inclusive practises, which enable all children to flourish.
 * We ensure that staff are confident and fully trained in administering relevant medicines and performing invasive care procedures when these are required.
-* We review our practices to ensure that we are fully implementing our policy for promoting equality, valuing diversity and inclusion.
+* We review our practises to ensure that we are fully implementing our policy for promoting equality, valuing diversity and inclusion.
 
 
 Curriculum

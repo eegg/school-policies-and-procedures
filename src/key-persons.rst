@@ -25,7 +25,7 @@ Assigning a Key Person
 
 Before the child begins their first day,
 they shall be entered on the `Key Person List`_.
-Their Key Person is chosen to minimize the number of sessions in which
+Their Key Person is chosen to minimise the number of sessions in which
 the child will not have their Key Person present.
 
 The child's Key Person is subject to change within the first 7 weeks,

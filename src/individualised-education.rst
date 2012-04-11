@@ -27,7 +27,7 @@ Special Education Provision (SEP)
 Individual Education Plan (IEP)
   A child-specific document,
   created when the SEN is identified or suspected,
-  to guide staff in helping the child to realize
+  to guide staff in helping the child to realise
   specific goals within their SEN.
 
 Gifted
@@ -147,7 +147,7 @@ Policy
 * We meet the specific educational needs of all children,
   irrespective of whether the need is identified as a SEN.
 * Wherever possible,
-  SENs are accomodated by integration into (*via* differentiation),
+  SENs are accommodated by integration into (*via* differentiation),
   rather than segregation out of,
   our curriculum.
 * We work in partnership with children, guardians, and external agencies, ensuring:
@@ -166,7 +166,7 @@ Staff respond to children’s needs by:
 * helping children to manage their behaviour and to take part in learning effectively and safely
 * helping individuals to manage their emotions, particularly trauma or stress, and to take part in learning
 
-‘different from’ or ‘additional to’ those provided as part of the nursery’s usual working practices.
+‘different from’ or ‘additional to’ those provided as part of the nursery’s usual working practises.
 
 Wherever possible we do not withdraw children from the nursery situation. There are times, though, when to maximise learning, we ask the children to work in small groups, or in a one-to-one situation outside the main learning environment.
 
@@ -215,7 +215,7 @@ It may be entered *via* two routes:
 
 The stages are as follows:
 
-#. The *Setting SENCO* organizes a meeting, to include:
+#. The *Setting SENCO* organises a meeting, to include:
    
    * the *Setting SENCO*
    * guardians of the child
@@ -230,7 +230,7 @@ The stages are as follows:
      
      #. The *Setting SENCO* enters the child in the SEN Register.
      #. The *Setting SENCO* and the child's *Key Person* create a new *Individual SEN folder*.
-     #. The *Setting SENCO* organizes
+     #. The *Setting SENCO* organises
         a meeting to include:
         
         * The *Setting SENCO*
@@ -249,7 +249,7 @@ The stages are as follows:
   * A six-weekly IEP-creation cycle:
   
     #. The *Setting SENCO*
-       organizes a meeting with
+       organises a meeting with
        the guardians,
        the child's *Key Person*,
        the *Setting SENCO*,

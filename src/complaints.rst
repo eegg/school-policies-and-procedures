@@ -42,7 +42,7 @@ Stage 2
 
 * The parent puts the concerns or complaint in writing to |The Setting Manager|.
 * The setting stores written complaints from parents in the *Parent Correspondence Folder*.
-* When the investigation into the complaint is completed, |The Setting Manager| organizes a meeting, to include
+* When the investigation into the complaint is completed, |The Setting Manager| organises a meeting, to include
 
   * |The Setting Manager|
   * The complainant, and any desired friend, relative, or partner
@@ -58,7 +58,7 @@ Stage 3
 
 * If the complainant is not satisfied with the outcome,
   he requests a meeting with |The Setting Manager|,
-  and this is organized to include the same parties as in the previous meeting.
+  and this is organised to include the same parties as in the previous meeting.
 * An agreed written record of the discussion is made
   as well as any decision or action to take as a result.
   All of the parties present at the meeting sign the record and receive a copy of it.

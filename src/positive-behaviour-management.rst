@@ -60,7 +60,7 @@ We do not enforce our code of behaviour by:
 * punitive exclusion
 * labelling of the child
 * physical punishment
-* humilation
+* humiliation
 * forcing apologies
 
 We reduce the urge to inappropriate behaviour, by:
@@ -85,7 +85,7 @@ have to intervene physically in order to prevent them from coming to harm.
 This use of intervention will:
 
 * be reduced to a minimum
-* prioritize the safety of pupils and staff
+* prioritise the safety of pupils and staff
 * be the minimum necessary to resolve the situation
 * where appropriate, be reported
 
@@ -114,7 +114,7 @@ When designing the classroom:
   * adequate space and equipment should be given per child
 
 
-Educating minimization of conflict
+Educating minimisation of conflict
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 *Team Members* :
@@ -191,7 +191,7 @@ The use of *Physical strategy* always involves a risk assessment.
 More precisely, it is composed of two risk assessments:
 the risk of intervention,
 and the risk of not intervening.
-This is simultanously a decision procedure for deciding whether to use *Physical strategy*:
+This is simultaneously a decision procedure for deciding whether to use *Physical strategy*:
 compare the level of risk for each possible action.
 Given the immediate nature of the situations in which *Physical strategy* is necessary,
 these must always be a mental assessment.

@@ -22,7 +22,7 @@ are recorded
 where:
 
 * that information may beneficially contribute to the welfare of the child, or
-* that information must be transferrable between *Team Members* without immediate contact, or
+* that information must be transferable between *Team Members* without immediate contact, or
 * that process or action must be recorded for legal reasons.
 
 

@@ -42,7 +42,7 @@ Procedures
 Determining the time
 ^^^^^^^^^^^^^^^^^^^^
 
-In order that the actions of all staff and guardians are properly synchronized,
+In order that the actions of all staff and guardians are properly synchronised,
 everyone determines the time by the *Authoritative Clocks*, which we provide such that:
 
 * they are displayed above the signing in table and checked for accuracy on a daily basis

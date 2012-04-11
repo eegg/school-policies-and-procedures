@@ -20,7 +20,7 @@ Policy
 We are committed to opening our nursery on as many days as is possible.
 However, we recognise that opening may not always be possible.
 We also recognise that, when closure is caused by the weather, determination of this impossibility may have to happen at very short notice.
-We aim to manage our *Snow Days* so as to minimize the disruption that adverse weather has on our guardians and staff.
+We aim to manage our *Snow Days* so as to minimise the disruption that adverse weather has on our guardians and staff.
 
 The guiding principle to our procedures is the question: is the disruption caused by calling a *Snow Day* less than the disruption caused by *not* calling it?
 

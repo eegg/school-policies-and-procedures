@@ -84,8 +84,8 @@ Documents
 ^^^^^^^^^
 
 
-Allergy documents
-`````````````````
+Allergy Records
+```````````````
 
 Documents are maintained of known allergens,
 containing the following information:
@@ -102,6 +102,9 @@ A summary list of these is kept
 * next to each snack area
 * in the kitchen
 
+
+Injury Monitoring Form
+``````````````````````
 
 
 Regularly Administered Medication List
@@ -400,7 +403,7 @@ Receiving the Health Details Card
 When a Health Details Card is received,
 the *Illnesses and medication Officer*:
 
-#. updates the `Allergy List`_
+#. updates the `Allergy Records`_
 #. ensures all noted medicinal items
    fulfil the `Stored medication checklist`_
 
@@ -418,7 +421,7 @@ the *Illnesses and medication Officer*:
      
    * adds it to the `Regularly Administered Medication List`_
    
-   * organizes a meeting,
+   * organises a meeting,
      to include:
     
      * the *Illnesses and medication Officer*
@@ -445,7 +448,7 @@ the *Illnesses and medication Officer*:
      and to, if deemed necessary,
      complete a `Health Issue Care Plan`_.
      
-   * organizes a meeting,
+   * organises a meeting,
      to include:
      
      * the child's *Key Person*
@@ -527,13 +530,13 @@ Maintaining a healthy environment
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Allergy List procedures
-```````````````````````
+Allergy Records procedures
+``````````````````````````
 
 All guardians and collectors
 of children at |The Setting|
 are made aware of the
-`Allergy List`_,
+`Allergy Records`_,
 and informed that:
 
 * none of the items therein may be brought into the grounds of |The Setting|
@@ -558,7 +561,7 @@ When anything (including clothing, nappies, and pants) is soiled with:
 
 * blood
 * urine
-* faeces
+* feces
 * vomit
 
 a designated *Team Member*:
@@ -626,7 +629,7 @@ FAST symptoms
 
 * **F** ace: itchiness, redness, swelling
 * **A** irway: trouble breathing, swallowing, speaking
-* **S** tomach: pain, vomiting or diarrhea
+* **S** tomach: pain, vomiting or diarrhoea
 * **T** otal: hives, rash, itchiness, swelling, weakness, paleness, sense of doom, loss of consciousness
 
 
@@ -821,7 +824,7 @@ Before going on an outing:
   ensures that
   the following are taken:
   
-  * The `Allergy List`_
+  * The `Allergy Records`_
   * The `Regularly Administered Medication List`_
   * The `Medication Record Book`_
   * The Non-prescription medication permission list
@@ -835,7 +838,7 @@ for example with asthma,
 they should be encouraged to tell their key person what they need.
 However, this does not replace staff vigilance in knowing and responding when a child requires medication.
 
-Guardians are made aware of the `Allergy List`_.
+Guardians are made aware of the `Allergy Records`_.
 
 
 See also

@@ -27,7 +27,7 @@ We also aim to support guardians in their own education and development.
 Some guardians are less well represented in early years settings.
 These include fathers, guardians living apart from their children but involved in their lives, and working guardians.
 We will ensure all parents are included.
-This means taking different strategies for involving differet types of guardian.
+This means taking different strategies for involving different types of guardian.
 
 
 Procedures
@@ -54,7 +54,7 @@ Procedures
   * our notice board in the entrance hall
 
 * We hold a regular Child Interest Week.
-* We organize
+* We organise
 
   * social evenings
   * sports days

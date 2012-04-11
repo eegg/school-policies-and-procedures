@@ -52,7 +52,7 @@ Prior to the first day of a new member of staff S,
 
   * use electrical and cleaning equipment safely
   * complete planning for individual children and discussion times for all ages
-  * observe and record a child's learning using written and photograohed observations
+  * observe and record a child's learning using written and photographed observations
   * prepare snacks and set out lunches safely
   * open and close the door to families
   * find and complete the register, medication, accident and incident and accidents at home files
@@ -61,14 +61,14 @@ Prior to the first day of a new member of staff S,
 * shows S all of the Setting's Policies and Procedures.
   S will be asked to sign to state that he/she has read, understood and will abide by them.
 
-* organizes a small workshop regarding Safeguarding,
+* organises a small workshop regarding Safeguarding,
   after which S will receive a Safeguarding pack.
 
-* organizes a fire drill in which S will take part.
+* organises a fire drill in which S will take part.
   
 * gives S an induction sheet to complete with the first four weeks of attendance.
 
-* organizes for S to take online courses in
+* organises for S to take online courses in
 
   * Safeguarding
 

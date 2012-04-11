@@ -38,7 +38,7 @@ a new environment and new expectations made upon them.
 Procedures
 ----------
 
-* The designated person for looked after children is the designated child protection co-ordinator.
+* The designated person for looked after children is the designated child protection co-coordinator.
 * Every child is allocated a key person before they start and this is no different for a looked after child.
   The designated person ensures the key person has the information, support and training necessary to meet the looked after child’s needs.
 * The designated person and the key person liaise with agencies, professionals and practitioners involved with the child and his family and ensures appropriate information is gained and shared.

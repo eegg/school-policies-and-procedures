@@ -20,7 +20,7 @@
 .. |The Local Council Telephone Number|                     replace:: 0845 743 0430
 
 .. |The Local Safeguarding Children Board|                  replace:: Essex Social Care Direct, Children Social Care
-.. |The Local SafeGuarding Children Board Telephone Number| replace:: 0845 603 7627
+.. |The Local Safeguarding Children Board Telephone Number| replace:: 0845 603 7627
 
 .. |The Director of Children's Services|                    replace:: Mr. Malcolm Newsam
 .. |The Director of Children's Services Telephone Number|   replace:: 01245 431 893
@@ -28,7 +28,7 @@
 .. |Social Services|                                        replace:: Essex County Council Social Services
 .. |Social Services Telephone Number|                       replace:: 01245 434 375
 
-.. |Area SENCO|                                             replace:: Shiela Brodie
+.. |Area SENCO|                                             replace:: Sheila Brodie
 .. |Area SENCO Telephone Number|                            replace:: 07717 867 103
 
 
@@ -69,7 +69,7 @@
 .. |Illnesses and Medication Officer|       replace:: Gaynor Sloan, Siobhan Brine
 .. |Nutrition Officer|                      replace:: Gaynor Sloan, Siobhan Brine
 .. |Looked-After Children Officer|          replace:: Gaynor Sloan, Siobhan Brine
-.. |Toiletting Officer|                     replace:: Gaynor Sloan, Siobhan Brine
+.. |Toileting Officer|                     replace:: Gaynor Sloan, Siobhan Brine
 .. |Risk Assessment Officer|                replace:: Gaynor Sloan, Siobhan Brine
 .. |Safeguarding Officer|                   replace:: Siobhan Brine
 .. |Security Officer|                       replace:: Gaynor Sloan, Siobhan Brine
@@ -93,7 +93,7 @@
 .. |The Staff Training Officer|                 replace:: The Staff Training Officer (|Staff Training Officer|)
 .. |The Student Placements Officer|             replace:: The Student Placements Officer (|Student Placements Officer|)
 .. |The Complaints Officer|                     replace:: The Complaints Officer (|Complaints Officer|)
-.. |The Admissions Officer|                     replace:: The Admisions Officer (|Admissions Officer|)
+.. |The Admissions Officer|                     replace:: The Admissions Officer (|Admissions Officer|)
 .. |The Arrivals and Departures Officer|        replace:: The Arrivals and Departures Officer (|Arrivals and Departures Officer|)
 .. |The Confidentiality Officer|                replace:: The Confidentiality Officer (|Confidentiality Officer|)
 .. |The Incident Officer|                       replace:: The Incident Officer (|Incident Officer|)
@@ -105,7 +105,7 @@
 .. |The Illnesses and Medication Officer|       replace:: The Illnesses and Medication Officer (|Illnesses and Medication Officer|)
 .. |The Nutrition Officer|                      replace:: The Nutrition Officer (|Nutrition Officer|)
 .. |The Looked-After Children Officer|          replace:: The Looked-After Children Officer (|Looked-After Children Officer|)
-.. |The Toiletting Officer|                     replace:: The Toiletting Officer (|Toiletting Officer|)
+.. |The Toileting Officer|                     replace:: The Toileting Officer (|Toileting Officer|)
 .. |The Risk Assessment Officer|                replace:: The Risk Assessment Officer (|Risk Assessment Officer|)
 .. |The Safeguarding Officer|                   replace:: The Safeguarding Officer (|Safeguarding Officer|)
 .. |The Security Officer|                       replace:: The Security Officer (|Security Officer|)

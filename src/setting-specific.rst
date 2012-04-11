@@ -10,7 +10,7 @@ Setting-specific information
 Throughout our policies you will find terms that inevitably have to be defined in the context of our nursery.
 For example, while all nurseries should have a "health and safety team", it's not good enough to leave it at that: who is in this team?
 In this section you will find all definitions that are nursery-specific.
-References in other sections to these definitions will be in *Capitalized Italics*.
+References in other sections to these definitions will be in *Capitalised Italics*.
 
 
 Setting information
@@ -237,7 +237,7 @@ Outings                                   |Outings Officer|
 Illnesses and medication                  |Illnesses and Medication Officer|
 Nutrition                                 |Nutrition Officer|
 Looked-after children                     |Looked-After Children Officer|
-Toiletting                                |Toiletting Officer|
+Toileting                                 |Toileting Officer|
 Risk assessment                           |Risk Assessment Officer|
 Safeguarding                              |Safeguarding Officer|
 Security                                  |Security Officer|

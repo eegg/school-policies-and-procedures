@@ -86,7 +86,7 @@ When a visitor V announces his arrival at *The Setting* via the intercom,
      a legitimate reason for visiting; and
    * Either:
 
-     * A *Staff Member* recognizes V
+     * A *Staff Member* recognises V
        as a *Child Collector* of a *Child* booked in at that time,
        by comparison with photos in the *Enrolment Form* for that *Child*.
        In this case, V is a **Visiting Child Collector**.
@@ -284,7 +284,7 @@ A document containing:
 
 * Incidents at home sheets
 * Incident observation sheets
-* Multi-agency correspendence
+* Multi-agency correspondence
 
 
 Definitions

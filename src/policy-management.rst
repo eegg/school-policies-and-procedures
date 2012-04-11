@@ -67,7 +67,7 @@ Each policy is revised annually by its Officer.
 
 ..
   When a policy is signed,
-  an evaluation meeting is organized for that date the following year.
+  an evaluation meeting is organised for that date the following year.
   This meeting may be moved forward by the policy's *Officer*.
   The evaluation meeting includes:
   * *Setting Manager*
@@ -77,7 +77,7 @@ Each policy is revised annually by its Officer.
   At the meeting, the policy is:
   * subjected to all amendments in the *Policy Amendment Appendix*
   * checked for internal consistency
-  * checked for any inconsistencies or redundance compared to other policies,
+  * checked for any inconsistencies or redundancy compared to other policies,
     and any are marked on those other policies' *Amendment Lists*
   * signed by the *Setting Manager* and *Policy Officer*.
 

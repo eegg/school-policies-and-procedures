@@ -364,7 +364,7 @@ These rules must be read in conjunction with the contract of employment (or stat
 4. All employees must attend punctually and regularly.
 
 
-5. Repeated short periods of absence, including repeated episodes of uncertified sick leave, will be investigated and may leave to disciplinary action.
+5. Repeated short periods of absence, including repeated episodes of un-certified sick leave, will be investigated and may leave to disciplinary action.
 
 
 6. The distance from an employee’s home to their place of work or any difficulty or access can not be accepted as a reason for arriving late at work, irregularity of attendance or warranting preferential hours of work.
@@ -417,7 +417,7 @@ Employees must not:
 
 
 
-1. use any liquid correcting fluid (e.g. Tipex) or any other correction tape or product on any hand written document or record, including Service User records, diary notes or reports. ( *n.b.*  All mistakes must be clearly crossed out in pen and the correct entry written in pen. No attempt must be made to hide or conceal the original text).
+1. use any liquid correcting fluid (e.g. Tippex) or any other correction tape or product on any hand written document or record, including Service User records, diary notes or reports. ( *n.b.*  All mistakes must be clearly crossed out in pen and the correct entry written in pen. No attempt must be made to hide or conceal the original text).
 
 
 2. knowingly or through neglect make any false, misleading or inaccurate oral or written statement or entry in any record or document.

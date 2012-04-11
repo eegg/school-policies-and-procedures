@@ -29,7 +29,7 @@ Issues covered by this grievance procedure
   2. health and safety;
   3. work relationships between colleagues or managers;
   4. bullying and harassment;
-  5. new working practices;
+  5. new working practises;
   6. working environment;
   7. organisational change; and
   8. equal opportunities.
