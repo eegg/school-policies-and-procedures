@@ -43,7 +43,6 @@ to include:
 * Underwear, plus spare
 * Polo neck T-shirt, plus spare
 * School coat
-* School bag
 * Black pumps
 * Wellington boots
 * Outdoor shoes
