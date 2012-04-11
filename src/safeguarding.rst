@@ -38,15 +38,21 @@ Procedures
 A Team Member is hired
 ^^^^^^^^^^^^^^^^^^^^^^
 
-When a new *Team Member* is hired, |The Safeguarding Officer| requires:
+When a new *Team Member* is hired,
 
-* 'enhanced' disclosure checks with the Criminal Records Bureau, and
-* a minimum of two written references from 
+* |The Safeguarding Officer| requires:
 
-  * a previous employer, or
-  * an educational establishment.
+  * an enhanced Criminal Records Bureau check, and
+  * a minimum of two written references from 
 
-|The Safeguarding Officer| allows the applicant to challenge the information.
+    * a previous employer, or
+    * an educational establishment.
+
+  |The Safeguarding Officer| allows the applicant to challenge the information.
+
+* the Team Member takes part in an induction
+  which includes a small Safeguarding workshop,
+  after which they are given a Safeguarding pack.
 
 
 Observing Team Members
