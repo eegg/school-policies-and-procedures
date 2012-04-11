@@ -52,7 +52,10 @@ A child joins
 ^^^^^^^^^^^^^
 
 * Our Enrolment Form requires details of dietary needs and preferences.
-* |The Nutrition Officer| transfers these needs and preferences to the dietary sheet.
+* |The Nutrition Officer| transfers these needs and preferences to
+
+  * the dietary sheet
+  * the food preferences and allergy list
 
 
 Daily preparation
