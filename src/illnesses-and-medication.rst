@@ -39,7 +39,7 @@ has four parts, ensuring for children and *Team Members* that:
    we provide limited 
    `administering of medication`_
 
-In our setting staff are able to take action to apply first aid treatment in the event of an accident involving a child or adult.
+In our setting staff are able to take action to apply first aid treatment in the event of an injury involving a child or adult.
 At least one member of staff with current first aid training is on the premises or on an outing at any one time.
 The first aid qualification includes first aid training for infants and young children.
 
@@ -84,11 +84,10 @@ Documents
 ^^^^^^^^^
 
 
-Allergy List
-````````````
+Allergy documents
+`````````````````
 
-A list is maintained
-of known allergens,
+Documents are maintained of known allergens,
 containing the following information:
 
 * Name of person with allergy
@@ -97,6 +96,12 @@ containing the following information:
   what sort of interaction is necessary for symptoms to arise
 * Symptoms
 * Response
+
+A summary list of these is kept
+
+* next to each snack area
+* in the kitchen
+
 
 
 Regularly Administered Medication List
@@ -143,7 +148,8 @@ containing the following:
   accurate to the minute,
   of administration
 
-* Of the *Staff Member* administering the medication,
+* Of the Staff Member administering the medication,
+  and the Staff Member witnessing the administration,
   
   * Name
   * Signature 
@@ -152,6 +158,7 @@ containing the following:
   
   * Name
   * Signature 
+
 
 
 Health Details Card
@@ -329,8 +336,8 @@ to include:
   * Signature
 
 
-Health Issue Care Plan 
-```````````````````````````
+Health Issue Care Plan
+``````````````````````
 
 A form completed by the *Illnesses and medication Officer*
 and the guardians of the child,
@@ -361,12 +368,12 @@ including:
   * Signature
 
 
-Accident book
-`````````````
+Injury book
+```````````
 
 * is kept safely and accessibly;
 * is accessible to all staff and volunteers, who know how to complete it; and
-* is reviewed at least half termly to identify any potential or actual hazards.
+* is reviewed termly to identify any potential or actual hazards.
 
 
 
@@ -475,7 +482,7 @@ the *Illnesses and medication Officer*:
 Stored medication checklist
 ```````````````````````````
 
-* are stored in the *Medication Cabinet* or the refrigerator in the locked kitchen
+* are stored in the *Medication Cabinet* or the refrigerator in the kitchen
 
 * have been administered to the child
   for at least 48 hours
@@ -561,13 +568,9 @@ a designated *Team Member*:
    * single-use vinyl gloves
    * an apron
 
-#. Assesses any soiled clothing,
-   and either:
-   
-   * rinses it
-   * bags it
-   * launders it
-
+#. Assesses any soiled clothing.
+#. removes any solids.
+#. either bags it or launders it.
 #. Cleans everything contaminated using mild disinfectant solution and mops
 #. Disposes of with the clinical waste:
   
@@ -721,21 +724,36 @@ If an emergency condition is identified
    #. makes a report to the Health and Safety Executive using the RIDDOR format
 
 
-An accident happens
-^^^^^^^^^^^^^^^^^^^
+An injury happens
+^^^^^^^^^^^^^^^^^
 
-When an accident happens to a child and a Team Member has identified the need to have the child collected by the parent or the emergency services, the Team Member will decide if it is necessary to have the child transported to hospital without the guardian if the guardian has not arrived within a period of not more than 1 hour following the accident.
-It may be necessary, in the interests of the child, to transport the child immediately to hospital and, in this case, Team Members will await the arrival of the emergency services in order to do this and the guardians will be informed to meet us at the hospital.
-Team Members will administer first-aid to attend to the immediate safety and well-being of the child before the emergency services or guardians arrive. Team Members will monitor the child's condition using an 'accident monitoring form' and will continually reassess the situation until either the emergency services or the guardian arrives.
-If first-aid has stabilised the child's condition, the guardian has been successfully contacted and advised that they will need to collect the child, take the child immediately to a Healthcare Professional and is on their way to the setting, Team Members will await the arrival of the guardian up to, but not exceeding a period of 1 hour following the accident.  After this period has elapsed, the emergency services will be called.
+When an injury happens to a child:
 
-In all cases:
+#. a Team Member identifies whether
+   the child must be collected by the parent
+   or by the emergency services.
+#. Team Members will continually reassess the child's condition,
+   with the aid of an `Injury Monitoring Form`_.
+#. If, one hour following the injury,
+   the guardian has not arrived
+   and the child still requires professional care,
+   the emergency services will be called, and
+   the guardian will be told to meet us at the hospital.
+#. Team Members will administer first-aid
+   to attend to the immediate safety and well-being of the child
+   before the emergency services or guardians arrive.
+#. A member of staff records an entry in the `Injury Book`_.
+#. That member of staff shows the entry to a superior.
+#. When the child is collected,
+   the staff member notifies the collector,
+   and asks the collector to sign in the Injury Book.
 
-* The child's guardian is contacted to inform them of the accident
-* A member of staff records all details in the `Accident Book`_.
-* When the child is collected,
-  the staff member notifies the collector,
-  and asks the collector to sign in the Accident Book.
+
+Identifying patterns of injury
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The `Injury Monitoring Form`_ is used
+to identify a child's behaviour.
 
 
 Administering medication
@@ -748,19 +766,13 @@ Administration of on-going medication
 All Team Members are aware of
 the children's details on the `Regularly Administered Medication List`_.
 At the times at which medication is to be administered,
-the Team Member:
+a qualified member of staff:
 
-
-#. Records, in the `Medication Record Book`_:
-
-   * name of child
-   * name and strength of medication
-   * the date and time of dose
-   * dose given and method
-   * signature of the Team Member, a witness and the guardian
-
-#. Returns the medication to the *Medication Cabinet*.
-#. Takes note to ensure that
+#. finds another member of staff to witness the administration
+#. administers the medication
+#. records, with the witness, an entry in the `Medication Record Book`_
+#. returns the medication to the Medication Cabinet
+#. takes note to ensure that
    guardians sign the `Medication Record Book`_
    at the end of the day.
 
@@ -768,7 +780,7 @@ the Team Member:
 Maintaining the Medication Cabinet
 ``````````````````````````````````
 
-Every month,
+Every term,
 the *Illnesses and medication Officer*:
 
 #. Checks of the `First-Aid Box`_ that it:
